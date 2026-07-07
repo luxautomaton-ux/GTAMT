@@ -69,7 +69,7 @@ const CreatorKitPreview = ({ setPage }) => {
             src="./videos/postcard-vd.mp4"
             className="w-full h-full object-cover"
           />
-          <img src="./images/postcard-bg.webp" className="absolute z-10 inset-0 w-full h-full object-fill pointer-events-none" alt="" />
+          <img src="./images/overlay.webp" className="absolute z-10 inset-0 w-full h-full object-fill pointer-events-none" alt="" />
           <button
             onClick={() => {
               setPage('media-vault');

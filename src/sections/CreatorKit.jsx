@@ -69,7 +69,7 @@ const CreatorKitSection = () => {
             src="./videos/postcard-vd.mp4"
             className="w-full h-full object-cover"
           />
-          <img src="./images/postcard-bg.webp" className="absolute z-10 inset-0 w-full h-full object-fill pointer-events-none" alt="" />
+          <img src="./images/overlay.webp" className="absolute z-10 inset-0 w-full h-full object-fill pointer-events-none" alt="" />
           <button
             onClick={() => document.getElementById('media-vault')?.scrollIntoView({ behavior: 'smooth' })}
             className="font-round-bold uppercase rounded-full bg-white text-black absolute left-1/2 -translate-x-1/2 bottom-8 px-6 py-3 text-sm hover:scale-105 transition duration-300"
