@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Lana Vice OS neon command background">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#061426"/>
+      <stop offset=".52" stop-color="#16091f"/>
+      <stop offset="1" stop-color="#050711"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" x2="1">
+      <stop offset="0" stop-color="#43e7ff"/>
+      <stop offset=".55" stop-color="#ff3d94"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#sky)"/>
+  <path d="M0 520 C260 430 430 580 660 500 C850 435 1000 390 1200 450 L1200 700 L0 700Z" fill="#09101f"/>
+  <path d="M0 562 C300 478 468 620 680 540 C860 472 1018 430 1200 492" fill="none" stroke="url(#road)" stroke-width="6" opacity=".8"/>
+  <g opacity=".32" stroke="#43e7ff" stroke-width="1">
+    <path d="M120 120H430M180 170H520M720 110H1030M660 180H1120"/>
+    <path d="M210 80V310M340 60V260M910 70V310M1040 90V280"/>
+  </g>
+  <circle cx="930" cy="180" r="92" fill="#ff3d94" opacity=".14"/>
+  <text x="80" y="620" fill="#f9fbff" font-family="Arial Black, Impact, sans-serif" font-size="54">VICE OS</text>
+</svg>

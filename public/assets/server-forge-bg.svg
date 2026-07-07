@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-label="Server Forge neon infrastructure background">
+  <rect width="1000" height="620" fill="#050711"/>
+  <g fill="#09101f" stroke="#43e7ff" stroke-opacity=".32">
+    <rect x="80" y="160" width="190" height="290" rx="10"/>
+    <rect x="405" y="90" width="190" height="400" rx="10"/>
+    <rect x="730" y="190" width="190" height="240" rx="10"/>
+  </g>
+  <g stroke="#ff3d94" stroke-width="4" fill="none">
+    <path d="M270 235H405M595 235H730"/>
+    <path d="M270 330H405M595 330H730"/>
+  </g>
+  <g fill="#5dffb1">
+    <circle cx="175" cy="235" r="8"/>
+    <circle cx="500" cy="235" r="8"/>
+    <circle cx="825" cy="235" r="8"/>
+    <circle cx="175" cy="330" r="8"/>
+    <circle cx="500" cy="330" r="8"/>
+    <circle cx="825" cy="330" r="8"/>
+  </g>
+  <text x="72" y="555" fill="#f9fbff" font-family="Arial Black, Impact, sans-serif" font-size="52">SERVER FORGE</text>
+  <text x="74" y="586" fill="#aab7ce" font-family="Inter, Arial, sans-serif" font-size="18">txAdmin · framework · database · firewall · Discord</text>
+</svg>

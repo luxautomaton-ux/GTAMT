@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="GTA Money Team calculator card background">
+  <rect width="900" height="520" rx="24" fill="#050711"/>
+  <g fill="none" stroke-width="2" opacity=".65">
+    <path d="M80 390 C210 270 335 330 450 220 C560 116 692 146 820 80" stroke="#43e7ff"/>
+    <path d="M80 430 C250 350 330 420 482 320 C640 216 740 270 830 190" stroke="#5dffb1"/>
+    <path d="M80 470 C250 410 410 438 552 370 C696 300 760 340 830 292" stroke="#ff3d94"/>
+  </g>
+  <g fill="#ffd166" opacity=".14">
+    <circle cx="190" cy="146" r="54"/>
+    <circle cx="705" cy="388" r="72"/>
+  </g>
+  <text x="58" y="82" fill="#43e7ff" font-family="Arial Black, Impact, sans-serif" font-size="38">REVENUE MODEL</text>
+  <text x="60" y="126" fill="#aab7ce" font-family="Inter, Arial, sans-serif" font-size="18">legal routes · paid services · templates</text>
+</svg>
