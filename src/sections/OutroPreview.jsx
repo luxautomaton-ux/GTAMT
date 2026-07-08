@@ -19,12 +19,16 @@ const OutroPreview = ({ setPage }) => {
   });
 
   return (
-    <section className="final-message outro-preview-section flex flex-col items-center justify-start py-32 px-6 bg-black">
+    <section className="final-message outro-preview-section branded-home-backdrop brand-backdrop-bottom flex flex-col items-center justify-start py-32 px-6 bg-black">
       <div className="w-full max-w-7xl mx-auto flex flex-col gap-16 items-center">
         
         {/* Title branding */}
         <div className="flex flex-col items-center gap-6 text-center">
-          <img src="./images/logo.webp" alt="logo" className="md:w-72 w-52" />
+          <div className="bottom-brand-stack">
+            <img src="./images/lux-automaton-logo.png" alt="Lux Automaton" />
+            <img src="./images/lux-agent-logo.png" alt="Lux Agent" />
+            <img src="./images/gta-money-team-logo.png" alt="GTA Money Team" />
+          </div>
           <h3 className="gradient-title">
             GTA <br /> MONEY TEAM
           </h3>

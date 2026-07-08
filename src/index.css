@@ -73,17 +73,17 @@ main {
     @apply w-dvw h-dvh relative overflow-hidden;
 
     .scale-out {
-      @apply object-cover md:scale-115 h-full;
-      object-position: 10% center;
+      @apply object-cover md:scale-105 h-full;
+      object-position: 10% 5%;
     }
     .title-logo {
       @apply absolute w-64 md:w-96 top-[10%] left-1/2 -translate-x-1/2 object-contain;
     }
     .trailer-logo {
-      @apply absolute -bottom-5 w-48 left-1/2 -translate-x-1/2;
+      @apply absolute z-30 -bottom-5 w-48 left-1/2 -translate-x-1/2;
     }
     .play-img {
-      @apply rounded-full md:size-28 size-20 bg-white absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex justify-center items-center;
+      @apply rounded-full z-30 md:size-28 size-20 bg-white absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex justify-center items-center;
     }
     .fake-logo-wrapper {
       @apply absolute z-50 xs:top-[9.5rem] sm:top-[12.8rem] md:top-[8.5rem] 2xl:top-44 3xl:top-48 left-1/2 -translate-x-1/2;
@@ -256,12 +256,19 @@ main {
 }
 
 .entrance-message {
+  pointer-events: none;
   mask-image: radial-gradient(circle at 50% 100vh, black 0%, transparent 0%);
   -webkit-mask-image: radial-gradient(circle at 50% 100vh, black 0%, transparent 0%);
   mask-repeat: no-repeat;
   -webkit-mask-repeat: no-repeat;
   mask-size: 100% 100%;
   -webkit-mask-size: 100% 100%;
+}
+
+.mask-logo,
+.fake-logo-wrapper,
+.overlay-logo {
+  pointer-events: none;
 }
 
 .mask-wrapper {

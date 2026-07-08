@@ -34,7 +34,11 @@ const CalculatorsPreview = ({ setPage }) => {
   });
 
   return (
-    <section className="lucia-life calc-preview-section">
+    <section className="lucia-life calc-preview-section branded-home-backdrop brand-backdrop-revenue">
+      <div className="home-brand-watermark" aria-label="GTA Money Team revenue estimators branding">
+        <img src="./images/gta-money-team-logo.png" alt="GTA Money Team" />
+        <img src="./images/lux-automaton-logo.png" alt="Lux Automaton" />
+      </div>
       <div className="flex flex-col gap-10 items-start img-box lg:w-1/2 ps-10 mt-96">
         <div className="lucia-1">
           <img src="./images/lb-photo-5.jpg" alt="Lana command center preview" />

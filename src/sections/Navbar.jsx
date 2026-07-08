@@ -9,6 +9,8 @@ const Navbar = ({ page, setPage }) => {
     ['server-forge', 'Server Forge'],
     ['calculators', 'Calculators'],
     ['streaming-academy', 'Streaming Academy'],
+    ['training-workshop', 'Workshop'],
+    ['media-vault', 'Media Vault'],
     ['scam-firewall', 'Scam Firewall'],
     ['member-activation', 'Member Access'],
     ['affiliate-stack', 'Affiliate Stack'],

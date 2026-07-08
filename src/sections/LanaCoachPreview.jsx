@@ -34,7 +34,11 @@ const LanaCoachPreview = ({ setPage }) => {
   });
 
   return (
-    <section className="jason lana-preview-section">
+    <section className="jason lana-preview-section branded-home-backdrop brand-backdrop-lana">
+      <div className="home-brand-watermark" aria-label="Lux Agent powered by Lux Automaton">
+        <img src="./images/lux-agent-logo.png" alt="Lux Agent" />
+        <img src="./images/lux-automaton-logo.png" alt="Lux Automaton" />
+      </div>
       <div className="max-w-lg jason-content text-left">
         <span className="font-mono text-pink text-xs uppercase block mb-3">// AI Strategy Coach</span>
         <h1>Lana Agent</h1>
