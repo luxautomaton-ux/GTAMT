@@ -66,20 +66,6 @@ const OutroPreview = ({ setPage }) => {
               Open Radar
             </button>
           </div>
-
-          <div className="p-6 border border-white/10 rounded bg-white/5 flex flex-col justify-between items-center">
-            <strong className="block text-white uppercase text-lg mb-2">Scam Firewall</strong>
-            <p className="text-white/60 text-xs mb-4">Filter out fake beta keys, crypto coin scams, and malicious downloads safely.</p>
-            <button
-              onClick={() => {
-                setPage('investor-radar');
-                window.scrollTo({ top: 0, behavior: 'instant' });
-              }}
-              className="px-4 py-2 bg-green text-black text-xs font-semibold uppercase rounded hover:bg-white transition duration-300"
-            >
-              Security Check
-            </button>
-          </div>
         </div>
 
         {/* Platforms */}

@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { createPortal } from 'react-dom';
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
 
@@ -129,9 +130,9 @@ const Hero = () => {
 
       <ComingSoon />
 
-      {isPlaying && (
+      {isPlaying && createPortal(
         <div
-          className="fixed inset-0 z-[999] bg-black/90 backdrop-blur-md flex items-center justify-center p-4"
+          className="fixed inset-0 z-[10000] bg-black/90 backdrop-blur-md flex items-center justify-center p-4"
           onClick={() => setIsPlaying(false)}
         >
           <button
@@ -151,7 +152,9 @@ const Hero = () => {
               title={launchTrailer.title}
               controls
               autoPlay
+              muted
               playsInline
+              preload="auto"
               className="w-full h-full"
             />
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 p-4 bg-black border-t border-white/10">
@@ -169,7 +172,8 @@ const Hero = () => {
               </a>
             </div>
           </div>
-        </div>
+        </div>,
+        document.body
       )}
     </section>
   );

@@ -23,19 +23,13 @@ import OutroPreview from './sections/OutroPreview';
 import LanaCoach from './sections/LanaCoach';
 import Calculators from './sections/Calculators';
 import TemplatesShop from './sections/TemplatesShop';
-import gtaBanner from './assets/gta-money-team-banner.jpg';
 import marinaBg from './assets/gta-money-team-lana-marina-bg.jpg';
 import officeBg from './assets/gta-money-team-lana-office-bg.jpg';
 import sunsetwalkBg from './assets/gta-money-team-lana-sunsetwalk-bg.jpg';
 import nightcarBg from './assets/gta-money-team-lana-nightcar-bg.jpg';
 import rooftopBg from './assets/gta-money-team-lana-rooftop-bg.jpg';
 
-const lanaGroupHud = './images/lana-group-hud.jpg';
-const lanaHeli = './images/lana-marina-heli.jpg';
-const lanaCommandCenter = './images/lana-command-center.png';
-const lanaRooftopTablet = './images/lana-rooftop-tablet.jpg';
-const lanaNightCar = './images/lana-night-car.jpg';
-const brandBackdrop = './images/gta-money-team-brand-backdrop.png';
+const brandBackdrop = './images/gta-money-team-city-billboard-backdrop.png';
 const luxAutomatonLogo = './images/lux-automaton-logo.png';
 const luxAgentLogo = './images/lux-agent-logo.png';
 const gtaMoneyTeamLogo = './images/gta-money-team-logo.png';
@@ -49,13 +43,10 @@ const pageBackgrounds = {
   'launch-funnel':      marinaBg,
   'calculators':        officeBg,
   'server-lab':         officeBg,
-  'server-forge':       officeBg,
   'creator-kit':        rooftopBg,
   'media-vault':        marinaBg,
   'investor-radar':     officeBg,
   'template-shop':      sunsetwalkBg,
-  'affiliate-stack':    sunsetwalkBg,
-  'scam-firewall':      nightcarBg,
   'member-activation':  nightcarBg,
   'streaming-academy':  rooftopBg,
   'training-workshop':  rooftopBg,
@@ -91,16 +82,6 @@ const pageProfiles = {
     stats: [['35', 'product SKUs'], ['23', 'city packs'], ['ZIP', 'delivery ready']],
     rail: ['City pack vault', 'Regional packs', 'Checkout placeholders', 'Related offers'],
   },
-  'server-forge': {
-    label: 'Server Forge',
-    title: 'Build the server business',
-    description: 'A txAdmin-first build lab for hosting, frameworks, Discord, database safety, server products, and launchable operator workflows.',
-    signal: 'Forge sequence',
-    accent: '#43e7ff',
-    accent2: '#5dffb1',
-    stats: [['7', 'build steps'], ['QBCore', 'starter path'], ['30120', 'port plan']],
-    rail: ['Hosting path', 'Framework choice', 'Discord pack', 'Server productization'],
-  },
   calculators: {
     label: 'Calculators',
     title: 'Show them the money',
@@ -131,16 +112,6 @@ const pageProfiles = {
     stats: [['6', 'courses'], ['24+', 'lessons'], ['XP', 'quiz engine']],
     rail: ['Route labs', 'Server money', 'Creator systems', 'Course exports'],
   },
-  'scam-firewall': {
-    label: 'Scam Firewall',
-    title: 'Protect the member base',
-    description: 'A red-flag checker and safety rule system for fake beta keys, malicious downloads, fake coins, leaked assets, and wallet scams.',
-    signal: 'Threat filter',
-    accent: '#ff4f5f',
-    accent2: '#ffd166',
-    stats: [['10', 'risk flags'], ['0', 'fake tokens'], ['100%', 'source checks']],
-    rail: ['Claim scanner', 'Safe source rules', 'Crypto firewall', 'Member education'],
-  },
   'member-activation': {
     label: 'Member Access',
     title: 'Premium access control',
@@ -150,16 +121,6 @@ const pageProfiles = {
     accent2: '#5dffb1',
     stats: [['Premium', 'demo tier'], ['GMT', 'access code'], ['Webhook', 'next backend']],
     rail: ['Code unlock', 'Checkout return', 'Premium gate', 'Backend handoff'],
-  },
-  'affiliate-stack': {
-    label: 'Affiliate Stack',
-    title: 'Trusted partner revenue',
-    description: 'Map approved hosting, Tebex, overlays, editing, and creator tools into member offers without pushing risky or fake products.',
-    signal: 'Partner layer',
-    accent: '#5dffb1',
-    accent2: '#43e7ff',
-    stats: [['4', 'partner lanes'], ['Clean', 'offer policy'], ['Upsell', 'service attach']],
-    rail: ['Hosting offers', 'Tebex path', 'Creator tools', 'Service attach'],
   },
   'launch-funnel': {
     label: 'Launch Funnel',
@@ -457,27 +418,6 @@ const memberTiers = [
   ['Free', '$0', 'Basic guides, scam warnings, public launch boards, and starter calculators.'],
   ['Premium', '$9-$19/mo', 'All tools, template vault access, Discord setup pack, OBS templates, and priority requests.'],
   ['Launch-Ready', '$299+', 'DFY server pack, custom economy, support month, and operator handoff call.'],
-];
-
-const serverForgeSteps = [
-  ['VPS / Hosting', 'Choose ZAP-Hosting, Hetzner, or a managed FiveM host. Add affiliate links only after approval.'],
-  ['Artifacts', 'Download the recommended FiveM server artifacts from runtime.fivem.net and pin the version in your changelog.'],
-  ['txAdmin', 'Start the server, open txAdmin, link your Cfx.re account, and create a staging profile first.'],
-  ['Framework', 'Deploy QBCore for modern defaults or ESX when your community already knows that ecosystem.'],
-  ['Database', 'Create a MariaDB/MySQL database, separate admin credentials, and automatic backups.'],
-  ['Firewall', 'Open port 30120 on TCP and UDP, lock down database access, and document restart windows.'],
-  ['Discord', 'Create a bot, invite it, add Bot Token and Guild ID in txAdmin, then enable status embeds or whitelisting.'],
-];
-
-const discordTemplate = [
-  '#rules',
-  '#announcements',
-  '#general',
-  '#applications',
-  '#support-tickets',
-  '#staff-log',
-  '#vip-lounge',
-  '#txadmin-status',
 ];
 
 const streamingChecklist = [
@@ -1048,7 +988,17 @@ function MediaVaultPage() {
           </div>
         </div>
         <div className="media-feature-player">
-          <video src={activeVideo.video} poster={activeVideo.poster} controls playsInline />
+          <video
+            key={activeVideo.video}
+            src={activeVideo.video}
+            poster={activeVideo.poster}
+            controls
+            autoPlay
+            muted
+            loop
+            playsInline
+            preload="auto"
+          />
           <div>
             <span>{activeVideo.category}</span>
             <strong>{activeVideo.title}</strong>
@@ -1254,8 +1204,8 @@ function MemberServicesPage({ onRequest, setPage }) {
             Sell downloadable ZIPs for QBCore/ESX starter packs, Discord setup templates, OBS scene collections, and setup videos. Buyer delivery can start as a protected member page, then move to Stripe/PayPal fulfillment when checkout credentials are ready.
           </p>
         </div>
-        <button onClick={() => setPage('server-forge')} className="px-5 py-3 bg-green text-black text-xs font-semibold uppercase rounded hover:bg-white transition duration-300">
-          Open Server Forge
+        <button onClick={() => setPage('template-shop')} className="px-5 py-3 bg-green text-black text-xs font-semibold uppercase rounded hover:bg-white transition duration-300">
+          Open Template Shop
         </button>
       </div>
       <div className="mt-4 flex flex-wrap gap-3">
@@ -1265,56 +1215,6 @@ function MemberServicesPage({ onRequest, setPage }) {
         <button onClick={() => setPage('lux-ops')} className="px-4 py-2 border border-white/15 text-white/50 text-xs font-semibold uppercase rounded hover:text-white hover:border-white/30">
           Internal Ops Desk
         </button>
-      </div>
-    </div>
-  );
-}
-
-function ServerForgePage({ onRequest }) {
-  return (
-    <div className="text-left w-full">
-      <span className="font-mono text-pink text-xs uppercase block mb-3">// Server Forge</span>
-      <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">FiveM Server Creation Guide</h1>
-      <p className="text-white/70 text-sm mb-8 max-w-3xl">
-        A txAdmin-first build path for legal RP communities: hosting, artifacts, frameworks, database, firewall, Discord, and sellable templates. Rockstar currently lists GTA VI for November 19, 2026, so this is the pre-launch build window.
-      </p>
-      <div className="server-stepper">
-        {serverForgeSteps.map(([title, text], index) => (
-          <article key={title}>
-            <span>{index + 1}</span>
-            <strong>{title}</strong>
-            <p>{text}</p>
-          </article>
-        ))}
-      </div>
-      <div className="mt-8 grid lg:grid-cols-2 gap-6">
-        <div className="p-6 border border-cyan/25 rounded-lg bg-cyan/5">
-          <strong className="block text-cyan text-2xl uppercase mb-3">Discord Setup Template</strong>
-          <p className="text-white/65 text-xs leading-relaxed mb-5">
-            Productize a ready Discord server with whitelist roles, VIP access, staff roles, support tickets, txAdmin status embeds, rules, and applications.
-          </p>
-          <div className="grid grid-cols-2 gap-2 mb-5">
-            {discordTemplate.map((channel) => (
-              <span key={channel} className="px-3 py-2 rounded border border-white/10 bg-black/50 text-white/60 text-xs">{channel}</span>
-            ))}
-          </div>
-          <button onClick={() => onRequest('Discord Setup Template')} className="px-5 py-3 border border-cyan/40 text-cyan text-xs font-semibold uppercase rounded hover:bg-cyan/10">
-            Request Discord Pack
-          </button>
-        </div>
-        <div className="p-6 border border-pink/25 rounded-lg bg-pink/5">
-          <strong className="block text-pink text-2xl uppercase mb-3">Sellable Server Pack</strong>
-          <p className="text-white/65 text-xs leading-relaxed mb-5">
-            Package a branded QBCore/ESX ZIP with environment checklist, import SQL, resource manifest, Discord template, txAdmin config notes, and setup video.
-          </p>
-          <div className="space-y-3 text-white/60 text-xs">
-            <p>Affiliate slots: ZAP-Hosting, Tebex, managed VPS hosts, and OBS plugin bundles.</p>
-            <p>Lana handoff: "Vice OS says: build small, test daily, and never install a script you cannot explain."</p>
-          </div>
-          <button onClick={() => onRequest('Basic DFY Template')} className="mt-5 px-5 py-3 bg-pink text-black text-xs font-semibold uppercase rounded hover:bg-white transition duration-300">
-            Request Template Build
-          </button>
-        </div>
       </div>
     </div>
   );
@@ -1345,51 +1245,6 @@ function StreamingAcademyPage({ onRequest }) {
         <button onClick={() => onRequest('OBS Scene Collection')} className="px-5 py-3 bg-cyan text-black text-xs font-semibold uppercase rounded hover:bg-white transition duration-300">
           Request OBS Pack
         </button>
-      </div>
-    </div>
-  );
-}
-
-function ScamFirewallPage() {
-  const [claim, setClaim] = useState('free GTA coins beta key download');
-  const redFlags = ['beta', 'coin', 'crypto', 'wallet', 'free', 'download', 'leak', 'key', 'nft', 'airdrop'];
-  const hits = redFlags.filter((flag) => claim.toLowerCase().includes(flag));
-  const risk = hits.length >= 3 ? 'Critical' : hits.length >= 1 ? 'Review Required' : 'Low Signal';
-
-  return (
-    <div className="text-left w-full">
-      <span className="font-mono text-pink text-xs uppercase block mb-3">// Scam Firewall</span>
-      <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">Red-Flag Checker</h1>
-      <p className="text-white/70 text-sm mb-8 max-w-3xl">
-        Check beta keys, fake GTA coins, malicious downloads, leaked resources, wallet links, and too-good-to-be-true server offers before your members touch them.
-      </p>
-      <div className="grid lg:grid-cols-[1fr_0.8fr] gap-6">
-        <div className="p-6 border border-red-400/30 rounded-lg bg-red-400/5">
-          <label className="block text-white/60 text-xs uppercase font-semibold mb-3" htmlFor="scam-claim">Paste offer or claim</label>
-          <textarea
-            id="scam-claim"
-            value={claim}
-            onChange={(event) => setClaim(event.target.value)}
-            className="w-full min-h-36 bg-black border border-white/15 rounded p-4 text-white text-sm"
-          />
-          <div className="mt-5 p-5 border border-white/10 rounded bg-black/60">
-            <span className="font-mono text-red-300 text-[10px] uppercase">risk result</span>
-            <strong className="block text-3xl text-red-300 uppercase my-2">{risk}</strong>
-            <p className="text-white/60 text-xs leading-relaxed">
-              Matched flags: {hits.length ? hits.join(', ') : 'none'}. Always verify against Rockstar, Cfx.re, Tebex, and official publisher channels before paying or downloading.
-            </p>
-          </div>
-        </div>
-        <div className="p-6 border border-green/25 rounded-lg bg-green/5">
-          <strong className="block text-green text-2xl uppercase mb-4">Safe Source Rules</strong>
-          <ul className="space-y-3 text-white/65 text-xs leading-relaxed">
-            <li>No official GTA token, wallet drop, or beta coin.</li>
-            <li>No random executable, "early build", or passworded archive.</li>
-            <li>No seller gets paid before ownership, terms, and support path are clear.</li>
-            <li>No leaked assets or stolen paid scripts in server packs.</li>
-            <li>No claims without dated source links.</li>
-          </ul>
-        </div>
       </div>
     </div>
   );
@@ -1438,31 +1293,6 @@ function MemberActivationPage({ membership, setMembership, latestOrder }) {
             {latestOrder ? `${latestOrder.product} via ${latestOrder.provider} is recorded as ${latestOrder.status}.` : 'No checkout return recorded yet. Add ?checkout=success&product=Premium to the URL to test.'}
           </p>
         </div>
-      </div>
-    </div>
-  );
-}
-
-function AffiliateStackPage() {
-  const partners = [
-    ['Hosting', 'ZAP-Hosting / VPS hosts', 'Server Forge affiliate CTA for managed FiveM hosting.'],
-    ['Tebex', 'Authorized FiveM monetization direction', 'Route server store products through a backend or Tebex Headless API later.'],
-    ['Streaming', 'OBS plugins / overlays', 'Offer setup kits and creator tools from Streaming Academy.'],
-    ['Creator Tools', 'Editing, thumbnails, assets', 'Bundle legal guide templates with content production offers.'],
-  ];
-
-  return (
-    <div className="text-left w-full">
-      <span className="font-mono text-pink text-xs uppercase block mb-3">// Affiliate Stack</span>
-      <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">Partner Revenue Layer</h1>
-      <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-6">
-        {partners.map(([title, partner, text]) => (
-          <article key={title} className="template-card">
-            <span className="font-mono text-cyan text-[10px] uppercase">{title}</span>
-            <strong>{partner}</strong>
-            <p>{text}</p>
-          </article>
-        ))}
       </div>
     </div>
   );
@@ -1990,7 +1820,7 @@ const fullWorkshopUpgrades = {
         title: 'Traffic to Revenue',
         xp: 260,
         objective: 'Connect views to legal offers.',
-        content: 'Revenue comes from connecting content to a fitting offer. A scam-warning video can point to Scam Firewall or membership. A route video can point to a route planner. A server video can point to DFY setup or city packs. A creator tutorial can point to OBS templates. The CTA must be specific to the viewer problem.',
+        content: 'Revenue comes from connecting content to a fitting offer. A safety-warning video can point to membership or a trust checklist. A route video can point to a route planner. A server video can point to DFY setup or city packs. A creator tutorial can point to OBS templates. The CTA must be specific to the viewer problem.',
         steps: ['Match each content pillar to one product.', 'Create one landing destination.', 'Add CTA line to scripts.', 'Track link clicks.', 'Review conversions weekly.'],
         checklist: ['Every video has one CTA', 'CTA matches topic', 'Links tracked', 'Offer page explains outcome'],
         keyAnswers: ['Revenue is topic-match plus trust plus CTA.', 'One CTA usually converts better than five.', 'Content should pre-sell the product page.'],
@@ -3278,18 +3108,12 @@ function renderSubpage(page, helpers) {
       return <CreatorKitPage />;
     case 'template-shop':
       return <TemplatesShop />;
-    case 'server-forge':
-      return <ServerForgePage onRequest={helpers.onRequest} />;
     case 'streaming-academy':
       return <StreamingAcademyPage onRequest={helpers.onRequest} />;
     case 'training-workshop':
       return <TrainingWorkshopPage />;
-    case 'scam-firewall':
-      return <ScamFirewallPage />;
     case 'member-activation':
       return <MemberActivationPage membership={helpers.membership} setMembership={helpers.setMembership} latestOrder={helpers.orders[0]} />;
-    case 'affiliate-stack':
-      return <AffiliateStackPage />;
     case 'launch-funnel':
       return <LaunchFunnelPage onCampaignSaved={helpers.onCampaignSaved} />;
     case 'media-vault':
