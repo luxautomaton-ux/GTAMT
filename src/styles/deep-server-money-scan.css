@@ -1,0 +1,285 @@
+.gmt-deep-scan {
+  min-height: 100vh;
+  padding: clamp(18px, 3vw, 38px);
+  color: #f9fbff;
+  background:
+    radial-gradient(circle at top left, rgba(255, 42, 179, 0.18), transparent 28rem),
+    radial-gradient(circle at 80% 10%, rgba(0, 229, 255, 0.14), transparent 26rem),
+    linear-gradient(135deg, rgba(5, 5, 7, 0.86) 0%, rgba(16, 18, 34, 0.82) 48%, rgba(26, 9, 32, 0.86) 100%);
+}
+
+.gmt-deep-scan * {
+  box-sizing: border-box;
+}
+
+.gmt-deep-hero,
+.gmt-deep-scan .gmt-panel,
+.gmt-deep-scan .deep-product-card,
+.gmt-deep-scan .deep-signal-card {
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.035));
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.36), inset 0 1px rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(18px);
+}
+
+.gmt-deep-hero {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(28px, 5vw, 68px);
+}
+
+.gmt-deep-hero::after {
+  position: absolute;
+  right: -12%;
+  bottom: -45%;
+  width: 520px;
+  height: 520px;
+  pointer-events: none;
+  content: "";
+  background: radial-gradient(circle, rgba(255, 215, 64, 0.22), transparent 65%);
+}
+
+.gmt-deep-scan .eyebrow {
+  margin: 0 0 10px;
+  color: #00e5ff;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.gmt-deep-scan h1 {
+  max-width: 920px;
+  margin: 0 0 20px;
+  font-size: clamp(2.4rem, 7vw, 6.8rem);
+  line-height: 0.9;
+}
+
+.gmt-deep-scan h2 {
+  margin: 0 0 12px;
+  font-size: clamp(1.7rem, 3vw, 3rem);
+}
+
+.gmt-deep-scan h3 {
+  margin: 0 0 10px;
+  font-size: 1.35rem;
+}
+
+.gmt-deep-scan p {
+  color: rgba(249, 251, 255, 0.78);
+  line-height: 1.62;
+}
+
+.gmt-deep-scan .hero-actions,
+.gmt-deep-scan .gmt-tabs,
+.gmt-deep-scan .pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.gmt-deep-scan button {
+  min-height: 42px;
+  padding: 12px 18px;
+  color: #07080d;
+  font-weight: 900;
+  cursor: pointer;
+  background: linear-gradient(90deg, #00e5ff, #ff2ab3);
+  border: 0;
+  border-radius: 6px;
+  box-shadow: 0 12px 30px rgba(0, 229, 255, 0.18);
+}
+
+.gmt-deep-scan button.ghost,
+.gmt-deep-scan .gmt-tabs button {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: none;
+}
+
+.gmt-deep-scan .gmt-tabs {
+  margin: 22px 0;
+}
+
+.gmt-deep-scan .gmt-tabs button.active {
+  color: #080910;
+  background: #fff;
+}
+
+.gmt-deep-scan .panel-stack {
+  display: grid;
+  gap: 18px;
+}
+
+.gmt-deep-scan .gmt-panel {
+  padding: clamp(20px, 3vw, 34px);
+}
+
+.gmt-deep-scan .panel-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.gmt-deep-scan .panel-head input,
+.gmt-deep-scan .calc-grid input {
+  width: min(100%, 360px);
+  padding: 12px 14px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.32);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 8px;
+}
+
+.gmt-deep-scan .notice,
+.gmt-deep-scan .compliance-note {
+  padding: 12px 16px;
+  background: rgba(255, 215, 64, 0.08);
+  border-left: 3px solid #ffd740;
+  border-radius: 8px;
+}
+
+.gmt-deep-scan .signal-grid,
+.gmt-deep-scan .deep-product-grid,
+.gmt-deep-scan .metric-grid,
+.gmt-deep-scan .calc-grid {
+  display: grid;
+  gap: 16px;
+}
+
+.gmt-deep-scan .signal-grid {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  margin-top: 18px;
+}
+
+.gmt-deep-scan .deep-product-grid {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.gmt-deep-scan .deep-signal-card,
+.gmt-deep-scan .deep-product-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.gmt-deep-scan .deep-signal-card {
+  padding: 22px;
+}
+
+.gmt-deep-scan .deep-product-card > img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.gmt-deep-scan .deep-product-card-body,
+.gmt-deep-scan .deep-content-card {
+  padding: 22px;
+}
+
+.gmt-deep-scan .rank {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  color: #ffd740;
+  font-weight: 900;
+}
+
+.gmt-deep-scan .pill-row span {
+  padding: 6px 10px;
+  color: #9ff5ff;
+  font-size: 0.82rem;
+  background: rgba(0, 229, 255, 0.08);
+  border: 1px solid rgba(0, 229, 255, 0.24);
+  border-radius: 999px;
+}
+
+.gmt-deep-scan .deep-product-card ul {
+  padding-left: 20px;
+  color: rgba(249, 251, 255, 0.78);
+}
+
+.gmt-deep-scan .calculator-panel {
+  display: grid;
+  gap: 22px;
+}
+
+.gmt-deep-scan .calc-grid {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.gmt-deep-scan .calc-grid label {
+  display: grid;
+  gap: 8px;
+  color: rgba(249, 251, 255, 0.85);
+  font-weight: 700;
+}
+
+.gmt-deep-scan .calc-grid input {
+  width: 100%;
+}
+
+.gmt-deep-scan .metric-grid {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.gmt-deep-scan .metric-grid div {
+  padding: 18px;
+  background: rgba(0, 0, 0, 0.28);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+}
+
+.gmt-deep-scan .metric-grid span {
+  display: block;
+  margin-bottom: 6px;
+  color: rgba(249, 251, 255, 0.62);
+}
+
+.gmt-deep-scan .metric-grid strong {
+  font-size: 1.55rem;
+}
+
+.gmt-deep-scan .metric-grid .total {
+  background: linear-gradient(135deg, rgba(0, 229, 255, 0.16), rgba(255, 42, 179, 0.16));
+  border-color: rgba(255, 255, 255, 0.24);
+}
+
+.gmt-deep-scan .rules-list {
+  display: grid;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.gmt-deep-scan .rule-item {
+  display: flex;
+  gap: 14px;
+  padding: 16px;
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+}
+
+.gmt-deep-scan .rule-item strong {
+  color: #ff2ab3;
+}
+
+@media (max-width: 720px) {
+  .gmt-deep-scan {
+    padding: 14px;
+  }
+
+  .gmt-deep-scan .panel-head {
+    align-items: stretch;
+  }
+
+  .gmt-deep-scan .panel-head input {
+    width: 100%;
+  }
+}

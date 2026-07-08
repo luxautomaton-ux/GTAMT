@@ -134,7 +134,7 @@ const LanaCoach = () => {
             <span className="font-mono text-pink text-[10px] uppercase block">// Agent Profile</span>
             <strong className="block text-white uppercase text-lg mt-1">Lana OS v1.2</strong>
             <p className="text-white/50 text-xs mt-2 leading-relaxed">
-              Serving as the official interactive strategy guide for GTA Money Team operators. Programmed by Lux Automaton.
+              Your interactive strategy guide for legal money routes, creator systems, server planning, and workshop decisions.
             </p>
           </div>
         </div>

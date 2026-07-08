@@ -84,3 +84,13 @@ We integrated custom high-resolution graphics to match the dark neon aesthetic:
   Found 0 warnings and 0 errors.
   Finished in 121ms on 27 files.
   ```
+
+---
+
+## 🚀 Brightened & Stretched Launch Board Backdrops
+
+We have updated the background images on all Launch Board (home page) sections (including `LanaCoachPreview`, `CalculatorsPreview`, and `OutroPreview`) to stretch across the full sections and show much brighter:
+- **Backdrop Stretching & Tiling Prevention:** Configured the background image scaling properties to `100% 100% !important` with `background-repeat: no-repeat !important;` on all Launch Board sections, ensuring the Vice City backdrop photo stretches to fit the full bounds of each section perfectly without repeating/tiling.
+- **Overlay Brightening:** Dramatically reduced the opacity of the dark linear and radial gradient overlays, allowing the detailed background photos to shine through brightly while maintaining clean contrast and readability for the white headers and copy.
+- **Drift Animation Removal:** Removed the sliding background-position keyframe drift animation to prevent any empty gaps/seams when stretching the photo.
+- **Explicit CSS Properties:** Split the composite `background` shorthand property into individual, explicit declarations (`background-image`, `background-size`, `background-repeat`, `background-color`) to eliminate browser parsing quirks and ensure standard compliance across Blink/WebKit viewports.

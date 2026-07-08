@@ -2,7 +2,7 @@ import cityPackCatalog from './cityPackCatalog.js';
 import regionalCityPackCatalog from './regionalCityPackCatalog.js';
 
 const legalNote = 'No cheats, mod menus, stolen assets, fake coins, or exploit claims. Everything is legal strategy, templates, setup guidance, and fulfillment.';
-const cityPackLegalNote = 'FiveM currently supports GTA V custom servers. GTA 6-inspired branding is marketing only; these products are original FiveM RP city identity packs with placeholders and legal setup guidance.';
+const cityPackLegalNote = 'Built for current FiveM RP server workflows with GTA-inspired branding, original city identities, and legal setup guidance.';
 
 const formatLabel = (value) => String(value)
   .split('_')
@@ -64,13 +64,13 @@ const cityPackProducts = cityPackCatalog.map((city) => {
     title: city.title,
     subtitle: 'FiveM RP city identity pack',
     image: `./assets/city-pack-art/${city.id}.png`,
-    description: `${city.tag}. Includes city concept, districts, landmarks, factions, police placeholders, weather, payout model, Discord setup, and FiveM install notes.`,
+    description: `${city.tag}. Includes city concept, districts, landmarks, factions, police fleet planning, weather, payout model, Discord setup, and FiveM install notes.`,
     cardHighlights: [city.inspired_by, city.money[0], `${city.landmarks.length} landmarks + ${city.streets.length} districts`],
     includes: ['City concept README', 'city_config.lua', 'server-snippet.cfg', 'Discord template', 'Sales page copy', 'Security notes'],
     delivery: 'Instant ZIP-style city identity pack for FiveM / GTA V RP, with optional DFY install and Discord setup upsells.',
-    whatItIs: `${city.title} is an original premium FiveM RP starter city identity pack. It gives server owners a ready concept, fictional factions, street grid, landmarks, weather rotation, police fleet placeholders, legal economy loops, crew payout splits, Discord setup, and install notes without cloned server assets or ripped branding.`,
+    whatItIs: `${city.title} is an original premium FiveM RP city identity pack. It gives server owners a ready concept, fictional factions, street grid, landmarks, weather rotation, police fleet planning, legal economy loops, crew payout splits, Discord setup, and install notes without cloned server assets or ripped branding.`,
     howItWorks: 'Use the city pack as your server identity blueprint, then connect licensed resources, QBCore or ESX, owned vehicle assets, MLOs, EUP, and hosting through your normal FiveM stack. The pack helps you sell a clear city concept before you spend weeks inventing lore, channels, roles, payout rules, and launch copy.',
-    howToInstall: ['Download the city pack after checkout.', 'Copy city_config.lua into resources/[gmt]/gmt_city_engine/config/active_city.lua.', 'Paste server-snippet.cfg lines into your server.cfg.', 'Start or restart gmt_city_engine.', 'Test /citypack, /landmarks, /gangs, /streets, /payouts, /policefleet, and /securitycheck.', 'Replace placeholder police fleets and map assets with licensed or owned resources.'],
+    howToInstall: ['Download the city pack after checkout.', 'Copy city_config.lua into resources/[gmt]/gmt_city_engine/config/active_city.lua.', 'Paste server-snippet.cfg lines into your server.cfg.', 'Start or restart gmt_city_engine.', 'Test /citypack, /landmarks, /gangs, /streets, /payouts, /policefleet, and /securitycheck.', 'Customize the police fleet and map assets with licensed or owned resources.'],
     howToMakeMoney: ['Sell the single city pack as a starter identity product.', 'Upsell Discord setup, txAdmin install, QBCore/ESX configuration, and launch QA.', 'Use the legal money loops as server business roles, VIP events, and member retention systems.', 'Bundle multiple city packs as the City Vault for higher-ticket buyers.', 'Offer monthly economy tuning, security hardening, and faction balancing support.'],
     content: `# ${city.title} Premium City Pack
 
@@ -112,7 +112,7 @@ Install:
 2. Copy server-snippet.cfg lines into your server.cfg.
 3. Start or restart the gmt_city_engine resource.
 4. Test /citypack, /landmarks, /gangs, /streets, /payouts, /policefleet, and /securitycheck.
-5. Replace placeholder police vehicles, logos, maps, and paid scripts with assets you own or license.
+5. Customize police vehicles, logos, maps, and paid scripts with assets you own or license.
 
 Money path:
 Single city pack sale, DFY Discord setup, txAdmin install, custom server identity, City Vault bundle, and monthly economy tuning.
@@ -154,7 +154,7 @@ const regionalCityPackProducts = regionalCityPackCatalog.map((city) => {
     delivery: 'Instant regional FiveM / GTA V RP city identity pack with optional Discord setup, install, custom city build, and monthly support upsells.',
     whatItIs: `${city.premium_name} is an original regional FiveM RP starter city identity pack for ${city.region}. It gives server owners a sellable city concept, regional landmarks, fictional factions, starter jobs, weather plan, Discord structure, security posture, pricing ladder, and setup notes without ripped cars, copied server files, real gang branding, or stolen police logos.`,
     howItWorks: 'Sell the ZIP as a starter city identity pack, then attach higher-ticket services: Discord setup, installed server identity, custom build work, support, security hardening, and economy tuning. The pack is the blueprint; Lux Automaton can use it to deliver a cleaner paid build for serious FiveM server customers.',
-    howToInstall: ['Download the regional city pack after checkout.', 'Copy city_config.lua into resources/[gmt]/gmt_city_engine/config/active_city.lua.', 'Paste server-snippet.cfg lines into your server.cfg.', 'Start or restart gmt_city_engine.', 'Test /citypack, /landmarks, /streets, /factions, /payouts, /weatherplan, /moneyloops, and /securitycheck.', 'Replace placeholders with licensed or owned vehicles, maps, EUP, scripts, and logos before public launch.'],
+    howToInstall: ['Download the regional city pack after checkout.', 'Copy city_config.lua into resources/[gmt]/gmt_city_engine/config/active_city.lua.', 'Paste server-snippet.cfg lines into your server.cfg.', 'Start or restart gmt_city_engine.', 'Test /citypack, /landmarks, /streets, /factions, /payouts, /weatherplan, /moneyloops, and /securitycheck.', 'Customize vehicles, maps, EUP, scripts, and logos with licensed or owned assets before public launch.'],
     howToMakeMoney: [`Sell the single regional City Pack ZIP for $${city.pricing.zip}.`, `Upsell Discord setup for $${city.pricing.discord}.`, `Sell installed server identity setup for $${city.pricing.install}.`, `Use the pack as the base for custom city builds from $${city.pricing.custom}+.`, `Offer monthly support, security, and economy tuning at $${city.pricing.support}/mo.`, 'Bundle multiple regional packs into a higher-ticket City Vault offer.'],
     content: `# ${city.premium_name} Regional City Pack
 
@@ -201,7 +201,7 @@ ${roles.map((item) => `- ${item}`).join('\n')}
 Weather rotation:
 ${city.weather.map((item) => `- ${item}`).join('\n')}
 
-Police placeholders:
+Police fleet planning:
 ${police.map((item) => `- ${item}`).join('\n')}
 
 Install:
@@ -209,7 +209,7 @@ Install:
 2. Copy server-snippet.cfg lines into your server.cfg.
 3. Start or restart the gmt_city_engine resource.
 4. Test /citypack, /landmarks, /streets, /factions, /payouts, /weatherplan, /moneyloops, and /securitycheck.
-5. Replace placeholder police vehicles, logos, maps, and paid scripts with assets you own or license.
+5. Customize police vehicles, logos, maps, and paid scripts with assets you own or license.
 
 Money path:
 Single city pack sale, DFY Discord setup, installed server identity, custom city build, regional pack bundle, and monthly economy tuning.
@@ -645,4 +645,238 @@ Legal note: ${legalNote}`,
   },
 ];
 
-export const templatesList = [...coreTemplatesList, ...cityPackProducts, ...regionalCityPackProducts];
+const commerceKitCatalog = [
+  {
+    id: 'celebrity-scale-rp-launch-pack',
+    category: 'Server',
+    price: '$699',
+    title: 'Celebrity-Scale RP Launch Pack',
+    subtitle: 'Flagship RP server launch system',
+    label: 'Flagship Pack',
+    headline: 'A high-retention RP launch system built around whitelist access, creators, city status, staff roles, and clean monetization.',
+    buyer: 'Artists, streamers, community owners, and server founders who want a premium launch without copying any existing server.',
+    deliverables: ['Launch-day server identity map', 'Whitelist funnel', 'Discord community machine', 'Tebex-safe product ladder', 'Staff hiring checklist', 'Creator promo scripts', 'Launch calendar'],
+    moneyLevers: ['Application/access funnel', 'Queue/supporter tiers', 'Cosmetic supporter perks', 'Custom city identity', 'Monthly ops support'],
+    security: ['Staff-only admin separation', 'Anti-pay-to-win checklist', 'Ticket evidence policy', 'Moderation escalation ladder'],
+    upsells: ['DFY txAdmin install', 'Custom city pack', 'Discord setup', 'Monthly security audit'],
+    legalNotes: 'Do not copy existing RP brands, private scripts, assets, rules, music, store UI, or server identities.',
+  },
+  {
+    id: 'top-server-access-queue-pack',
+    category: 'Server',
+    price: '$199',
+    title: 'Top-Server Access & Queue Pack',
+    subtitle: 'Priority and supporter monetization blueprint',
+    label: 'Queue Pack',
+    headline: 'Sell access, priority, and supporter value without selling guns, drugs, cash, or unfair advantage.',
+    buyer: 'Server owners who want a compliant first store ladder with clean packages.',
+    deliverables: ['Access pass copy', 'Priority queue tier matrix', 'Discord role names', 'Refund policy draft', 'Tebex product CSV', 'Buyer onboarding script'],
+    moneyLevers: ['Queue priority', 'Discord supporter role', 'Founder badge', 'Non-gameplay recognition'],
+    security: ['No randomized rewards', 'No paid weapons/cash', 'Manual review before whitelist', 'Order log export'],
+    upsells: ['Tebex install', 'Store graphics', 'Monthly package audit'],
+    legalNotes: 'Use Tebex for FiveM/RedM monetization and keep benefits cosmetic, access-based, or community-support oriented.',
+  },
+  {
+    id: 'gang-identity-turf-pack',
+    category: 'Server',
+    price: '$299',
+    title: 'Gang Identity & Turf Pack',
+    subtitle: 'Original fictional faction system',
+    label: 'Faction Pack',
+    headline: 'Create fictional crews with turf rules, outfit concepts, ranks, diplomacy, payout rules, and staff approval paths.',
+    buyer: 'Serious RP servers that need structure for gangs without chaos or real gang branding.',
+    deliverables: ['Fictional gang bible', 'Turf zones', 'Rank ladder', 'Gang application form', 'War approval SOP', 'Crew payout sheet', 'Discord category layout'],
+    moneyLevers: ['Gang application review', 'Cosmetic clothing access', 'Crew event passes', 'Monthly faction support'],
+    security: ['No real gang branding', 'No random violence rules', 'Staff approval for wars', 'Evidence ticket workflow'],
+    upsells: ['Custom gang logos', 'Original clothing textures', 'Faction balancing session'],
+    legalNotes: 'Fictionalize all names, colors, logos, and stories. Avoid real gang identifiers or copyrighted apparel marks.',
+  },
+  {
+    id: 'police-ems-doj-pack',
+    category: 'Server',
+    price: '$349',
+    title: 'Police, EMS & DOJ Authority Pack',
+    subtitle: 'Civil services SOP and academy system',
+    label: 'Civil Pack',
+    headline: 'Professional public-safety structure with ranks, SOPs, vehicle planning assets, training academy, and evidence rules.',
+    buyer: 'Servers trying to look serious to streamers and whitelisted players.',
+    deliverables: ['Fictional department SOP', 'EMS protocol', 'Court/DOJ process', 'Fleet planning list', 'Dispatch rules', 'Training academy checklist'],
+    moneyLevers: ['Staff-reviewed training', 'Department supporter cosmetics', 'Private academy session'],
+    security: ['No real agency logos', 'Least-privilege staff roles', 'Audit logs', 'Evidence-based discipline'],
+    upsells: ['Custom badge graphics', 'MLO sourcing checklist', 'Cadet training video'],
+    legalNotes: 'Use fictional law enforcement agencies and original or commissioned artwork only.',
+  },
+  {
+    id: 'business-economy-pack',
+    category: 'Server',
+    price: '$449',
+    title: 'Business Economy & Payout Pack',
+    subtitle: 'Legal jobs, payouts, and business loops',
+    label: 'Economy Pack',
+    headline: 'Give players legal money loops: restaurants, towing, trucking, fishing, mechanics, delivery, events, and business ownership.',
+    buyer: 'Owners who need a balanced economy and repeatable RP jobs.',
+    deliverables: ['Job list', 'Salary grid', 'Business license flow', 'Crew payout calculator', 'Inflation checklist', 'Event revenue plan', 'RP tax ledger template'],
+    moneyLevers: ['Business application review', 'Event sponsorship', 'Founder business packages', 'Monthly economy tuning'],
+    security: ['No pay-to-win currency sales', 'Cap large payouts', 'Review suspicious transfers', 'Inflation trigger alerts'],
+    upsells: ['Custom job scripts', 'Spreadsheet dashboard', 'Monthly economy balance'],
+    legalNotes: 'Do not sell in-game cash, weapons, or restricted advantage. Sell templates, services, cosmetics, access, and support.',
+  },
+  {
+    id: 'security-anti-abuse-pack',
+    category: 'Server',
+    price: '$299',
+    title: 'Security & Anti-Abuse Pack',
+    subtitle: 'Defensive server hardening pack',
+    label: 'Security Pack',
+    headline: 'Protect the city from staff abuse, leaked scripts, permission mistakes, chargeback chaos, and economy exploits.',
+    buyer: 'Any server owner before launch or before opening paid access.',
+    deliverables: ['ACE permissions template', 'Staff role matrix', 'Pre-launch audit', 'Chargeback SOP', 'Admin command policy', 'Webhook log plan'],
+    moneyLevers: ['Security audit service', 'Monthly compliance retainer', 'Incident response'],
+    security: ['Least privilege', 'No client-trusted payouts', 'Server-side validation', 'Audit logs', 'Token secrecy'],
+    upsells: ['Script audit', 'Discord bot audit', 'Database hardening'],
+    legalNotes: 'Defensive only. No bypasses, cheats, token scraping, exploit instructions, malware, or account theft.',
+  },
+  {
+    id: 'discord-community-machine-pack',
+    category: 'Server',
+    price: '$149',
+    title: 'Discord Community Machine Pack',
+    subtitle: 'Applications, roles, support, and conversion flow',
+    label: 'Community Pack',
+    headline: 'Turn a Discord into a conversion funnel: applications, tickets, role ladders, announcements, content drops, and support.',
+    buyer: 'Server owners who need structure before opening applications.',
+    deliverables: ['Channel tree', 'Role list', 'Ticket categories', 'Application forms', 'Announcement calendar', 'Moderator playbook'],
+    moneyLevers: ['Whitelist applications', 'Supporter roles', 'Creator applications', 'Template upsells'],
+    security: ['2FA requirement for staff', 'No token sharing', 'Private ticket permissions', 'Escalation logs'],
+    upsells: ['DFY Discord build', 'Bot setup', 'Staff training'],
+    legalNotes: 'Never ask customers for passwords or Discord bot tokens in public forms. Use secure onboarding.',
+  },
+  {
+    id: 'tebex-store-blueprint-pack',
+    category: 'Server',
+    price: '$199',
+    title: 'Tebex Store Blueprint Pack',
+    subtitle: 'Compliant server store map',
+    label: 'Store Pack',
+    headline: 'A ready-to-build Tebex store map with safe categories, product descriptions, refund language, and delivery notes.',
+    buyer: 'Owners who want to monetize correctly from day one.',
+    deliverables: ['Package category map', 'CSV package blueprint', 'Product descriptions', 'Legal-safe disclaimers', 'Launch sale plan', 'Coupon calendar'],
+    moneyLevers: ['Priority', 'Access', 'Cosmetics', 'Services', 'Subscriptions'],
+    security: ['No loot boxes', 'No paid random rewards', 'No real brands', 'No external checkout for server benefits'],
+    upsells: ['Tebex implementation', 'Store art', 'Product audit'],
+    legalNotes: 'For FiveM/RedM server perks, Tebex is the authorized monetization path on Cfx.re.',
+  },
+  {
+    id: 'creator-streamer-pack',
+    category: 'Creator',
+    price: '$249',
+    title: 'Creator & Streamer Growth Pack',
+    subtitle: 'Traffic, clips, events, and stream-safe rules',
+    label: 'Creator Pack',
+    headline: 'Make the server look alive on YouTube, TikTok, Kick, and Twitch with faceless clips, events, and streamer-safe rules.',
+    buyer: 'Servers that need traffic and creators who need content hooks.',
+    deliverables: ['30-day video calendar', 'Shorts scripts', 'Thumbnail prompts', 'Streamer rules', 'Clip submission workflow', 'Event calendar'],
+    moneyLevers: ['Creator partner tier', 'Sponsored events', 'Template bundle ads', 'Affiliate hosting links'],
+    security: ['Streamer privacy zones', 'No doxxing', 'No harassment content', 'Moderated clip approval'],
+    upsells: ['Video script pack', 'OBS overlay', 'Monthly content calendar'],
+    legalNotes: 'Keep video claims accurate; avoid fake income promises and fake GTA VI access claims.',
+  },
+  {
+    id: 'premium-city-identity-pack',
+    category: 'City Packs',
+    price: '$149',
+    title: 'Premium City Identity Pack',
+    subtitle: 'Regional city identity product',
+    label: 'City Identity',
+    headline: 'Sell original city identity packs with landmarks, weather, factions, jobs, police fleet planning, and sales copy.',
+    buyer: 'Server owners who want a city concept fast.',
+    deliverables: ['City config', 'Landmarks', 'Weather', 'Factions', 'Streets', 'Police fleet plan', 'Sales page'],
+    moneyLevers: ['Single city packs', 'All-city vault', 'Custom city request', 'Installed city setup'],
+    security: ['Fictionalized gangs', 'Original landmarks copy', 'No real police marks', 'No copied maps'],
+    upsells: ['City art pack', 'Custom MLO sourcing', 'Full installed city'],
+    legalNotes: 'Use city inspiration, not copyrighted assets, official municipal marks, or copied server maps.',
+  },
+  {
+    id: 'full-template-vault-bundle',
+    category: 'Server',
+    price: '$1,299',
+    title: 'Full Template Vault Bundle',
+    subtitle: 'Premium server commerce bundle',
+    label: 'Vault Bundle',
+    headline: 'Bundle the server starter, city packs, Tebex store, Discord machine, security, economy, and creator content into one premium offer.',
+    buyer: 'High-ticket clients who want the full operating system instead of one ZIP.',
+    deliverables: ['All pack docs', 'App product catalog', 'Lead forms', 'Revenue calculators', 'Fulfillment checklists', 'Launch content'],
+    moneyLevers: ['High-ticket bundle', 'DFY install', 'Monthly support', 'Custom city builds'],
+    security: ['Pre-sale disclaimers', 'License checklist', 'Asset verification', 'Support boundaries'],
+    upsells: ['$1,800+ custom city', '$299/mo support', '$499 script audit'],
+    legalNotes: 'Sell original template systems and services. Never sell stolen assets or copied server identities.',
+  },
+  {
+    id: 'monthly-ops-retainer',
+    category: 'Server',
+    price: '$349/mo',
+    title: 'Monthly Ops Retainer',
+    subtitle: 'Recurring server support offer',
+    label: 'Retainer',
+    headline: 'Recurring support for economy tuning, security checks, Discord cleanup, content planning, and package optimization.',
+    buyer: 'Owners who have launched and need consistent help.',
+    deliverables: ['Monthly audit', 'Economy report', 'Discord health report', 'Tebex package review', 'Content calendar', 'Incident notes'],
+    moneyLevers: ['Recurring revenue', 'Priority support', 'Quarterly relaunch', 'New pack releases'],
+    security: ['Monthly permission review', 'Staff access audit', 'Fraud/chargeback checklist', 'Script update log'],
+    upsells: ['Emergency incident response', 'New city expansion', 'Custom script commission'],
+    legalNotes: 'Do not take custody of passwords or tokens. Use scoped access and client-approved changes.',
+  },
+];
+
+const commerceKitProducts = commerceKitCatalog.map((product) => ({
+  id: product.id,
+  category: product.category,
+  price: product.price,
+  title: product.title,
+  subtitle: product.subtitle,
+  image: `./assets/commerce-art/${product.id}.png`,
+  paymentKey: product.category === 'City Packs' ? 'cityVault' : product.category === 'Creator' ? 'obsPack' : 'customServer',
+  description: product.headline,
+  cardHighlights: product.moneyLevers.slice(0, 3),
+  includes: product.deliverables,
+  delivery: 'Delivered as a premium GTA Money Team template/service pack with checkout notes, fulfillment checklist, and optional Lux Automaton setup upsell.',
+  whatItIs: `${product.title} is a premium legal server-commerce product for GTA Money Team subscribers and service buyers. It packages the public money pattern into original templates, SOPs, copy, setup notes, and delivery boundaries without copied assets or risky shortcuts.`,
+  howItWorks: `Use the pack to plan the offer, publish clear buyer terms, connect safe checkout or service intake, deliver the included documents, and upsell setup or monthly support. Best buyer: ${product.buyer}`,
+  howToInstall: ['Open the product pack after checkout.', 'Review the buyer outcome and legal notes first.', 'Copy the deliverables into your Discord, Tebex, Notion, CRM, or service workspace.', 'Customize the pack with original names, licensed assets, and your own policies.', 'Run Lana Coach to turn the pack into a launch checklist and client handoff.'],
+  howToMakeMoney: product.moneyLevers,
+  content: `# ${product.title}
+
+Buyer:
+${product.buyer}
+
+Offer:
+${product.headline}
+
+Deliverables:
+${product.deliverables.map((item) => `- ${item}`).join('\n')}
+
+Money levers:
+${product.moneyLevers.map((item) => `- ${item}`).join('\n')}
+
+Security / trust guardrails:
+${product.security.map((item) => `- ${item}`).join('\n')}
+
+Upsells:
+${product.upsells.map((item) => `- ${item}`).join('\n')}
+
+Legal note:
+${product.legalNotes}
+
+GMT promise:
+${legalNote}`,
+  commerceKit: true,
+  commerceLabel: product.label,
+  buyer: product.buyer,
+  deliverables: product.deliverables,
+  moneyLevers: product.moneyLevers,
+  security: product.security,
+  upsells: product.upsells,
+  legalNotes: product.legalNotes,
+}));
+
+export const templatesList = [...coreTemplatesList, ...commerceKitProducts, ...cityPackProducts, ...regionalCityPackProducts];

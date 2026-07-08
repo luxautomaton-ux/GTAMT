@@ -16,13 +16,13 @@ function PaymentLinkButton({ paymentKey, variant = 'default' }) {
       onClick={(event) => {
         if (link.url.startsWith('#')) {
           event.preventDefault();
-          alert(`${link.provider} placeholder: paste the live hosted payment link into src/data/paymentConfig.js.`);
+          window.dispatchEvent(new CustomEvent('gmt:checkout', { detail: { paymentKey } }));
         }
       }}
     >
       <span>{compact ? 'Add to Cart' : link.label}</span>
       {!compact && <strong>{link.price}</strong>}
-      <small>{compact ? '+' : `${link.provider} ready`}</small>
+      <small>{compact ? '+' : 'Member access'}</small>
     </a>
   );
 }
@@ -59,10 +59,49 @@ const productLabels = {
 };
 
 const productPaymentKey = (template) => (
-  template.id === 'rp-dealership-launch-kit' ? 'dealershipKit' : categoryPaymentKeys[template.category]
+  template.paymentKey || (template.id === 'rp-dealership-launch-kit' ? 'dealershipKit' : categoryPaymentKeys[template.category])
 );
 
-const productLabel = (template) => productLabels[template.id] || (template.cityPack ? 'City Pack' : template.category);
+const productLabel = (template) => template.commerceLabel || productLabels[template.id] || (template.cityPack ? 'City Pack' : template.category);
+
+const cleanStorePhotos = {
+  Cars: './images/lana-night-car2.jpg',
+  Player: './assets/gmt-brand/lana-day-route.png',
+  Creator: './assets/gmt-brand/lana-day-studio.png',
+  Server: './assets/server-forge/server-forge-security.png',
+  Investor: './assets/gmt-brand/lana-day-investor.png',
+};
+
+const cleanCommercePhotos = [
+  './assets/server-forge/server-forge-hero.png',
+  './assets/server-forge/server-forge-monetization.png',
+  './assets/server-forge/server-forge-community.png',
+  './assets/server-forge/server-forge-security.png',
+];
+
+const cleanCityPackPhotos = [
+  './images/lana-marina-heli.jpg',
+  './assets/gmt-brand/gmt-team-day-marina.png',
+  './assets/gmt-brand/lana-day-marina.png',
+  './images/lana-night-car3.jpg',
+  './assets/server-forge/server-forge-community.png',
+  './assets/server-forge/server-forge-hero.png',
+];
+
+const photoIndexFor = (id, total) => [...id].reduce((sum, char) => sum + char.charCodeAt(0), 0) % total;
+
+const cleanProductPhoto = (template) => {
+  if (template.cityPack) return cleanCityPackPhotos[photoIndexFor(template.id, cleanCityPackPhotos.length)];
+  if (template.commerceKit) {
+    return cleanCommercePhotos[photoIndexFor(template.id, cleanCommercePhotos.length)];
+  }
+  return cleanStorePhotos[template.category] || template.image;
+};
+
+const handleProductImageError = (event) => {
+  event.currentTarget.onerror = null;
+  event.currentTarget.src = './assets/server-forge/server-forge-hero.png';
+};
 
 const categoryBlueprints = {
   Cars: {
@@ -127,8 +166,12 @@ const TemplatesShop = () => {
     }
   });
 
-  const categories = ['All', 'City Packs', 'Cars', 'Player', 'Creator', 'Server', 'Investor'];
-  const filteredTemplates = filter === 'All' ? templatesList : templatesList.filter((template) => template.category === filter);
+  const categories = ['All', 'Commerce Kit', 'City Packs', 'Cars', 'Player', 'Creator', 'Server', 'Investor'];
+  const filteredTemplates = filter === 'All'
+    ? templatesList
+    : filter === 'Commerce Kit'
+      ? templatesList.filter((template) => template.commerceKit)
+      : templatesList.filter((template) => template.category === filter);
   const relatedProducts = activeProduct
     ? templatesList.filter((template) => template.category === activeProduct.category && template.id !== activeProduct.id).slice(0, 3)
     : [];
@@ -175,7 +218,17 @@ const TemplatesShop = () => {
         ['Discord Channels', activeProduct.cityPack.channels.map((channel) => `#${channel}`)],
         ['Discord Roles', activeProduct.cityPack.roles],
         ['Weather Rotation', activeProduct.cityPack.weather],
-        ['Police Placeholders', activeProduct.cityPack.police],
+        ['Police Fleet Planning', activeProduct.cityPack.police],
+      ]
+      : [];
+    const commerceSections = activeProduct.commerceKit
+      ? [
+        ['Buyer', [activeProduct.buyer]],
+        ['Premium Deliverables', activeProduct.deliverables],
+        ['Money Levers', activeProduct.moneyLevers],
+        ['Security / Trust Guardrails', activeProduct.security],
+        ['Upsells', activeProduct.upsells],
+        ['Compliance Note', [activeProduct.legalNotes]],
       ]
       : [];
 
@@ -184,12 +237,7 @@ const TemplatesShop = () => {
         <button onClick={() => setActiveProduct(null)} className="store-back-button">Back To Store</button>
         <div className="product-page">
           <div className="product-hero-photo">
-            <img src={activeProduct.image} alt={`${activeProduct.title} photo card`} />
-            <div className="product-hero-overlay">
-              <span>Legal & Compliant</span>
-              <strong>{productLabel(activeProduct)}</strong>
-              <small>{activeProduct.price}</small>
-            </div>
+            <img src={cleanProductPhoto(activeProduct)} alt={`${activeProduct.title} product photo`} onError={handleProductImageError} />
           </div>
           <div className="product-detail-panel">
             <span className="product-kicker">{activeProduct.category} product / GTA Money Team</span>
@@ -265,6 +313,16 @@ const TemplatesShop = () => {
               </ul>
             </section>
           ))}
+          {commerceSections.map(([title, items]) => (
+            <section key={title}>
+              <span className="font-mono text-cyan text-[10px] uppercase">{title}</span>
+              <ul>
+                {items.map((item) => (
+                  <li key={item}>{item}</li>
+                ))}
+              </ul>
+            </section>
+          ))}
           <section>
             <span className="font-mono text-cyan text-[10px] uppercase">Best Use Cases</span>
             <ul>
@@ -306,7 +364,7 @@ const TemplatesShop = () => {
             <div className="grid md:grid-cols-3 gap-6">
               {relatedProducts.map((product) => (
                 <button key={product.id} onClick={() => openProduct(product)} className="related-product-card">
-                  <img src={product.image} alt={`${product.title} photo card`} />
+                  <img src={cleanProductPhoto(product)} alt={`${product.title} product photo`} onError={handleProductImageError} />
                   <strong>{product.title}</strong>
                   <span>{product.price}</span>
                 </button>
@@ -346,17 +404,17 @@ const TemplatesShop = () => {
 
       {!premium && (
         <div className="premium-gate mb-8">
-          <span className="font-mono text-pink text-xs uppercase block mb-3">// Premium Gate</span>
+          <span className="font-mono text-pink text-xs uppercase block mb-3">// Workshop Access</span>
           <strong>Unlock the template vault</strong>
-          <p>Use the demo unlock while testing, then paste live hosted checkout links into the payment config before launch.</p>
+          <p>Browse the products now. Join the workshop to unlock downloads, member pricing, premium build guides, and Lana-powered action plans.</p>
           <div className="gate-actions">
             <PaymentLinkButton paymentKey="premiumMonthly" />
-            <button onClick={unlockPremium}>Demo Unlock Premium</button>
+            <button onClick={unlockPremium}>Activate Member Access</button>
           </div>
         </div>
       )}
 
-      <div className={`flex gap-2 flex-wrap mb-8 ${premium ? '' : 'opacity-45 pointer-events-none'}`}>
+      <div className="flex gap-2 flex-wrap mb-8">
         {categories.map((category) => (
           <button
             key={category}
@@ -368,19 +426,17 @@ const TemplatesShop = () => {
         ))}
       </div>
 
-      <div className={`store-grid ${premium ? '' : 'opacity-45 pointer-events-none'}`}>
+      <div className="store-grid">
         {filteredTemplates.map((template) => {
           const features = (template.includes?.length ? template.includes : template.cardHighlights).slice(0, 4);
           return (
             <div
               key={template.id}
               className="store-product-card hover-glow"
-              data-category={template.category.toLowerCase()}
+              data-category={template.commerceKit ? 'commerce kit' : template.category.toLowerCase()}
             >
               <button onClick={() => openProduct(template)} className="store-photo-button">
-                <img src={template.image} alt={`${template.title} photo card`} />
-                <span className="store-legal-badge">Legal & Compliant</span>
-                <span className="store-product-label">{productLabel(template)}</span>
+                <img src={cleanProductPhoto(template)} alt={`${template.title} product photo`} onError={handleProductImageError} />
               </button>
               <div className="store-product-body">
                 <div className="store-title-row">
@@ -410,7 +466,7 @@ const TemplatesShop = () => {
         })}
       </div>
 
-      <div className={`store-value-footer ${premium ? '' : 'opacity-45 pointer-events-none'}`}>
+      <div className="store-value-footer">
         <div><strong>Built By Experts</strong><span>Systems used by top legal money makers.</span></div>
         <div><strong>Save Time</strong><span>Plug-and-play templates and systems.</span></div>
         <div><strong>Grow Faster</strong><span>Proven tools to scale your brand and income.</span></div>

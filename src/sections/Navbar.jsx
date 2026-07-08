@@ -3,17 +3,20 @@ import { useState } from 'react';
 const Navbar = ({ page, setPage }) => {
   const [menuOpen, setMenuOpen] = useState(false);
   const navItems = [
-    ['home', 'Launch Board'],
-    ['member-services', 'Services'],
+    ['home', 'HOME'],
+    ['gta-news', 'GTA News'],
+    ['money-intel', 'Money Intel'],
     ['template-shop', 'Store'],
-    ['calculators', 'Calculators'],
-    ['streaming-academy', 'Streaming Academy'],
     ['training-workshop', 'Workshop'],
-    ['media-vault', 'Media Vault'],
-    ['member-activation', 'Member Access'],
-    ['launch-funnel', 'Launch Funnel'],
+    ['calculators', 'Calculators'],
+    ['server-lab', 'Server Forge'],
     ['investor-radar', 'Investor Radar'],
+    ['launch-funnel', 'Launch Funnel'],
+    ['media-vault', 'Media Vault'],
     ['lana-coach', 'Lana Coach'],
+    ['about', 'About'],
+    ['profile', 'Profile'],
+    ['member-activation', 'Access'],
   ];
 
   const handleNavClick = (pageId) => {
@@ -28,12 +31,12 @@ const Navbar = ({ page, setPage }) => {
         <img src="./images/nav-logo.svg" alt="logo-svg" className="h-8 scale-90" />
         <span className="font-round-bold text-white uppercase text-md md:text-lg tracking-wider">GTA Money Team</span>
       </div>
-      <div className="hidden xl:flex items-center gap-6">
+      <div className="hidden xl:flex max-w-[76vw] flex-wrap items-center justify-end gap-2 2xl:gap-4">
         {navItems.map(([id, label]) => (
           <button
             key={id}
             onClick={() => handleNavClick(id)}
-            className={`text-xs font-semibold tracking-wider uppercase transition duration-300 bg-transparent border-0 cursor-pointer ${page === id ? 'text-yellow text-shadow-glow' : 'text-white/60 hover:text-white'}`}
+            className={`text-[10px] 2xl:text-xs font-semibold tracking-wider uppercase transition duration-300 bg-transparent border-0 cursor-pointer ${page === id ? 'text-yellow text-shadow-glow' : 'text-white/60 hover:text-white'}`}
           >
             {label}
           </button>

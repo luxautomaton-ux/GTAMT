@@ -1,0 +1,319 @@
+{
+  "generatedAt": "2026-07-08T08:36:01.335Z",
+  "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
+  "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
+  "sources": [
+    {
+      "id": "take-two-ir",
+      "name": "Take-Two Investor Relations",
+      "url": "https://ir.take2games.com/rss/news-releases.xml",
+      "type": "official"
+    },
+    {
+      "id": "the-verge-games",
+      "name": "The Verge Gaming",
+      "url": "https://www.theverge.com/rss/games/index.xml",
+      "type": "publisher"
+    },
+    {
+      "id": "pc-gamer",
+      "name": "PC Gamer",
+      "url": "https://www.pcgamer.com/rss/",
+      "type": "publisher"
+    },
+    {
+      "id": "gamesradar",
+      "name": "GamesRadar+",
+      "url": "https://www.gamesradar.com/rss/",
+      "type": "publisher"
+    },
+    {
+      "id": "eurogamer",
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/feed",
+      "type": "publisher"
+    },
+    {
+      "id": "vg247",
+      "name": "VG247",
+      "url": "https://www.vg247.com/feed",
+      "type": "publisher"
+    }
+  ],
+  "feedErrors": [],
+  "officialWatchlist": [
+    {
+      "id": "rockstar-vi-hub",
+      "title": "Grand Theft Auto VI Official Hub",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/VI",
+      "image": "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg",
+      "note": "Use as the first source before teaching release, edition, platform, or story claims."
+    },
+    {
+      "id": "rockstar-media-hub",
+      "title": "Official GTA VI Media Hub",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/VI/media",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "note": "Approved public videos, screenshots, artwork, and download packs for media study."
+    },
+    {
+      "id": "take-two-ir-feed",
+      "title": "Take-Two News Releases",
+      "source": "Take-Two Interactive",
+      "url": "https://ir.take2games.com/rss/news-releases.xml",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
+      "note": "Use for investor literacy, earnings catalysts, and official corporate announcements."
+    }
+  ],
+  "items": [
+    {
+      "id": "gamesradar-794647d9ac8bb0",
+      "title": "Sony killing physical PlayStation games has folks so angry that its announcement has even more views than Rockstar's GTA 6 trailer posts on Twitter",
+      "excerpt": "It might have more views, but the difference in the number of likes speaks volumes",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-killing-physical-playstation-games-has-folks-so-angry-that-its-announcement-has-even-more-views-than-rockstars-gta-6-trailer-posts-on-twitter/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-07T16:23:34.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/E5jRb2PaMaHuDU2KkdoUi8-1280-80.jpg",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "the-verge-games-72708cdc7b2544",
+      "title": "Where to preorder Grand Theft Auto VI",
+      "excerpt": "A look at in-game cosmetics you’ll get with the Ultimate edition. | Image: Rockstar Games Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launc",
+      "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-05T16:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "eurogamer-e1c24de7d2e994",
+      "title": "GTA 6 developer Rockstar accused of enforcing crunch, weaponising bonus payments, and ignoring a widening gender pay gap",
+      "excerpt": "As Rockstar employees move to pursue official union recognition following a series of high-profile sackings in 2025, new allegations are emerging related to Rockstar's treatment of its staff. In a new report published by Game Developer, multiple Rockstar devel",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-enforcing-crunch-weaponising-bonus-payments-ignoring-widening-gender-pay-gap",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-01T09:57:13.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-union.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-2e7d4e37fde82c",
+      "title": "Surprising no one, GTA 6 is at the top of the PlayStation Store in practically every country in the world",
+      "excerpt": "Grand Theft Auto 6 is topping the PlayStation Store charts across nearly every regional version of Sony's digital store. Since pre-orders went live on 25th June, the game has shot to the top of the various PS Stores worldwide.",
+      "url": "https://www.eurogamer.net/gta-6-top-pre-orders-playstation-store-worldwide",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-06-30T14:35:05.000Z",
+      "image": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "eurogamer-53d814c4e44d87",
+      "title": "Modern Warfare 4 Facebook ads want to make sure everyone understands this year's Call of Duty won't be on Xbox Game Pass",
+      "excerpt": "I know we're all thinking about GTA 6 right now, but chances are Call of Duty: Modern Warfare 4 - releasing on 23rd October - will be massive, too. Regardless, Xbox and Activision are planning ahead in an attempt to avoid Black Ops 7's stumbles, and it seems t",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-facebook-ads",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-06-30T14:28:57.000Z",
+      "image": "https://assetsio.gnwcdn.com/Modern-Warfare-4-DMZ-squad.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-50c97905630362",
+      "title": "GTA 6 developers at Rockstar Games pushing to pursue official union recognition following 2025 sackings: \"The union is now stronger than ever\"",
+      "excerpt": "Grand Theft Auto 6 has finally locked its 19th November release date and pre-orders are now open. It should be cause for celebration, but with the lack of a proper physical release and after the firing of employees last year (a move considered to be \"union-bus",
+      "url": "https://www.eurogamer.net/rockstar-games-union-push-before-gta-6-launch",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-06-30T13:15:00.000Z",
+      "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_STOCK_305_04.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "eurogamer-d3e3f6c607b419",
+      "title": "\"We can't back out now!\" Onimusha: Way of the Sword developer laughs off concerns around 2026's packed September release window",
+      "excerpt": "Onimusha: Way of the Sword is one of many, many games due to launch in the September/October 2026 period in 2026. As developers and publishers flee as far away from GTA 6 black hole as they possibly can, the resultant squeeze in the earlier (or later) months i",
+      "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-developer-concerns-september-release-window",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-06-30T10:14:57.000Z",
+      "image": "https://assetsio.gnwcdn.com/oni-calendar.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "take-two-ir-f6299c77a47048",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fourth Quarter and Fiscal Year 2026",
+      "excerpt": "$1.58 billion fiscal fourth quarter Net Bookings, above Company's guidance range $6.72 billion fiscal year 2026 Net Bookings Initial outlook for fiscal 2027 includes Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--May 21, 2026-- Take-Two Inter",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fourth-2",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-05-21T20:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-dc838986578c79",
+      "title": "Take-Two Interactive Software, Inc. to Present at the TD Cowen 54th Annual Technology, Media & Telecom Conference",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--May 11, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that Strauss Zelnick, the Company’s Chairman and Chief Executive Officer, plans to participate in a Fireside Chat at the TD Cowen 54 th Annual Technol",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-present-td-cowen-54th-annual",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-05-11T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-9953c6e1de7c35",
+      "title": "Take-Two Interactive Software, Inc. to Report Fourth Quarter and Fiscal Year 2026 Results on Thursday, May 21, 2026",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Apr. 23, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its fourth quarter and fiscal year 2026, ended March 31, 2026, after the market close on Thursday, May ",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-fourth-quarter-and-19",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-04-23T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-8aefdab9ec106a",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal Third Quarter 2026",
+      "excerpt": "Company raises fiscal year 2026 outlook Fiscal third quarter Net Bookings were $1.76 billion, above Company's guidance range Net Bookings for fiscal year 2026 are now expected to range from $6.65 to $6.7 billion NEW YORK --(BUSINESS WIRE)--Feb. 3, 2026-- Take-",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fiscal-third-4",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-02-03T21:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-cab691e75db61c",
+      "title": "Take-Two Interactive Software, Inc. to Report Third Quarter Fiscal Year 2026 Results on Tuesday, February 3, 2026",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Jan. 6, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its third quarter of Fiscal Year 2026, ended December 31, 2025 , after the market close on Tuesday, Febr",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-third-quarter-fiscal-6",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-01-06T13:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-20b04f60e25e01",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal Second Quarter 2026",
+      "excerpt": "Company raises fiscal year 2026 outlook Fiscal second quarter Net Bookings were $1.96 billion , above Company's guidance range Net Bookings for fiscal year 2026 are now expected to range from $6.4 to $6.5 billion Grand Theft Auto VI now launching November 19, ",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fiscal-3",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2025-11-06T21:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-88493745a533ea",
+      "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2026 Results on Thursday, November 6, 2025",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Oct. 9, 2025-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its second quarter of Fiscal Year 2026, ended September 30, 2025 , after the market close on Thursday, N",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-second-quarter-fiscal-7",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2025-10-09T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    }
+  ],
+  "videos": [
+    {
+      "id": 2,
+      "title": "Grand Theft Auto VI Trailer 2",
+      "category": "Trailer",
+      "poster": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "video": "https://media.rockstargames.com/VI/downloads/videos/GTAVI_Trailer_2/GTAVI_Trailer_2.mp4",
+      "youtubeUrl": "https://youtu.be/VQRLujxTm3c",
+      "youtubeEmbed": "https://www.youtube.com/embed/VQRLujxTm3c",
+      "description": "Official second trailer. Use it for trailer breakdowns, legal content planning, and visual research beats.",
+      "sourcePage": "https://www.rockstargames.com/VI/media/videos"
+    },
+    {
+      "id": 11,
+      "title": "Grand Theft Auto VI Trailer 1",
+      "category": "Trailer",
+      "poster": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
+      "video": "https://media.rockstargames.com/VI/downloads/videos/GTAVI_Trailer_1/GTAVI_Trailer_1.mp4",
+      "youtubeUrl": "https://youtu.be/QdBZY2fkU-0",
+      "youtubeEmbed": "https://www.youtube.com/embed/QdBZY2fkU-0",
+      "description": "Official first trailer. Keep this as the core Launch Board trailer and public media anchor.",
+      "sourcePage": "https://www.rockstargames.com/VI/media/videos"
+    },
+    {
+      "id": 1,
+      "title": "Official Cover Art Animation",
+      "category": "Animation",
+      "poster": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "video": "https://media.rockstargames.com/VI/downloads/videos/GTAVI_Official_Cover_Art_Landscape/GTAVI_Official_Cover_Art_Landscape.mp4",
+      "description": "Animated reveal of the official key art. Useful for studying cover positioning, color rhythm, and launch-brand motion.",
+      "sourcePage": "https://www.rockstargames.com/VI/media/videos"
+    },
+    {
+      "id": 3,
+      "title": "Jason Duval Video Clip",
+      "category": "Character Clip",
+      "poster": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_Video_Clip.024oe-y640yxp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "video": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_Video_Clip.10.gc09c9y-j9.mp4",
+      "description": "Official Jason character clip. Study character tone, environments, and story-adjacent content angles.",
+      "sourcePage": "https://www.rockstargames.com/VI/media/videos"
+    },
+    {
+      "id": 4,
+      "title": "Lucia Caminos Video Clip",
+      "category": "Character Clip",
+      "poster": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_Video_Clip.0uqwkm_u_fu_9.jpg?akim=1&imdensity=1&imwidth=1920",
+      "video": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_Video_Clip.0g8.3fx84ixw..mp4",
+      "description": "Official Lucia character clip. Good for protagonist notes, thumbnail references, and trailer-study prompts.",
+      "sourcePage": "https://www.rockstargames.com/VI/media/videos"
+    }
+  ]
+}

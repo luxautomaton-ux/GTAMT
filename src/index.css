@@ -289,3 +289,8 @@ main {
 .lucia-life-content {
   background: radial-gradient(ellipse, #111117 20%, transparent 70%);
 }
+
+.mask-logo,
+.overlay-logo {
+  display: none !important;
+}

@@ -62,6 +62,8 @@ export const rockstarMediaCatalog = {
       "category": "Trailer",
       "poster": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
       "video": "https://media.rockstargames.com/VI/downloads/videos/GTAVI_Trailer_2/GTAVI_Trailer_2.mp4",
+      "youtubeUrl": "https://youtu.be/VQRLujxTm3c",
+      "youtubeEmbed": "https://www.youtube.com/embed/VQRLujxTm3c",
       "sourcePage": "https://www.rockstargames.com/VI/media/videos",
       "description": "Official second trailer. Use it for trailer breakdowns, legal content planning, and visual research beats."
     },
@@ -143,6 +145,8 @@ export const rockstarMediaCatalog = {
       "category": "Trailer",
       "poster": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
       "video": "https://media.rockstargames.com/VI/downloads/videos/GTAVI_Trailer_1/GTAVI_Trailer_1.mp4",
+      "youtubeUrl": "https://youtu.be/QdBZY2fkU-0",
+      "youtubeEmbed": "https://www.youtube.com/embed/QdBZY2fkU-0",
       "sourcePage": "https://www.rockstargames.com/VI/media/videos",
       "description": "Official first trailer. Keep this as the core Launch Board trailer and public media anchor."
     }

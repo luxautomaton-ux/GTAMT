@@ -96,9 +96,9 @@ const Outro = () => {
           </div>
         </div>
 
-        {/* Member Services block */}
-        <div className="w-full text-left" id="member-services">
-          <span className="font-mono text-pink text-xs uppercase block mb-6">// Member Services</span>
+        {/* Workshop offers block */}
+        <div className="w-full text-left" id="workshop-offers">
+          <span className="font-mono text-pink text-xs uppercase block mb-6">// Workshop Offers</span>
           <div className="grid md:grid-cols-3 gap-6">
             {serviceCards.map(([title, text]) => (
               <div key={title} className="p-6 border border-white/10 rounded-lg bg-white/5 flex flex-col justify-between">

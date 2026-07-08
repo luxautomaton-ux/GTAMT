@@ -1,0 +1,81 @@
+.gmt-workshop-shell {
+  min-height: 100vh;
+  padding: 24px;
+  color: #fff;
+  background: radial-gradient(circle at 20% 10%, rgba(255, 0, 143, 0.25), transparent 28%), radial-gradient(circle at 90% 20%, rgba(0, 238, 255, 0.18), transparent 32%), #05040a;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.gmt-hero, .gmt-panel, .gmt-tabs, .gmt-member-card {
+  border: 1px solid rgba(255,255,255,.14);
+  background: rgba(12, 10, 22, .78);
+  box-shadow: 0 24px 80px rgba(0,0,0,.32);
+  backdrop-filter: blur(18px);
+}
+.gmt-hero {
+  position: relative;
+  overflow: hidden;
+  min-height: 520px;
+  border-radius: 34px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 24px;
+  padding: 34px;
+}
+.gmt-hero__media {
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(90deg, rgba(5,4,10,.96) 0%, rgba(5,4,10,.72) 44%, rgba(5,4,10,.28) 100%), url('/assets/gmt-hero-lana.png');
+  background-size: cover;
+  background-position: center right;
+  opacity: .9;
+}
+.gmt-hero__copy, .gmt-member-card { position: relative; z-index: 1; }
+.gmt-hero__copy { max-width: 760px; align-self: end; }
+.gmt-kicker { color: #00f0ff; text-transform: uppercase; letter-spacing: .16em; font-size: .78rem; font-weight: 800; }
+.gmt-hero h1 { margin: 0; font-size: clamp(3.4rem, 9vw, 7.8rem); line-height: .82; letter-spacing: -.08em; text-transform: uppercase; }
+.gmt-hero h2 { margin: 16px 0 10px; font-size: clamp(1.5rem, 4vw, 3rem); color: #ff4fd8; }
+.gmt-hero p, .gmt-panel p { color: rgba(255,255,255,.76); line-height: 1.7; }
+.gmt-hero__actions, .gmt-filter-row, .gmt-unlock-row { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+.gmt-proof-strip { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+.gmt-proof-strip span, .gmt-download-card span { border: 1px solid rgba(0,240,255,.28); background: rgba(0,240,255,.1); color: #8ff8ff; padding: 7px 10px; border-radius: 999px; font-size: .8rem; font-weight: 800; }
+.gmt-member-card { align-self: start; border-radius: 24px; padding: 20px; display: grid; gap: 8px; }
+.gmt-status { width: 12px; height: 12px; border-radius: 50%; background: #ff4477; box-shadow: 0 0 16px #ff4477; }
+.gmt-status--on { background: #5dff9b; box-shadow: 0 0 16px #5dff9b; }
+.gmt-tabs { position: sticky; top: 10px; z-index: 3; margin: 18px 0; border-radius: 22px; padding: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
+.gmt-tabs button, .gmt-btn { border: 0; border-radius: 999px; padding: 12px 16px; font-weight: 900; cursor: pointer; color: #fff; background: rgba(255,255,255,.08); }
+.gmt-tabs button.active, .gmt-btn--primary { background: linear-gradient(135deg, #ff2fb3, #ff7a18); box-shadow: 0 12px 28px rgba(255, 47, 179, .28); }
+.gmt-btn--ghost { background: rgba(0,240,255,.11); border: 1px solid rgba(0,240,255,.2); }
+.gmt-btn--small { padding: 10px 12px; font-size: .82rem; }
+.gmt-grid { display: grid; gap: 18px; }
+.gmt-grid--two { grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); }
+.gmt-panel { border-radius: 28px; padding: 26px; margin-bottom: 18px; }
+.gmt-panel h2 { font-size: clamp(2rem, 5vw, 4.25rem); margin: 4px 0 8px; letter-spacing: -.06em; }
+.gmt-panel-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 18px; flex-wrap: wrap; }
+.gmt-offer-box, .gmt-price-card { border-radius: 24px; padding: 22px; background: linear-gradient(135deg, rgba(255,47,179,.18), rgba(0,240,255,.1)); border: 1px solid rgba(255,255,255,.14); margin-top: 22px; }
+.gmt-offer-box strong, .gmt-price-card strong { display: block; font-size: 3rem; letter-spacing: -.06em; }
+.gmt-module-list, .gmt-clean-nav { display: grid; gap: 12px; }
+.gmt-module-list article, .gmt-clean-nav article { border: 1px solid rgba(255,255,255,.1); background: rgba(255,255,255,.055); border-radius: 18px; padding: 16px; }
+.gmt-filter-row input, .gmt-filter-row select, .gmt-unlock-row input, .gmt-calc-grid input {
+  min-height: 44px; border-radius: 14px; border: 1px solid rgba(255,255,255,.16); background: rgba(0,0,0,.3); color: #fff; padding: 0 14px;
+}
+.gmt-filter-row input { min-width: min(420px, 100%); }
+.gmt-download-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin-top: 18px; }
+.gmt-download-card { display: flex; flex-direction: column; gap: 10px; min-height: 320px; border-radius: 22px; padding: 18px; background: linear-gradient(180deg, rgba(255,255,255,.085), rgba(255,255,255,.04)); border: 1px solid rgba(255,255,255,.12); }
+.gmt-download-card h3 { margin: 0; font-size: 1.35rem; }
+.gmt-download-card ul { color: rgba(255,255,255,.72); padding-left: 18px; margin: 0; }
+.gmt-download-card__foot { display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-top: auto; }
+.gmt-calc-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; }
+.gmt-calc-grid label { display: grid; gap: 8px; color: rgba(255,255,255,.7); font-weight: 800; }
+.gmt-metrics { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 12px; margin-top: 20px; }
+.gmt-metrics div { border-radius: 18px; padding: 18px; background: rgba(0,0,0,.32); border: 1px solid rgba(255,255,255,.1); }
+.gmt-metrics span { display: block; color: rgba(255,255,255,.62); }
+.gmt-metrics strong { display: block; font-size: 2rem; color: #00f0ff; margin-top: 6px; }
+.gmt-clean-nav { grid-template-columns: repeat(4, minmax(0,1fr)); margin-bottom: 20px; }
+.gmt-footer-note { margin: 30px 0 10px; color: rgba(255,255,255,.55); text-align: center; }
+.gmt-toast { position: fixed; right: 22px; bottom: 22px; z-index: 20; border-radius: 18px; padding: 14px 18px; background: #10101a; border: 1px solid rgba(0,240,255,.35); color: #fff; box-shadow: 0 20px 60px rgba(0,0,0,.4); }
+@media (max-width: 980px) {
+  .gmt-workshop-shell { padding: 12px; }
+  .gmt-hero { grid-template-columns: 1fr; min-height: 640px; padding: 22px; }
+  .gmt-grid--two, .gmt-download-grid, .gmt-calc-grid, .gmt-metrics, .gmt-clean-nav { grid-template-columns: 1fr; }
+  .gmt-panel { padding: 18px; }
+}

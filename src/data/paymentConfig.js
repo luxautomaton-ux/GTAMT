@@ -1,7 +1,7 @@
 export const paymentLinks = {
   premiumMonthly: {
-    label: 'Join Premium',
-    price: '$19/mo',
+    label: 'Join Workshop',
+    price: '$25/mo',
     provider: 'Stripe',
     url: '#stripe-premium-monthly',
   },

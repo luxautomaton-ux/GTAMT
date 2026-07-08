@@ -68,12 +68,12 @@ const CalculatorsPreview = ({ setPage }) => {
             </button>
             <button
               onClick={() => {
-                setPage('route-planner');
+                setPage('money-intel');
                 window.scrollTo({ top: 0, behavior: 'instant' });
               }}
               className="bg-transparent border border-white/20 text-white font-round-bold uppercase px-5 py-3 rounded hover:bg-white/10 transition duration-300"
             >
-              Study Money Routes
+              Open Money Intel
             </button>
           </div>
 

@@ -33,19 +33,19 @@ const CreatorKitPreview = ({ setPage }) => {
         
         <div className="text-center max-w-xl mb-12">
           <span className="font-mono text-pink text-xs uppercase block mb-3">// Creators & Community Operators</span>
-          <h2 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-4">Creator Blueprints & Server Labs</h2>
+          <h2 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-4">Media Vault & Server Forge</h2>
           <p className="text-white/70 text-sm mb-6">
             Help people make money playing GTA 6! Scale your content channel using our pre-written video script outlines, and acquire custom server blueprint configurations to host highly-monetized, compliant roleplay communities.
           </p>
           <div className="flex justify-center gap-3">
             <button
               onClick={() => {
-                setPage('creator-kit');
+                setPage('media-vault');
                 window.scrollTo({ top: 0, behavior: 'instant' });
               }}
               className="bg-yellow text-black font-round-bold uppercase px-5 py-3 rounded text-xs hover:bg-white transition duration-300"
             >
-              Get Creator Kit
+              Open Media Vault
             </button>
             <button
               onClick={() => {
@@ -54,7 +54,7 @@ const CreatorKitPreview = ({ setPage }) => {
               }}
               className="bg-transparent border border-white/20 text-white font-round-bold uppercase px-5 py-3 rounded text-xs hover:bg-white/10 transition duration-300"
             >
-              Explore Server Lab
+              Open Server Forge
             </button>
           </div>
         </div>

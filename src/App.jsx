@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/all';
 import './App.css';
+import './styles/deep-server-money-scan.css';
 import { paymentLinks } from './data/paymentConfig';
 import { rockstarMediaCatalog } from './data/rockstarMediaCatalog';
 import { leadsToCsv, loadLeads, loadMembership, saveLead, saveMembership } from './utils/localStore';
@@ -23,32 +24,60 @@ import OutroPreview from './sections/OutroPreview';
 import LanaCoach from './sections/LanaCoach';
 import Calculators from './sections/Calculators';
 import TemplatesShop from './sections/TemplatesShop';
+import TopServerBlueprint from './commerce/deepMoney/TopServerBlueprint';
 import marinaBg from './assets/gta-money-team-lana-marina-bg.jpg';
 import officeBg from './assets/gta-money-team-lana-office-bg.jpg';
 import sunsetwalkBg from './assets/gta-money-team-lana-sunsetwalk-bg.jpg';
 import nightcarBg from './assets/gta-money-team-lana-nightcar-bg.jpg';
 import rooftopBg from './assets/gta-money-team-lana-rooftop-bg.jpg';
+import mediaBg from './assets/gta-money-team-media-bg.png';
 
 const brandBackdrop = './images/gta-money-team-city-billboard-backdrop.png';
 const luxAutomatonLogo = './images/lux-automaton-logo.png';
 const luxAgentLogo = './images/lux-agent-logo.png';
 const gtaMoneyTeamLogo = './images/gta-money-team-logo.png';
+const gmtTeamDayMarina = './assets/gmt-brand/gmt-team-day-marina.png';
+
+const lanaDayShots = [
+  { id: 'marina', title: 'Marina Money Coach', src: './assets/gmt-brand/lana-day-marina.png', page: 'HOME', note: 'Daytime marina strategy scene for member onboarding.' },
+  { id: 'street', title: 'Coastal Route Scout', src: './assets/gmt-brand/lana-day-street.png', page: 'Money Intel', note: 'Sunny city research and legal money planning.' },
+  { id: 'rooftop', title: 'Workshop Director', src: './assets/gmt-brand/lana-day-rooftop.png', page: 'Workshop', note: 'Premium course and training hub energy.' },
+  { id: 'studio', title: 'Studio Host', src: './assets/gmt-brand/lana-day-studio.png', page: 'Media Vault', note: 'Content, media, and offer-building visual.' },
+  { id: 'route', title: 'Causeway Planner', src: './assets/gmt-brand/lana-day-route.png', page: 'Calculators', note: 'Route math, legal cash-flow planning, and launch prep.' },
+  { id: 'investor', title: 'Investor Radar Host', src: './assets/gmt-brand/lana-day-investor.png', page: 'Investor Radar', note: 'Market literacy without financial-advice claims.' },
+];
+
+const customerPageLinks = [
+  ['home', 'HOME', 'Start here and see the core subscriber value.'],
+  ['gta-news', 'GTA News', 'Latest GTA/Rockstar briefings and money angles.'],
+  ['money-intel', 'Money Intel', 'Public server monetization signals and clean offer ideas.'],
+  ['template-shop', 'Store', 'Digital products, city packs, and workshop vault offers.'],
+  ['training-workshop', 'Workshop', 'Paid training hub, lessons, quizzes, and downloadable paths.'],
+  ['calculators', 'Calculators', 'Model member, server, creator, and template revenue.'],
+  ['server-lab', 'Server Forge', 'FiveM setup education, snippets, and pack planning.'],
+  ['investor-radar', 'Investor Radar', 'TTWO market literacy and scam-aware research.'],
+  ['launch-funnel', 'Launch Funnel', 'Turn traffic into members, downloads, and clean offers.'],
+  ['media-vault', 'Media Vault', 'Official media study, videos, screenshots, and artwork.'],
+  ['lana-coach', 'Lana Coach', 'Lux Agent coach for planning, strategy, and scripts.'],
+  ['about', 'About', 'Brand story, team visuals, and Lux Automaton positioning.'],
+  ['profile', 'Profile', 'Member dashboard and all-page command map.'],
+  ['member-activation', 'Access', 'Membership status, workshop unlocks, and subscriber tools.'],
+];
 
 gsap.registerPlugin(ScrollTrigger);
 
 const pageBackgrounds = {
-  'member-services':    marinaBg,
-  'money-courses':      rooftopBg,
-  'route-planner':      sunsetwalkBg,
+  profile:              './assets/gmt-brand/lana-day-studio.png',
+  about:                gmtTeamDayMarina,
   'launch-funnel':      marinaBg,
   'calculators':        officeBg,
   'server-lab':         officeBg,
-  'creator-kit':        rooftopBg,
+  'gta-news':           mediaBg,
+  'money-intel':        officeBg,
   'media-vault':        marinaBg,
   'investor-radar':     officeBg,
   'template-shop':      sunsetwalkBg,
   'member-activation':  nightcarBg,
-  'streaming-academy':  rooftopBg,
   'training-workshop':  rooftopBg,
   'lana-coach':         marinaBg,
   'lux-ops':            officeBg,
@@ -62,15 +91,25 @@ const marketSnapshot = {
 };
 
 const pageProfiles = {
-  'member-services': {
-    label: 'Services',
-    title: 'Services that sell',
-    description: 'Premium DFY offers, audits, route playbooks, member upsells, and support products designed for clean GTA Money Team revenue.',
-    signal: 'Offer desk live',
+  profile: {
+    label: 'Profile',
+    title: 'Member command profile',
+    description: 'A customer dashboard that shows subscription status, saved activity, and every GTA Money Team page from one place.',
+    signal: 'Account map',
+    accent: '#5dffb1',
+    accent2: '#43e7ff',
+    stats: [['17', 'pages'], ['$25/mo', 'workshop'], ['Lana', 'coach']],
+    rail: ['Access status', 'Page map', 'Recent activity', 'Downloads path'],
+  },
+  about: {
+    label: 'About',
+    title: 'Built by Lux Automaton',
+    description: 'GTA Money Team is a premium, legal, subscriber-focused training app powered by Lana from Lux Agent and created by Lux Automaton.',
+    signal: 'Brand story',
     accent: '#ff6f91',
-    accent2: '#44e8ff',
-    stats: [['4', 'paid offers'], ['$49+', 'entry product'], ['24h', 'lead follow-up']],
-    rail: ['DFY server builds', 'Script audits', 'Route playbooks', 'Template vault upsells'],
+    accent2: '#ffd166',
+    stats: [['Legal', 'strategy'], ['GTA', 'inspired'], ['Lux', 'built']],
+    rail: ['Lana host', 'Founder visuals', 'Clean money focus', 'Subscriber value'],
   },
   'template-shop': {
     label: 'Store',
@@ -80,7 +119,7 @@ const pageProfiles = {
     accent: '#f4a23a',
     accent2: '#ff6f91',
     stats: [['35', 'product SKUs'], ['23', 'city packs'], ['ZIP', 'delivery ready']],
-    rail: ['City pack vault', 'Regional packs', 'Checkout placeholders', 'Related offers'],
+    rail: ['City pack vault', 'Regional packs', 'Secure checkout', 'Related offers'],
   },
   calculators: {
     label: 'Calculators',
@@ -89,18 +128,8 @@ const pageProfiles = {
     signal: 'Revenue math',
     accent: '#5dffb1',
     accent2: '#ffd166',
-    stats: [['6', 'calculators'], ['$19', 'member model'], ['4-week', 'route forecast']],
+    stats: [['6', 'calculators'], ['$25', 'member model'], ['4-week', 'route forecast']],
     rail: ['Route profit', 'MRR model', 'Server revenue', 'Creator income'],
-  },
-  'streaming-academy': {
-    label: 'Streaming Academy',
-    title: 'Creator money studio',
-    description: 'OBS setups, widgets, audio routing, overlays, whitelists, and live subscriber checks for members.',
-    signal: 'Academy sequence',
-    accent: '#ff6f91',
-    accent2: '#5dffb1',
-    stats: [['5', 'video hooks'], ['OBS', 'scene pack'], ['2', 'live delays']],
-    rail: ['OBS scenes', 'Live delay setup', 'Audience widget', 'Overlay design'],
   },
   'training-workshop': {
     label: 'Workshop',
@@ -114,13 +143,13 @@ const pageProfiles = {
   },
   'member-activation': {
     label: 'Member Access',
-    title: 'Premium access control',
-    description: 'A front-end member unlock flow for checkout returns, local activation, gated benefits, and future Stripe or Tebex webhook verification.',
-    signal: 'Access desk',
+    title: 'Workshop access center',
+    description: 'Manage GTA Money Team Workshop access, unlock subscriber downloads, and return to your training path.',
+    signal: 'Member access',
     accent: '#ff6f91',
     accent2: '#5dffb1',
-    stats: [['Premium', 'demo tier'], ['GMT', 'access code'], ['Webhook', 'next backend']],
-    rail: ['Code unlock', 'Checkout return', 'Premium gate', 'Backend handoff'],
+    stats: [['Premium', 'tier'], ['GMT', 'access code'], ['$25/mo', 'workshop']],
+    rail: ['Access code', 'Workshop vault', 'Member perks', 'Download path'],
   },
   'launch-funnel': {
     label: 'Launch Funnel',
@@ -142,6 +171,16 @@ const pageProfiles = {
     stats: [[marketSnapshot.ticker, 'ticker'], [marketSnapshot.price, 'snapshot'], ['No', 'buy/sell calls']],
     rail: ['TTWO watch', 'Catalyst notes', 'Source habits', 'Scam warnings'],
   },
+  'money-intel': {
+    label: 'Money Intel',
+    title: 'Server money intelligence',
+    description: 'Study public RP monetization signals, turn them into original legal template offers, forecast revenue, and request clean setup services.',
+    signal: 'Public signals only',
+    accent: '#43e7ff',
+    accent2: '#ff6f91',
+    stats: [['10', 'market signals'], ['12', 'sellable offers'], ['No', 'copied assets']],
+    rail: ['Queue systems', 'Whitelist flows', 'Tebex ladders', 'Ops retainers'],
+  },
   'lana-coach': {
     label: 'Lana Coach',
     title: 'Lux Automaton AI host',
@@ -149,7 +188,7 @@ const pageProfiles = {
     signal: 'Coach online',
     accent: '#ff6f91',
     accent2: '#43e7ff',
-    stats: [['4', 'starter prompts'], ['800ms', 'demo reply'], ['Lux', 'agent host']],
+    stats: [['4', 'starter prompts'], ['Fast', 'coach reply'], ['Lux', 'agent host']],
     rail: ['Route coaching', 'Crew payouts', 'Server hosting', 'Creator strategy'],
   },
   'money-courses': {
@@ -173,10 +212,10 @@ const pageProfiles = {
     rail: ['Solo loops', 'Crew logistics', 'Launch week', 'Request build'],
   },
   'server-lab': {
-    label: 'Server Lab',
-    title: 'Template code workspace',
-    description: 'Browse starter server files, copy setup snippets, download pack notes, and request a custom server build.',
-    signal: 'Code lab',
+    label: 'Server Forge',
+    title: 'Paid server setup workspace',
+    description: 'Build clean FiveM server offers, member access tiers, security systems, launch files, and monthly support paths.',
+    signal: 'Forge live',
     accent: '#43e7ff',
     accent2: '#b46cff',
     stats: [['5', 'files'], ['Lua', 'core scripts'], ['CFG', 'server config']],
@@ -196,11 +235,21 @@ const pageProfiles = {
     label: 'Media Vault',
     title: 'Rockstar media command center',
     description: 'Browse official GTA VI videos, screenshots, artwork, and download packs for legal planning, content angles, launch research, and member education.',
-    signal: 'Official media scrape',
+    signal: 'Official media desk',
     accent: '#43e7ff',
     accent2: '#ff6f91',
     stats: [[rockstarMediaCatalog.counts.videos, 'videos'], [rockstarMediaCatalog.counts.screenshots, 'screens'], [rockstarMediaCatalog.counts.artworkWallpapers, 'artworks']],
     rail: ['Playable videos', 'Shot study', 'Download packs', 'Content angles'],
+  },
+  'gta-news': {
+    label: 'GTA News',
+    title: 'Newswire money desk',
+    description: 'Latest GTA VI, Rockstar, Take-Two, creator, server, and scam-watch headlines converted into clean subscriber action plans.',
+    signal: 'News desk live',
+    accent: '#5dffb1',
+    accent2: '#ff6f91',
+    stats: [['8h', 'auto refresh'], ['RSS', 'source feed'], ['Legal', 'money angles']],
+    rail: ['Official signals', 'Creator hooks', 'Investor notes', 'Scam checks'],
   },
   'lux-ops': {
     label: 'Lux Ops',
@@ -224,6 +273,13 @@ const defaultPageProfile = {
   stats: [['Legal', 'strategy'], ['Lana', 'coach'], ['Lux', 'automaton']],
   rail: ['Plan', 'Build', 'Track', 'Launch'],
 };
+
+const featuredNewsVideos = [
+  rockstarMediaCatalog.videos.find((video) => video.title === 'Grand Theft Auto VI Trailer 2'),
+  rockstarMediaCatalog.videos.find((video) => video.title === 'Grand Theft Auto VI Trailer 1'),
+  rockstarMediaCatalog.videos.find((video) => video.title === 'Official Cover Art Animation'),
+  ...rockstarMediaCatalog.videos.filter((video) => !video.title.includes('Trailer') && video.title !== 'Official Cover Art Animation'),
+].filter(Boolean).slice(0, 5);
 
 function PageHero({ profile }) {
   return (
@@ -353,22 +409,268 @@ const plannerRoutes = {
   ],
 };
 
-const serverSteps = [
+const serverForgeImages = {
+  hero: './assets/server-forge/server-forge-hero.png',
+  monetization: './assets/server-forge/server-forge-monetization.png',
+  community: './assets/server-forge/server-forge-community.png',
+  security: './assets/server-forge/server-forge-security.png',
+};
+
+const serverMonetizationOffers = [
   {
-    title: 'Server Basics',
-    text: 'Plan Linux hosting, automated backups, centralized logging, moderator roles, database ownership, and maintenance windows.',
+    id: 'founder-pass',
+    name: 'Founder Pass',
+    price: '$25-$75/mo',
+    type: 'Access',
+    image: serverForgeImages.monetization,
+    description: 'Early supporter status, private launch announcements, founder events, and a visible community role.',
+    delivery: 'Discord role, welcome message, founder channel, event access, and member badge.',
+    setup: ['Create the Founder Pass package.', 'Connect the purchase to a Discord role.', 'Publish founder rules and refund notes.', 'Schedule founder preview night.'],
+    avoid: 'Do not promise wins, cash-outs, or unfair gameplay power.',
   },
   {
-    title: 'Roleplay Rules',
-    text: 'Write clear behavior rules, staff escalation pathways, appeal forms, and user privacy guidelines before public applications.',
+    id: 'priority-review',
+    name: 'Priority Review',
+    price: '$10-$25',
+    type: 'Workflow',
+    image: serverForgeImages.community,
+    description: 'Fast application processing for serious players without guaranteeing acceptance.',
+    delivery: 'Application queue lane, review SLA, Discord ticket routing, and acceptance/rejection templates.',
+    setup: ['Create the review package.', 'Add a clear no-guarantee disclaimer.', 'Route orders to the application channel.', 'Assign staff review owners.'],
+    avoid: 'Do not sell automatic whitelist approval.',
   },
   {
-    title: 'Resource Stack',
-    text: 'Audit every script, license, external dependency, webhook, and admin command in a staging environment prior to server release.',
+    id: 'priority-queue',
+    name: 'Priority Queue',
+    price: '$15-$50/mo',
+    type: 'Access',
+    image: serverForgeImages.monetization,
+    description: 'Monthly convenience access for supporters who want faster entry during busy sessions.',
+    delivery: 'Queue tier, Discord role sync, renewal reminder, and support channel access.',
+    setup: ['Create monthly queue tiers.', 'Name each tier clearly.', 'Sync roles through the store flow.', 'Test access before public launch.'],
+    avoid: 'Do not attach gameplay advantage to queue status.',
   },
   {
-    title: 'Ops Rhythm',
-    text: 'Schedule restarts, snapshots, changelog posts, server performance reviews, and direct community feedback loops.',
+    id: 'creator-pass',
+    name: 'Creator Partner',
+    price: '$25-$99/mo',
+    type: 'Creator',
+    image: serverForgeImages.community,
+    description: 'A media-friendly lane for streamers, editors, and short-form creators who can drive server attention.',
+    delivery: 'Creator role, media kit, event calendar, clip prompts, and partner intake form.',
+    setup: ['Create creator application form.', 'Build a media kit folder.', 'Schedule weekly events.', 'Track creator clips and Discord joins.'],
+    avoid: 'Do not guarantee creator income or paid view counts.',
+  },
+  {
+    id: 'cosmetic-pack',
+    name: 'Cosmetic Supporter Pack',
+    price: '$9-$49',
+    type: 'Cosmetic',
+    image: serverForgeImages.monetization,
+    description: 'Original visual identity perks that support the server without changing gameplay balance.',
+    delivery: 'Supporter tag, cosmetic concepts, role badge, non-advantage vehicle wrap ideas, and usage notes.',
+    setup: ['List cosmetic-only perks.', 'Confirm assets are original or licensed.', 'Add delivery notes.', 'QA each cosmetic in staging.'],
+    avoid: 'Do not use real brands, real police marks, or stolen assets.',
+  },
+  {
+    id: 'business-license',
+    name: 'Business RP License',
+    price: '$15-$79',
+    type: 'RP Identity',
+    image: serverForgeImages.community,
+    description: 'Paid application and setup packet for players who want a structured in-character business.',
+    delivery: 'Business application, staff review flow, signage notes, Discord category, and RP rules.',
+    setup: ['Create business application form.', 'Define allowed business types.', 'Add staff approval workflow.', 'Publish payout and abuse rules.'],
+    avoid: 'Do not sell monopolies, unfair economy control, or guaranteed profit.',
+  },
+  {
+    id: 'event-night',
+    name: 'Event Night Pass',
+    price: '$5-$25',
+    type: 'Event',
+    image: serverForgeImages.community,
+    description: 'Ticketed creator nights, city showcases, launch parties, car meets, and community events.',
+    delivery: 'Event role, calendar invite, attendance cap, event rules, and recap content workflow.',
+    setup: ['Create event package.', 'Set attendance limits.', 'Publish event rules.', 'Prepare post-event clips and recap.'],
+    avoid: 'Do not run gambling, cash prizes, or chance-based rewards.',
+  },
+  {
+    id: 'staff-training',
+    name: 'Staff Training Pack',
+    price: '$49-$199',
+    type: 'B2B',
+    image: serverForgeImages.security,
+    description: 'Training system for moderators, reviewers, police leads, support staff, and event operators.',
+    delivery: 'Staff SOP, role matrix, escalation map, review scripts, and weekly ops checklist.',
+    setup: ['Write role responsibilities.', 'Create onboarding checklist.', 'Set staff permissions.', 'Run a pre-launch staff drill.'],
+    avoid: 'Do not copy manuals or private rules from top servers.',
+  },
+  {
+    id: 'security-audit',
+    name: 'Security Audit',
+    price: '$79-$299',
+    type: 'Defense',
+    image: serverForgeImages.security,
+    description: 'Anti-abuse review covering permissions, admin commands, logs, backups, staff access, and risky resources.',
+    delivery: 'Audit checklist, risk report, fix priorities, permission matrix, and backup plan.',
+    setup: ['Review ACE permissions.', 'Audit admin commands.', 'Check resource licenses.', 'Test backups and rollback.'],
+    avoid: 'Defensive review only. No bypasses, exploits, malware, or account theft.',
+  },
+  {
+    id: 'full-launch-vault',
+    name: 'Full Launch Vault',
+    price: '$199-$499',
+    type: 'Bundle',
+    image: serverForgeImages.hero,
+    description: 'Complete creator-led RP launch blueprint with configs, Discord, store products, scripts, content, and safety rules.',
+    delivery: 'Server config pack, Discord map, product ladder, launch checklist, creator scripts, and security SOP.',
+    setup: ['Download the vault.', 'Pick the offer ladder.', 'Build Discord and store pages.', 'Run soft launch and QA.'],
+    avoid: 'Do not claim official affiliation or sell GTA 6 server access before support exists.',
+  },
+];
+
+const serverLaunchPhases = [
+  ['01', 'Foundation', 'Pick an original server name, create Discord, set staff roles, prepare txAdmin/FiveM hosting, and test the resource pack.'],
+  ['02', 'Store Setup', 'Create the product ladder, add clear delivery notes, connect roles, write refund terms, and test checkout delivery.'],
+  ['03', 'Community Machine', 'Build applications, creator intake, event calendar, announcements, ticket categories, and member onboarding.'],
+  ['04', 'Security Pass', 'Lock admin permissions, audit resources, add logs, back up the database, and publish staff conduct rules.'],
+  ['05', 'Soft Launch', 'Open to staff first, then founders, then creator preview night, then public applications.'],
+];
+
+const serverGuardrails = [
+  ['No pay-to-win', 'Sell access, cosmetics, support, education, and community value. Do not sell weapons, boosted stats, or in-game cash.'],
+  ['No cash-out claims', 'Keep the server economy separate from real-world income, crypto, gambling, or play-to-earn promises.'],
+  ['Use original assets', 'Use licensed or original maps, clothing, logos, liveries, and server identity.'],
+  ['Clear delivery', 'Every paid option needs a delivery promise, support owner, refund note, and renewal policy.'],
+  ['Test before launch', 'Run every role, queue, package, and resource in staging before opening paid access.'],
+  ['Keep records', 'Track orders, staff actions, support tickets, changelogs, and incident notes.'],
+];
+
+const serverTemplateFiles = [
+  {
+    path: 'products/tebex_product_blueprint.csv',
+    name: 'Product Blueprint',
+    lang: 'csv',
+    content: `name,price,type,delivery,safe_angle
+Founder Pass,$25-$75/mo,Access,Discord role + founder event access,Community status
+Priority Application Review,$10-$25,Workflow,Faster review SLA,Administrative processing
+Priority Queue Membership,$15-$50/mo,Access,Queue role + renewal reminder,Convenience access
+Creator Partner Pass,$25-$99/mo,Creator,Media kit + event calendar,Creator support
+Supporter Cosmetic Pack,$9-$49,Cosmetic,Original visual/status perks,No gameplay advantage
+Business RP License,$15-$79,RP Identity,Application packet + staff review,Structured roleplay
+Event Night Pass,$5-$25,Event,Event role + recap workflow,Community events
+Staff Training Pack,$49-$199,B2B,SOP + role matrix,Operational education
+Security + Anti-Abuse Audit,$79-$299,Defense,Risk report + fix plan,Server hardening
+Creator City Full Launch Vault,$199-$499,Bundle,Configs + Discord + store + launch checklist,Complete launch system`
+  },
+  {
+    path: 'server-core/server.cfg.sample',
+    name: 'server.cfg',
+    lang: 'cfg',
+    content: `# GTA Money Team Creator Empire RP sample config
+endpoint_add_tcp "0.0.0.0:30120"
+endpoint_add_udp "0.0.0.0:30120"
+
+sv_hostname "Creator Empire RP | Original Paid RP Community"
+sets sv_projectName "Creator Empire RP"
+sets sv_projectDesc "Legal RP community built around access, events, cosmetics, creator systems, and fair play."
+sets tags "roleplay, fivem, creator, legal, economy, whitelist"
+
+set mysql_connection_string "mysql://user:password@localhost/creator_empire?charset=utf8mb4"
+set sv_enforceGameBuild 3095
+sv_maxclients 128
+
+ensure mapmanager
+ensure chat
+ensure spawnmanager
+ensure sessionmanager
+ensure hardcap
+ensure gmt_streamer_city
+
+add_ace group.admin command allow
+add_ace group.admin command.quit deny`
+  },
+  {
+    path: 'resources/[gmt]/gmt_streamer_city/config.lua',
+    name: 'gmt_streamer_city',
+    lang: 'lua',
+    content: `GMTStreamerCity = {
+  brand = "Creator Empire RP",
+  moneyRules = {
+    "No paid weapons, boosted stats, or in-game cash.",
+    "Paid offers must be cosmetic, access, support, education, or community value.",
+    "Priority review is faster review, not guaranteed acceptance."
+  },
+  creatorJobs = {
+    "Clip Reporter",
+    "Event Host",
+    "Business Promoter",
+    "City Photographer",
+    "Whitelist Interviewer"
+  },
+  safeProducts = {
+    "Founder Pass",
+    "Priority Review",
+    "Priority Queue",
+    "Creator Partner",
+    "Cosmetic Supporter Pack",
+    "Business RP License",
+    "Event Night Pass",
+    "Staff Training Pack",
+    "Security Audit",
+    "Full Launch Vault"
+  }
+}`
+  },
+  {
+    path: 'docs/PAID_SERVER_LAUNCH_CHECKLIST.md',
+    name: 'Launch Checklist',
+    lang: 'md',
+    content: `# Paid RP Server Launch Checklist
+
+## Foundation
+- Pick original server name.
+- Create Discord and staff roles.
+- Prepare txAdmin/FiveM host.
+- Test resource pack.
+
+## Monetization
+- Create store products.
+- Add delivery notes and disclaimers.
+- Connect Discord roles.
+- Test every purchase path.
+
+## Content
+- Create launch trailer.
+- Prepare 10 short-form clips.
+- Publish creator application post.
+- Schedule first event night.
+
+## Security
+- Lock admin permissions.
+- Audit resources.
+- Add logs and backups.
+- Create ban appeal process.
+
+## Launch
+- Staff-only soft open.
+- Founder access window.
+- Creator preview night.
+- Public application window.`
+  },
+  {
+    path: 'docs/SECURITY_SOP.md',
+    name: 'Security SOP',
+    lang: 'md',
+    content: `# Security SOP
+
+- Use least-privilege admin permissions.
+- Keep database, bot, and store secrets off public frontend code.
+- Review every resource source and license.
+- Back up database before installing new resource packs.
+- Log staff actions and admin commands.
+- Do not install leaked scripts or unknown executables.
+- Publish staff conduct, appeal, and incident response rules.`
   },
 ];
 
@@ -377,56 +679,6 @@ const investorCards = [
   ['Catalyst watch', 'Monitor official trailers, pre-orders, platform news, delays, reviews, sales data, and post-launch monetization.'],
   ['Crypto firewall', 'There is no official GTA token. Treat beta coins, wallet links, early-access NFTs, and free-money offers as hostile.'],
   ['Education only', 'Investor Radar teaches research habits and scam defense. It is not financial advice or a buy/sell signal.'],
-];
-
-const serviceCards = [
-  {
-    title: 'Basic DFY Template',
-    price: '$49-$99',
-    cadence: 'one-time',
-    accent: 'cyan',
-    text: 'QBCore or ESX starter pack with txAdmin notes, essential scripts, Discord roles, and launch checklist.',
-    bullets: ['Pre-configured starter recipe', 'Basic branding pass', 'Install video checklist'],
-  },
-  {
-    title: 'Full Custom Server Build',
-    price: '$299+',
-    cadence: 'one-time',
-    accent: 'pink',
-    text: 'Launch-ready economy, jobs, maps, legal donation structure, staff workflow, and performance pass.',
-    bullets: ['Custom economy and jobs', 'Maps and resources plan', 'One month support upsell'],
-  },
-  {
-    title: 'Script Audit',
-    price: '$79',
-    cadence: 'per audit',
-    accent: 'yellow',
-    text: 'Security, optimization, license, webhook, admin-command, and dependency review for existing servers.',
-    bullets: ['Risk report', 'Performance notes', 'Fix-priority roadmap'],
-  },
-  {
-    title: 'Custom Money Routes',
-    price: '$149+',
-    cadence: 'per playbook',
-    accent: 'green',
-    text: 'Legal route plans, payout splits, crew roles, RP economy rules, and retention schedule for operators.',
-    bullets: ['Route and payout matrix', 'Crew role map', 'Economy tuning notes'],
-  },
-];
-
-const memberTiers = [
-  ['Free', '$0', 'Basic guides, scam warnings, public launch boards, and starter calculators.'],
-  ['Premium', '$9-$19/mo', 'All tools, template vault access, Discord setup pack, OBS templates, and priority requests.'],
-  ['Launch-Ready', '$299+', 'DFY server pack, custom economy, support month, and operator handoff call.'],
-];
-
-const streamingChecklist = [
-  ['Capture', 'Use OBS Game Capture for the FiveM window and keep a Browser Source scene for alerts.'],
-  ['Encoding', 'Use NVENC on NVIDIA or x264 when CPU headroom allows. Start at 6000-8000 kbps for 1080p60.'],
-  ['Overlays', 'StreamElements or Streamlabs alerts, chat box, clean webcam frame, and no clutter over minimaps.'],
-  ['Delay', 'Add 15-30 seconds for RP streams to reduce sniping and metagaming.'],
-  ['Platforms', 'Twitch for RP discovery, YouTube for evergreen guides, Kick only if your audience is already there.'],
-  ['Clips', 'Use Rockstar Editor and OBS replay buffer for cinematic route recaps.'],
 ];
 
 const structuralResearchHabits = [
@@ -464,28 +716,148 @@ const courseTracks = [
   },
 ];
 
-function PaymentLinkButton({ paymentKey, className = '' }) {
-  const link = paymentLinks[paymentKey];
+const hasPremiumAccess = (membership) => {
+  const tier = String(membership?.tier || '').toLowerCase();
+  return membership?.status === 'active' || tier === 'premium' || tier === 'launch-ready';
+};
 
-  if (!link) {
+function SubscriptionPreviewBar({ membership, onCheckout, setPage }) {
+  if (hasPremiumAccess(membership)) {
     return null;
   }
 
   return (
-    <a
-      href={link.url}
-      className={`payment-link ${className}`}
-      onClick={(event) => {
-        if (link.url.startsWith('#')) {
-          event.preventDefault();
-          alert(`${link.provider} placeholder: paste the live hosted payment link into src/data/paymentConfig.js.`);
-        }
-      }}
-    >
-      <span>{link.label}</span>
-      <strong>{link.price}</strong>
-      <small>{link.provider} ready</small>
-    </a>
+    <section className="subscription-status-bar" aria-label="Workshop subscription">
+      <div>
+        <strong>Explore the Workshop</strong>
+        <span>Every page is open to browse. Join the GTA Money Team Workshop to unlock downloads, member drops, calculators, city packs, server templates, and Lana playbooks.</span>
+      </div>
+      <div className="subscription-status-actions">
+        <button type="button" onClick={() => onCheckout('premiumMonthly')}>Join $25/mo</button>
+        <button type="button" className="ghost" onClick={() => setPage('member-activation')}>I Have Access</button>
+      </div>
+    </section>
+  );
+}
+
+function CheckoutModal({ paymentKey, onClose, onDemoCheckout, setPage }) {
+  const link = paymentLinks[paymentKey] || paymentLinks.premiumMonthly;
+
+  if (!paymentKey || !link) {
+    return null;
+  }
+
+  const hasHostedCheckout = /^https?:\/\//i.test(link.url);
+
+  return (
+    <div className="request-modal-backdrop" role="presentation">
+      <div className="request-modal checkout-modal" role="dialog" aria-modal="true" aria-labelledby="checkout-title">
+        <button onClick={onClose} className="request-close" aria-label="Close checkout">x</button>
+        <span className="font-mono text-pink text-xs uppercase block mb-3">// GTA Money Team Checkout</span>
+        <h2 id="checkout-title" className="font-round-bold text-3xl uppercase text-white mb-3">{link.label}</h2>
+        <div className="checkout-price-lockup">
+          <strong>{link.price}</strong>
+          <span>Member checkout</span>
+        </div>
+        <p className="text-white/65 text-xs leading-relaxed mb-5">
+          Members keep browsing the full app, then unlock downloadable vault packs, member-only drops, calculators, server templates, and workshop access after checkout verification.
+        </p>
+        <div className="checkout-feature-grid">
+          {['Full workshop vault', 'Server and city packs', 'Revenue calculators', 'Lana coaching prompts'].map((feature) => (
+            <span key={feature}>{feature}</span>
+          ))}
+        </div>
+        <div className="checkout-actions">
+          {hasHostedCheckout ? (
+            <a href={link.url} target="_blank" rel="noreferrer" className="checkout-primary">
+              Continue Secure Checkout
+            </a>
+          ) : (
+            <button type="button" className="checkout-primary" onClick={onDemoCheckout}>
+              Start Workshop Access
+            </button>
+          )}
+          <button
+            type="button"
+            className="checkout-secondary"
+            onClick={() => {
+              onClose();
+              setPage('member-activation');
+            }}
+          >
+            Activate Existing Access
+          </button>
+        </div>
+        {!hasHostedCheckout && <p className="checkout-note">You can activate access here and continue into the member workshop.</p>}
+      </div>
+    </div>
+  );
+}
+
+function LiveStockChart() {
+  const chartUrl = 'https://s.tradingview.com/widgetembed/?symbol=NASDAQ%3ATTWO&interval=D&hidesidetoolbar=1&symboledit=1&saveimage=0&toolbarbg=f1f3f6&studies=%5B%5D&theme=dark&style=1&timezone=America%2FLos_Angeles&withdateranges=1&hideideas=1';
+
+  return (
+    <section className="live-stock-chart-panel" aria-label="Live TTWO stock chart">
+      <div className="live-stock-chart-head">
+        <div>
+          <span>Live Stock Chart</span>
+          <strong>Take-Two Interactive Software Inc. (TTWO)</strong>
+        </div>
+        <small>Powered by TradingView market data. Research only, not financial advice.</small>
+      </div>
+      <iframe
+        title="Live TTWO stock chart"
+        src={chartUrl}
+        loading="lazy"
+        referrerPolicy="no-referrer-when-downgrade"
+      />
+    </section>
+  );
+}
+
+function getYoutubeEmbedUrl(video) {
+  if (video?.youtubeEmbed) return video.youtubeEmbed;
+  if (!video?.youtubeUrl) return null;
+
+  try {
+    const url = new URL(video.youtubeUrl);
+    const id = url.hostname.includes('youtu.be')
+      ? url.pathname.slice(1)
+      : url.searchParams.get('v');
+    return id ? `https://www.youtube.com/embed/${id}` : null;
+  } catch {
+    return null;
+  }
+}
+
+function MediaPlayer({ video, title }) {
+  const youtubeEmbed = getYoutubeEmbedUrl(video);
+
+  if (youtubeEmbed) {
+    return (
+      <iframe
+        key={youtubeEmbed}
+        src={`${youtubeEmbed}?rel=0&modestbranding=1`}
+        title={title || video.title}
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+        loading="lazy"
+      />
+    );
+  }
+
+  return (
+    <video
+      key={video.video}
+      src={video.video}
+      poster={video.poster}
+      controls
+      muted
+      loop
+      playsInline
+      preload="metadata"
+    />
   );
 }
 
@@ -566,218 +938,13 @@ function RoutePlannerPage({ onRequest }) {
 
 function ServerLabPage({ onRequest }) {
   const [selectedFile, setSelectedFile] = useState(0);
+  const [selectedOfferId, setSelectedOfferId] = useState('founder-pass');
+  const [selectedOfferIds, setSelectedOfferIds] = useState(['founder-pass', 'priority-review', 'priority-queue', 'creator-pass']);
+  const [discordLeads, setDiscordLeads] = useState(420);
+  const [conversionRate, setConversionRate] = useState(18);
+  const [averagePrice, setAveragePrice] = useState(25);
+  const [addonRevenue, setAddonRevenue] = useState(1200);
   const [copied, setCopied] = useState(false);
-
-  const serverTemplateFiles = [
-    {
-      path: 'config/server.cfg',
-      name: 'server.cfg',
-      lang: 'cfg',
-      content: `# =========================================================================
-#                     GTA VI / LEONIDA STATE SERVER CONFIG
-#               Template Powered by GTA Money Team & Lux Automaton
-# =========================================================================
-
-# Only change the IP if you are running on a multi-homed server setup.
-endpoint_add_tcp "0.0.0.0:30120"
-endpoint_add_udp "0.0.0.0:30120"
-
-# --- Database Integration Configuration ---
-set mysql_connection_string "mysql://db_user:REPLACE_WITH_DB_PASSWORD@localhost/gtavi_server?charset=utf8mb4"
-
-# --- Core Resource Group Loads ---
-ensure mapmanager
-ensure chat
-ensure spawnmanager
-ensure sessionmanager
-ensure basic-gamemode
-ensure hardcap
-ensure rconlog
-
-# --- Custom GTA Money Team Core Scripts ---
-ensure moneyteam-core
-
-# --- Server Security & Performance Parameters ---
-sv_maxclients 48
-set steam_webApiKey "YOUR_STEAM_API_KEY_HERE"
-sv_licenseKey "YOUR_LICENSE_KEY_HERE"
-
-# --- Server Identity & Custom Branding ---
-sets tags "gta6, rp, legal, vice-city, money-team, legit"
-sets locale "en-US"
-sv_hostname "GTA Money Team Roleplay | Legit Progression | Powered by Lux Automaton"
-sets sv_projectName "GTA Money Team Server"
-sets sv_projectDesc "Learn how to make money the legit way through advanced custom legal routes and playbooks."
-
-# --- Administrative Permissions Configuration ---
-add_ace group.admin command allow
-add_ace group.admin command.quit deny
-add_principal identifier.fivem:12345 group.admin`
-    },
-    {
-      path: 'resources/[core]/moneyteam-core/fxmanifest.lua',
-      name: 'fxmanifest.lua',
-      lang: 'lua',
-      content: `# =========================================================================
-#                    GTA VI / LEONIDA RESOURCE MANIFEST
-#               Template Powered by GTA Money Team & Lux Automaton
-# =========================================================================
-
-fx_version 'cerulean'
-game 'gta5'
-
-author 'Lux Automaton'
-description 'Core Player Management, Spawn Points, and Permissions Engine for GTA VI Servers.'
-version '1.0.0'
-
-server_scripts {
-    'server/player.lua'
-}
-
-client_scripts {
-    'client/spawn.lua'
-}`
-    },
-    {
-      path: 'resources/[core]/moneyteam-core/server/player.lua',
-      name: 'player.lua',
-      lang: 'lua',
-      content: `-- =========================================================================
---                    GTA VI / LEONIDA SERVER PLAYER CORE
---               Template Powered by GTA Money Team & Lux Automaton
--- =========================================================================
-
-local ActivePlayers = {}
-local PermissionRoles = {
-    ['admin'] = 3,
-    ['moderator'] = 2,
-    ['user'] = 1
-}
-
-AddEventHandler('playerConnecting', function(playerName, setKickReason, deferrals)
-    local src = source
-    local identifiers = GetPlayerIdentifiers(src)
-    local hasLicense = false
-
-    deferrals.defer()
-    deferrals.update(string.format("Welcome %s. Auditing connection permissions...", playerName))
-    Wait(1000)
-
-    for _, identifier in ipairs(identifiers) do
-        if string.find(identifier, "license:") then
-            hasLicense = true
-            break
-        end
-    end
-
-    if not hasLicense then
-        deferrals.done("Connection rejected: Valid license key not found.")
-    else
-        deferrals.done()
-    end
-end)
-
-RegisterNetEvent('playerDropped')
-AddEventHandler('playerDropped', function(reason)
-    local src = source
-    ActivePlayers[src] = nil
-end)
-
-RegisterNetEvent('moneyteam:playerLoaded')
-AddEventHandler('moneyteam:playerLoaded', function()
-    local src = source
-    local playerName = GetPlayerName(src)
-    local licenseId = GetPlayerIdentifier(src, 0)
-
-    ActivePlayers[src] = {
-        name = playerName,
-        license = licenseId,
-        cash = 5000,
-        bank = 25000,
-        role = 'user'
-    }
-
-    if IsPlayerAceAllowed(src, "command") then
-        ActivePlayers[src].role = 'admin'
-    end
-
-    TriggerClientEvent('moneyteam:syncPlayer', src, ActivePlayers[src])
-end)`
-    },
-    {
-      path: 'resources/[core]/moneyteam-core/client/spawn.lua',
-      name: 'spawn.lua',
-      lang: 'lua',
-      content: `-- =========================================================================
---                    GTA VI / LEONIDA CLIENT SPAWN CORE
---               Template Powered by GTA Money Team & Lux Automaton
--- =========================================================================
-
-local PlayerState = {}
-local FirstSpawn = true
-
-local SpawnsCatalog = {
-    ['Vice City Airport'] = { x = -1035.42, y = -2732.18, z = 13.75, heading = 328.5 },
-    ['Ocean Drive Motel'] = { x = 245.12, y = -1450.45, z = 29.15, heading = 110.2 },
-    ['Leonida Keys Marina'] = { x = 852.34, y = 145.89, z = 5.24, heading = 45.0 }
-}
-
-RegisterNetEvent('moneyteam:syncPlayer')
-AddEventHandler('moneyteam:syncPlayer', function(data)
-    PlayerState = data
-end)
-
-Citizen.CreateThread(function()
-    while true do
-        Citizen.Wait(0)
-        if NetworkIsSessionActive() and FirstSpawn then
-            FirstSpawn = false
-            Citizen.Wait(2000)
-            TriggerServerEvent('moneyteam:playerLoaded')
-            break
-        end
-    end
-end)
-
-function ExecuteSpawn(spawnKey)
-    local coords = SpawnsCatalog[spawnKey]
-    if not coords then return end
-    local ped = PlayerPedId()
-    SetEntityCoords(ped, coords.x, coords.y, coords.z, false, false, false, true)
-end`
-    },
-    {
-      path: 'README.md',
-      name: 'README.md',
-      lang: 'md',
-      content: `# GTA VI / Leonida State Starter Server Template
-*Powered by GTA Money Team & Created by Lux Automaton*
-
-This template serves as a comprehensive starting point for deploying roleplay servers centered around legal career pathways.
-
-## Folder Hierarchy
-\`\`\`text
-[gta6-server-root]/
-├── config/
-│   └── server.cfg                # Main config, endpoints, loads, licenses
-├── resources/
-│   └── [core]/
-│       └── moneyteam-core/
-│           ├── fxmanifest.lua     # Resource manifest declaration
-│           ├── server/
-│           │   └── player.lua     # Server-side player auth & permissions
-│           └── client/
-│               └── spawn.lua      # Client-side spawner & teleports
-└── README.md                      # Setup & Customization guide
-\`\`\`
-
-## Deployment Steps
-1. Create database 'gtavi_server' and paste SQL files.
-2. Edit database connection string in 'server.cfg'.
-3. Paste sv_licenseKey and steam_webApiKey.
-4. Execute: './FXServer +exec config/server.cfg'.`
-    }
-  ];
 
   const handleCopy = (text) => {
     navigator.clipboard.writeText(text);
@@ -786,102 +953,218 @@ This template serves as a comprehensive starting point for deploying roleplay se
   };
 
   const currentFile = serverTemplateFiles[selectedFile];
+  const selectedOffer = serverMonetizationOffers.find((offer) => offer.id === selectedOfferId) || serverMonetizationOffers[0];
+  const selectedOffers = serverMonetizationOffers.filter((offer) => selectedOfferIds.includes(offer.id));
+  const estimatedMembers = Math.round((Number(discordLeads) || 0) * ((Number(conversionRate) || 0) / 100));
+  const estimatedMonthly = estimatedMembers * (Number(averagePrice) || 0) + (Number(addonRevenue) || 0);
+  const selectedSetupSteps = selectedOffers.reduce((total, offer) => total + offer.setup.length, 0);
+  const blueprintDownload = './downloads/gta-money-team-streamer-rp-paid-server-blueprint.zip';
+  const completePackage = serverTemplateFiles.map((file) => `// ==========================================\n// FILE: ${file.path}\n// ==========================================\n\n${file.content}`).join('\n\n');
+
+  const toggleOffer = (offerId) => {
+    setSelectedOfferIds((current) => (
+      current.includes(offerId)
+        ? current.filter((id) => id !== offerId)
+        : [...current, offerId]
+    ));
+    setSelectedOfferId(offerId);
+  };
 
   return (
-    <div className="text-left w-full">
-      <span className="font-mono text-pink text-xs uppercase block mb-3">// Server Lab</span>
-      <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">GTA VI Server Template</h1>
-      <p className="text-white/70 text-sm mb-8 max-w-3xl">
-        Deploy your own legal Leonida State roleplay server. Navigate the codebase, customize settings, copy scripts, or download the full server pack files directly.
-      </p>
-
-      {/* Explorer Grid */}
-      <div className="grid lg:grid-cols-12 gap-8 items-stretch w-full mb-10">
-
-        {/* Left Side: Directory Tree */}
-        <div className="lg:col-span-4 border border-white/10 bg-white/5 rounded-lg p-5 flex flex-col justify-between">
-          <div>
-            <strong className="block text-white uppercase text-xs font-mono tracking-wider mb-4">// Project Workspace</strong>
-            <nav className="flex flex-col gap-1.5">
-              {serverTemplateFiles.map((file, idx) => (
-                <button
-                  key={file.path}
-                  onClick={() => setSelectedFile(idx)}
-                  className={`w-full text-left px-3 py-2 rounded text-xs font-mono transition cursor-pointer flex justify-between items-center ${selectedFile === idx ? 'bg-pink/20 text-pink border-l-2 border-pink' : 'text-white/60 hover:bg-white/5'}`}
-                >
-                  <span className="truncate">{file.path}</span>
-                  <span className="text-[10px] text-white/30 uppercase ml-2">{file.lang}</span>
-                </button>
-              ))}
-            </nav>
+    <div className="server-forge-page text-left w-full">
+      <section className="server-forge-hero">
+        <img src={serverForgeImages.hero} alt="Server Forge command center" />
+        <div className="server-forge-hero-copy">
+          <span>Premium RP Server Setup</span>
+          <h1>Server Forge</h1>
+          <p>
+            Build a legal streamer-style FiveM RP server business around access, Discord, queue tiers, creator events,
+            cosmetics, staff training, security, and launch vault downloads.
+          </p>
+          <div className="server-forge-actions">
+            <a href={blueprintDownload} download>Download Blueprint</a>
+            <button type="button" onClick={() => onRequest('Creator Empire RP Server Build')}>Request Build Help</button>
           </div>
-
-          <div className="mt-8 pt-5 border-t border-white/10 space-y-3">
-            <button
-              onClick={() => {
-                // Trigger download of complete server package in Markdown format
-                const completePackage = serverTemplateFiles.map(f => `// ==========================================\n// FILE: ${f.path}\n// ==========================================\n\n${f.content}`).join('\n\n');
-                const blob = new Blob([completePackage], { type: 'text/plain' });
-                const url = URL.createObjectURL(blob);
-                const a = document.createElement('a');
-                a.href = url;
-                a.download = 'gta6_server_complete_template.txt';
-                a.click();
-                URL.revokeObjectURL(url);
-              }}
-              className="w-full py-2.5 bg-cyan text-black font-semibold text-xs uppercase rounded hover:bg-white transition duration-300 cursor-pointer text-center"
-            >
-              Download Server Pack
-            </button>
-            <button
-              onClick={() => onRequest('Custom Server Build')}
-              className="w-full py-2.5 bg-transparent border border-white/20 text-white font-semibold text-xs uppercase rounded hover:bg-white/10 transition duration-300 cursor-pointer text-center"
-            >
-              Request Custom Server Setup
-            </button>
+          <div className="server-forge-proof">
+            <article><strong>{serverMonetizationOffers.length}</strong><span>safe offer ideas</span></article>
+            <article><strong>{selectedSetupSteps}</strong><span>setup actions selected</span></article>
+            <article><strong>Fair</strong><span>no pay-to-win lane</span></article>
           </div>
         </div>
+        <aside className="server-forge-builder">
+          <span>Launch Model Builder</span>
+          <strong>${estimatedMonthly.toLocaleString()}/mo</strong>
+          <p>Estimated gross from selected audience, conversion, monthly pass price, and add-ons.</p>
+          <label>
+            Discord leads
+            <input type="number" min="0" value={discordLeads} onChange={(event) => setDiscordLeads(Number(event.target.value))} />
+          </label>
+          <label>
+            Conversion rate
+            <input type="number" min="0" max="100" value={conversionRate} onChange={(event) => setConversionRate(Number(event.target.value))} />
+          </label>
+          <label>
+            Average monthly pass
+            <input type="number" min="0" value={averagePrice} onChange={(event) => setAveragePrice(Number(event.target.value))} />
+          </label>
+          <label>
+            Add-ons per month
+            <input type="number" min="0" value={addonRevenue} onChange={(event) => setAddonRevenue(Number(event.target.value))} />
+          </label>
+        </aside>
+      </section>
 
-        {/* Right Side: Code Viewer */}
-        <div className="lg:col-span-8 border border-white/10 bg-[#090b11] rounded-lg flex flex-col overflow-hidden">
-
-          {/* Header */}
-          <div className="bg-black/40 px-5 py-3 border-b border-white/10 flex justify-between items-center">
+      <section className="server-forge-photo-strip">
+        {[
+          ['Monetization Setup', serverForgeImages.monetization, 'Build founder passes, queue memberships, cosmetics, events, and launch vault bundles.'],
+          ['Community Machine', serverForgeImages.community, 'Turn Discord, creators, events, and applications into a clean paid community funnel.'],
+          ['Security Ops', serverForgeImages.security, 'Protect permissions, logs, backups, staff actions, and resource quality before launch.'],
+        ].map(([title, image, text]) => (
+          <article key={title}>
+            <img src={image} alt={`${title} visual`} />
             <div>
-              <span className="font-mono text-white/40 text-[10px] uppercase block">// Active Code Buffer</span>
-              <strong className="text-white text-xs font-mono">{currentFile.name}</strong>
+              <strong>{title}</strong>
+              <p>{text}</p>
             </div>
-            <button
-              onClick={() => handleCopy(currentFile.content)}
-              className="px-3 py-1.5 bg-white/5 border border-white/10 text-white hover:bg-white/10 text-[10px] uppercase font-semibold rounded transition cursor-pointer"
-            >
-              {copied ? 'Copied!' : 'Copy Code'}
-            </button>
-          </div>
+          </article>
+        ))}
+      </section>
 
-          {/* Editor Body */}
-          <div className="p-5 font-mono text-xs text-white/80 bg-black/90 flex-1 overflow-x-auto whitespace-pre leading-relaxed select-all max-h-[450px]">
-            <code>{currentFile.content}</code>
-          </div>
+      <section className="server-forge-section-head">
+        <div>
+          <span>Revenue and access products</span>
+          <h2>Pick what the server sells</h2>
+        </div>
+        <p>Members can browse every option, select the packages that fit their server, and use Lana to turn the selected stack into a setup checklist.</p>
+      </section>
 
-          {/* Footer */}
-          <div className="bg-black/20 px-5 py-2.5 border-t border-white/10 flex justify-between items-center text-[10px] text-white/40 font-mono">
-            <span>Size: {currentFile.content.length} characters</span>
-            <span className="uppercase">Language: {currentFile.lang}</span>
-          </div>
+      <section className="server-offer-grid">
+        {serverMonetizationOffers.map((offer) => {
+          const active = selectedOfferIds.includes(offer.id);
+          return (
+            <article key={offer.id} className={active ? 'active' : ''}>
+              <button type="button" onClick={() => setSelectedOfferId(offer.id)} className="server-offer-photo">
+                <img src={offer.image} alt={`${offer.name} setup visual`} />
+              </button>
+              <div>
+                <span>{offer.type}</span>
+                <strong>{offer.name}</strong>
+                <p>{offer.description}</p>
+              </div>
+              <footer>
+                <small>{offer.price}</small>
+                <button type="button" onClick={() => toggleOffer(offer.id)}>{active ? 'In Plan' : 'Add'}</button>
+              </footer>
+            </article>
+          );
+        })}
+      </section>
 
+      <section className="server-forge-workbench">
+        <div className="server-selected-offer">
+          <img src={selectedOffer.image} alt={`${selectedOffer.name} selected setup`} />
+          <div>
+            <span>{selectedOffer.type} setup</span>
+            <h2>{selectedOffer.name}</h2>
+            <p>{selectedOffer.delivery}</p>
+            <strong>Easy setup path</strong>
+            <ol>
+              {selectedOffer.setup.map((step) => <li key={step}>{step}</li>)}
+            </ol>
+            <div className="server-avoid-box">{selectedOffer.avoid}</div>
+          </div>
         </div>
 
-      </div>
-
-      <div className="grid md:grid-cols-2 gap-6">
-        {serverSteps.map((step) => (
-          <div key={step.title} className="p-6 border border-white/10 rounded-lg bg-white/5">
-            <strong className="block text-xl text-yellow uppercase mb-2">{step.title}</strong>
-            <p className="text-white/70 text-xs leading-relaxed">{step.text}</p>
+        <div className="server-revenue-panel">
+          <span>Selected launch stack</span>
+          <strong>{selectedOffers.length} products</strong>
+          <p>{estimatedMembers.toLocaleString()} estimated paying members from {discordLeads.toLocaleString()} leads at {conversionRate}% conversion.</p>
+          <div className="server-selected-tags">
+            {selectedOffers.map((offer) => <button type="button" key={offer.id} onClick={() => setSelectedOfferId(offer.id)}>{offer.name}</button>)}
           </div>
+          <a href={blueprintDownload} download>Download Creator Empire RP Blueprint</a>
+        </div>
+      </section>
+
+      <section className="server-forge-checklist">
+        <div className="server-forge-section-head">
+          <div>
+            <span>Launch checklist</span>
+            <h2>From idea to paid server</h2>
+          </div>
+          <p>Use this as the customer-facing path. It shows what to do first, what can be sold, and where the safety checks happen.</p>
+        </div>
+        <div className="server-phase-grid">
+          {serverLaunchPhases.map(([number, title, text]) => (
+            <article key={number}>
+              <span>{number}</span>
+              <strong>{title}</strong>
+              <p>{text}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="server-guardrail-grid">
+        <div className="server-forge-section-head">
+          <div>
+            <span>Compliance guardrails</span>
+            <h2>Keep the money clean</h2>
+          </div>
+          <p>Server Forge is built for legal community monetization, not cheats, unfair advantage, stolen assets, fake crypto, or account-risk shortcuts.</p>
+        </div>
+        {serverGuardrails.map(([title, text]) => (
+          <article key={title}>
+            <span />
+            <strong>{title}</strong>
+            <p>{text}</p>
+          </article>
         ))}
-      </div>
+      </section>
+
+      <section className="server-resource-explorer">
+        <div className="server-resource-tree">
+          <span>Resource explorer</span>
+          <strong>Blueprint files</strong>
+          <nav>
+            {serverTemplateFiles.map((file, idx) => (
+              <button
+                key={file.path}
+                type="button"
+                onClick={() => setSelectedFile(idx)}
+                className={selectedFile === idx ? 'active' : ''}
+              >
+                <span>{file.path}</span>
+                <small>{file.lang}</small>
+              </button>
+            ))}
+          </nav>
+          <button
+            type="button"
+            onClick={() => {
+              const blob = new Blob([completePackage], { type: 'text/plain' });
+              const url = URL.createObjectURL(blob);
+              const link = document.createElement('a');
+              link.href = url;
+              link.download = 'gta-money-team-server-forge-preview.txt';
+              link.click();
+              URL.revokeObjectURL(url);
+            }}
+          >
+            Export Preview Notes
+          </button>
+        </div>
+        <div className="server-code-viewer">
+          <header>
+            <div>
+              <span>{currentFile.path}</span>
+              <strong>{currentFile.name}</strong>
+            </div>
+            <button type="button" onClick={() => handleCopy(currentFile.content)}>{copied ? 'Copied' : 'Copy'}</button>
+          </header>
+          <pre><code>{currentFile.content}</code></pre>
+        </div>
+      </section>
     </div>
   );
 }
@@ -966,6 +1249,17 @@ function MediaVaultPage() {
     ['artwork', 'Artwork', rockstarMediaCatalog.artwork],
   ];
   const activeMedia = mediaTabs.find(([id]) => id === activeTab)?.[2] || [];
+  const mediaFallbacks = [
+    './assets/gmt-brand/lana-day-marina.png',
+    './assets/gmt-brand/lana-day-route.png',
+    './assets/server-forge/server-forge-community.png',
+    './images/gta-money-team-url-preview.png',
+  ];
+  const getMediaImage = (item, index) => item.poster || item.image || item.thumbnail || (/\.(png|jpe?g|webp)(\?|$)/i.test(item.url || '') ? item.url : mediaFallbacks[index % mediaFallbacks.length]);
+  const handleMediaImageFallback = (event, index = 0) => {
+    event.currentTarget.onerror = null;
+    event.currentTarget.src = mediaFallbacks[index % mediaFallbacks.length];
+  };
   const mediaStrategies = [
     ['Trailer Clip Factory', 'Turn each official video into a legal breakdown, short-form hook, thumbnail idea, and Discord discussion prompt.'],
     ['Screenshot SEO Board', 'Group screenshots by character, district, vehicle, and business angle so posts answer specific search intent.'],
@@ -977,7 +1271,7 @@ function MediaVaultPage() {
     <div className="media-vault-page text-left w-full">
       <div className="media-vault-hero">
         <div>
-          <span className="font-mono text-pink text-xs uppercase block mb-3">// Official Rockstar Media Scrape</span>
+          <span className="font-mono text-pink text-xs uppercase block mb-3">// Official Media Vault</span>
           <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">GTA VI Media Command Center</h1>
           <p className="text-white/70 text-sm mb-8 max-w-3xl">
             Browse official Rockstar videos, screenshots, artwork, and download packs from the GTA VI media hub. Use it for clean trailer study, launch-week content planning, thumbnail research, and member education.
@@ -988,17 +1282,7 @@ function MediaVaultPage() {
           </div>
         </div>
         <div className="media-feature-player">
-          <video
-            key={activeVideo.video}
-            src={activeVideo.video}
-            poster={activeVideo.poster}
-            controls
-            autoPlay
-            muted
-            loop
-            playsInline
-            preload="auto"
-          />
+          <MediaPlayer video={activeVideo} title={activeVideo.title} />
           <div>
             <span>{activeVideo.category}</span>
             <strong>{activeVideo.title}</strong>
@@ -1023,7 +1307,7 @@ function MediaVaultPage() {
         <div className="rockstar-video-grid">
           {rockstarMediaCatalog.videos.map((video) => (
             <button type="button" key={video.title} className="rockstar-video-card" onClick={() => setActiveVideo(video)}>
-              <img src={video.poster} alt={video.title} loading="lazy" />
+              <img src={video.poster || mediaFallbacks[0]} alt={video.title} loading="lazy" onError={(event) => handleMediaImageFallback(event, 0)} />
               <span>{video.category}</span>
               <strong>{video.title}</strong>
               <p>{video.description}</p>
@@ -1070,9 +1354,9 @@ function MediaVaultPage() {
           ))}
         </div>
         <div className="rockstar-image-grid">
-          {activeMedia.map((item) => (
+          {activeMedia.map((item, index) => (
             <a href={item.url} target="_blank" rel="noreferrer" key={`${item.group}-${item.title}`} className="rockstar-image-card">
-              <img src={item.url} alt={item.title} loading="lazy" />
+              <img src={getMediaImage(item, index)} alt={item.title} loading="lazy" onError={(event) => handleMediaImageFallback(event, index)} />
               <span>{item.group}</span>
               <strong>{item.title}</strong>
             </a>
@@ -1099,6 +1383,245 @@ function MediaVaultPage() {
   );
 }
 
+const fallbackNewsFeed = {
+  generatedAt: new Date().toISOString(),
+  rightsNote: 'Official-source briefing desk. GTA Money Team tracks public updates and turns them into clean member action plans.',
+  sources: [
+    { id: 'rockstar-vi-hub', name: 'Rockstar Games', url: 'https://www.rockstargames.com/VI', type: 'official' },
+    { id: 'take-two-ir', name: 'Take-Two Investor Relations', url: 'https://ir.take2games.com/rss/news-releases.xml', type: 'official' },
+  ],
+  officialWatchlist: [
+    {
+      id: 'rockstar-vi-hub',
+      title: 'Grand Theft Auto VI Official Hub',
+      source: 'Rockstar Games',
+      url: 'https://www.rockstargames.com/VI',
+      image: rockstarMediaCatalog.videos[1]?.poster || './images/gta-money-team-city-billboard-backdrop.png',
+      note: 'Use as the first source before teaching release, edition, platform, or story claims.',
+    },
+    {
+      id: 'rockstar-media-hub',
+      title: 'Official GTA VI Media Hub',
+      source: 'Rockstar Games',
+      url: rockstarMediaCatalog.source,
+      image: rockstarMediaCatalog.videos[0]?.poster || './images/gta-money-team-brand-backdrop.png',
+      note: 'Approved public videos, screenshots, artwork, and download packs for media study.',
+    },
+  ],
+  items: [
+    {
+      id: 'fallback-official-hub',
+      title: 'Grand Theft Auto VI Official Source Desk',
+      excerpt: 'Track Rockstar source links, official media, platform pages, editions, and launch claims before converting them into training updates.',
+      url: 'https://www.rockstargames.com/VI',
+      source: 'Rockstar Games',
+      sourceUrl: 'https://www.rockstargames.com',
+      sourceType: 'official',
+      publishedAt: new Date().toISOString(),
+      image: rockstarMediaCatalog.videos[1]?.poster || './images/gta-money-team-city-billboard-backdrop.png',
+      category: 'Official',
+      moneyAngle: 'Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates.',
+    },
+  ],
+  videos: featuredNewsVideos,
+};
+
+const newsFilters = ['All', 'Official', 'Launch Commerce', 'Media Watch', 'Investor Radar', 'Verify First', 'Server Ops'];
+
+function formatNewsDate(value) {
+  if (!value) return 'Source date pending';
+
+  try {
+    return new Intl.DateTimeFormat('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+    }).format(new Date(value));
+  } catch {
+    return 'Source date pending';
+  }
+}
+
+function NewsRoomPage() {
+  const [feed, setFeed] = useState(fallbackNewsFeed);
+  const [activeFilter, setActiveFilter] = useState('All');
+  const [feedState, setFeedState] = useState('loading');
+
+  useEffect(() => {
+    let mounted = true;
+
+    fetch('./data/gta-news.json', { cache: 'no-cache' })
+      .then((response) => {
+        if (!response.ok) throw new Error('News feed unavailable');
+        return response.json();
+      })
+      .then((payload) => {
+        if (!mounted) return;
+        setFeed({
+          ...fallbackNewsFeed,
+          ...payload,
+          items: payload.items?.length ? payload.items : fallbackNewsFeed.items,
+          videos: payload.videos?.length ? payload.videos : fallbackNewsFeed.videos,
+          officialWatchlist: payload.officialWatchlist?.length ? payload.officialWatchlist : fallbackNewsFeed.officialWatchlist,
+        });
+        setFeedState('live');
+      })
+      .catch(() => {
+        if (!mounted) return;
+        setFeed(fallbackNewsFeed);
+        setFeedState('fallback');
+      });
+
+    return () => {
+      mounted = false;
+    };
+  }, []);
+
+  const items = feed.items || [];
+  const filteredItems = activeFilter === 'All' ? items : items.filter((item) => item.category === activeFilter);
+  const featureStory = filteredItems[0] || items[0] || fallbackNewsFeed.items[0];
+  const storyCards = (filteredItems.length ? filteredItems : items).slice(0, 12);
+  const videos = (feed.videos?.length ? feed.videos : rockstarMediaCatalog.videos).slice(0, 5);
+  const sourceCount = new Set(items.map((item) => item.source)).size || feed.sources?.length || 0;
+  const generatedDate = formatNewsDate(feed.generatedAt);
+
+  const handleImageFallback = (event) => {
+    event.currentTarget.onerror = null;
+    event.currentTarget.src = './images/gta-money-team-city-billboard-backdrop.png';
+  };
+
+  return (
+    <div className="news-room-page text-left w-full">
+      <section className="news-room-hero">
+        <article className="news-feature-card">
+          <img src={featureStory.image} alt={featureStory.title} onError={handleImageFallback} />
+          <div className="news-feature-overlay">
+            <span>{featureStory.category}</span>
+            <h1>{featureStory.title}</h1>
+            <p>{featureStory.excerpt}</p>
+            <a href={featureStory.url} target="_blank" rel="noreferrer">Open source</a>
+          </div>
+        </article>
+        <aside className="news-scanner-panel">
+          <span className="font-mono text-pink text-xs uppercase">// GTA Money Team briefing desk</span>
+          <h2>Latest GTA News Into Paid Member Value</h2>
+          <p>
+            Track GTA VI, Rockstar, Take-Two, FiveM, creator, and scam-watch stories, then turn the important updates into useful member briefings, content ideas, and legal money plans.
+          </p>
+          <div className="news-signal-grid">
+            <article><strong>{items.length}</strong><span>stories</span></article>
+            <article><strong>{sourceCount}</strong><span>sources</span></article>
+            <article><strong>{feedState === 'live' ? 'Live' : 'Local'}</strong><span>feed</span></article>
+            <article><strong>{generatedDate}</strong><span>updated</span></article>
+          </div>
+        </aside>
+      </section>
+
+      <section className="news-watchlist">
+        <div className="media-section-heading">
+          <span>Trusted official anchors</span>
+          <h2>Source Watch</h2>
+        </div>
+        <div className="news-watch-grid">
+          {(feed.officialWatchlist || fallbackNewsFeed.officialWatchlist).map((source, index) => (
+            <a href={source.url} target="_blank" rel="noreferrer" key={`${source.id || source.url}-${index}`}>
+              <img src={source.image} alt={source.title} onError={handleImageFallback} />
+              <span>{source.source}</span>
+              <strong>{source.title}</strong>
+              <p>{source.note}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section className="media-section-block">
+        <div className="media-section-heading">
+          <span>Headline desk</span>
+          <h2>Latest GTA Briefings</h2>
+        </div>
+        <div className="news-filter-row" role="tablist" aria-label="GTA news filters">
+          {newsFilters.map((filter) => (
+            <button
+              type="button"
+              key={filter}
+              className={activeFilter === filter ? 'active' : ''}
+              aria-selected={activeFilter === filter}
+              onClick={() => setActiveFilter(filter)}
+            >
+              {filter}
+            </button>
+          ))}
+        </div>
+        <div className="news-card-grid">
+          {storyCards.map((story, index) => (
+            <article key={`${story.id || story.url || story.title}-${index}`} className={`news-story-card ${story.riskFlag ? 'news-risk-card' : ''}`}>
+              <a href={story.url} target="_blank" rel="noreferrer" className="news-story-image">
+                <img src={story.image} alt={story.title} loading="lazy" onError={handleImageFallback} />
+              </a>
+              <div className="news-story-body">
+                <div className="news-story-meta">
+                  <span>{story.category}</span>
+                  <small>{formatNewsDate(story.publishedAt)}</small>
+                </div>
+                <strong>{story.title}</strong>
+                <p>{story.excerpt}</p>
+                <div className="news-money-angle">
+                  <span>Lana angle</span>
+                  <p>{story.moneyAngle}</p>
+                </div>
+                <div className="news-story-footer">
+                  <a href={story.sourceUrl || story.url} target="_blank" rel="noreferrer">{story.source}</a>
+                  <a href={story.url} target="_blank" rel="noreferrer">Read source</a>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="media-section-block news-video-desk">
+        <div className="media-section-heading">
+          <span>Photos and videos</span>
+          <h2>Official Media For News Context</h2>
+        </div>
+        <div className="news-video-grid">
+          {videos.map((video) => (
+            <article key={video.id || video.title}>
+              <MediaPlayer video={video} title={video.title} />
+              <div>
+                <span>{video.category}</span>
+                <strong>{video.title}</strong>
+                <p>{video.description}</p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="news-money-system">
+        <div>
+          <span>Subscriber playbook</span>
+          <h2>How News Becomes Money Team Value</h2>
+          <p>{feed.rightsNote}</p>
+        </div>
+        <div className="news-system-grid">
+          {[
+            ['Verify', 'Check official Rockstar, Take-Two, platform, or publisher source links before posting.'],
+            ['Brief', 'Have Lana turn each story into a plain-English member update with date, source, and risk notes.'],
+            ['Create', 'Convert safe stories into shorts, thumbnails, email updates, Discord posts, and course add-ons.'],
+            ['Sell', 'Tie the briefing to legal training products: route planners, city packs, server audits, and creator kits.'],
+          ].map(([title, text]) => (
+            <article key={title}>
+              <strong>{title}</strong>
+              <p>{text}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+}
+
 function InvestorRadarPage() {
   return (
     <div className="text-left w-full">
@@ -1107,6 +1630,7 @@ function InvestorRadarPage() {
       <p className="text-white/70 text-sm mb-8 max-w-2xl">
         Monitor Take-Two stock, earnings timelines, and official releases while keeping a strict firewall against crypto scammers.
       </p>
+      <LiveStockChart />
       <div className="grid md:grid-cols-2 gap-8 items-start">
         <div className="grid grid-cols-2 gap-4">
           {investorCards.map(([title, text]) => (
@@ -1154,102 +1678,6 @@ function InvestorRadarPage() {
   );
 }
 
-function MemberServicesPage({ onRequest, setPage }) {
-  return (
-    <div className="text-left w-full">
-      <span className="font-mono text-pink text-xs uppercase block mb-3">// Member Services</span>
-      <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">Services That Sell</h1>
-      <p className="text-white/70 text-sm mb-8 max-w-2xl">
-        Member-only DFY server packs, audits, legal money-route playbooks, template vault access, and premium support. No cheats, no exploits, no account-risk shortcuts.
-      </p>
-      <div className="grid lg:grid-cols-4 md:grid-cols-2 gap-6">
-        {serviceCards.map((card) => (
-          <div key={card.title} className={`service-price-card ${card.accent}`}>
-            <div>
-              <span className="font-mono text-[10px] uppercase block mb-3">member-only</span>
-              <strong className="block text-lg text-white uppercase mb-2">{card.title}</strong>
-              <p className="text-white/60 text-xs leading-relaxed mb-5">{card.text}</p>
-              <ul className="space-y-2 text-white/55 text-xs">
-                {card.bullets.map((bullet) => (
-                  <li key={bullet}>{bullet}</li>
-                ))}
-              </ul>
-            </div>
-            <div>
-              <strong className="service-price">{card.price}</strong>
-              <span className="block text-white/45 text-[10px] uppercase mb-4">{card.cadence}</span>
-              <button onClick={() => onRequest(card.title)} className="w-full py-2 bg-transparent border border-current rounded text-xs font-semibold uppercase hover:bg-white/10 transition duration-300">
-                Request Service
-              </button>
-            </div>
-          </div>
-        ))}
-      </div>
-      <div className="mt-8 grid md:grid-cols-3 gap-6">
-        {memberTiers.map(([tier, price, text]) => (
-          <div key={tier} className="p-6 border border-white/10 rounded-lg bg-white/5">
-            <span className="font-mono text-cyan text-[10px] uppercase">pricing tier</span>
-            <strong className="block text-white text-xl uppercase my-2">{tier}</strong>
-            <strong className="block text-green text-3xl uppercase mb-3">{price}</strong>
-            <p className="text-white/60 text-xs leading-relaxed">{text}</p>
-            {tier === 'Premium' && <PaymentLinkButton paymentKey="premiumMonthly" className="mt-5" />}
-            {tier === 'Launch-Ready' && <PaymentLinkButton paymentKey="customServer" className="mt-5" />}
-          </div>
-        ))}
-      </div>
-      <div className="mt-8 p-6 border border-green/25 rounded-lg bg-green/5 flex flex-col md:flex-row gap-5 items-start md:items-center justify-between">
-        <div>
-          <strong className="block text-green text-lg uppercase mb-2">Template Vault Upsell</strong>
-          <p className="text-white/65 text-xs leading-relaxed max-w-3xl">
-            Sell downloadable ZIPs for QBCore/ESX starter packs, Discord setup templates, OBS scene collections, and setup videos. Buyer delivery can start as a protected member page, then move to Stripe/PayPal fulfillment when checkout credentials are ready.
-          </p>
-        </div>
-        <button onClick={() => setPage('template-shop')} className="px-5 py-3 bg-green text-black text-xs font-semibold uppercase rounded hover:bg-white transition duration-300">
-          Open Template Shop
-        </button>
-      </div>
-      <div className="mt-4 flex flex-wrap gap-3">
-        <button onClick={() => setPage('template-shop')} className="px-4 py-2 border border-cyan/40 text-cyan text-xs font-semibold uppercase rounded hover:bg-cyan/10">
-          Open Template Shop
-        </button>
-        <button onClick={() => setPage('lux-ops')} className="px-4 py-2 border border-white/15 text-white/50 text-xs font-semibold uppercase rounded hover:text-white hover:border-white/30">
-          Internal Ops Desk
-        </button>
-      </div>
-    </div>
-  );
-}
-
-function StreamingAcademyPage({ onRequest }) {
-  return (
-    <div className="text-left w-full">
-      <span className="font-mono text-pink text-xs uppercase block mb-3">// Streaming Academy</span>
-      <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">OBS Setup For GTA RP</h1>
-      <p className="text-white/70 text-sm mb-8 max-w-3xl">
-        Build a subscriber-ready streaming workflow with OBS Studio, clean overlays, safe delays, and reusable scene collections for members.
-      </p>
-      <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-6">
-        {streamingChecklist.map(([title, text]) => (
-          <article key={title} className="p-6 border border-white/10 rounded-lg bg-white/5">
-            <span className="font-mono text-yellow text-[10px] uppercase">streaming setup</span>
-            <strong className="block text-white text-xl uppercase my-2">{title}</strong>
-            <p className="text-white/60 text-xs leading-relaxed">{text}</p>
-          </article>
-        ))}
-      </div>
-      <div className="mt-8 p-6 border border-cyan/25 rounded-lg bg-cyan/5">
-        <strong className="block text-cyan text-2xl uppercase mb-3">Subscriber Product: OBS Scene Collection</strong>
-        <p className="text-white/65 text-xs leading-relaxed mb-5">
-          Offer "Starting Soon", "Live RP", "BRB", "Route Recap", and "YouTube Guide Recording" scenes with alerts, chat box, webcam, and audio routing notes.
-        </p>
-        <button onClick={() => onRequest('OBS Scene Collection')} className="px-5 py-3 bg-cyan text-black text-xs font-semibold uppercase rounded hover:bg-white transition duration-300">
-          Request OBS Pack
-        </button>
-      </div>
-    </div>
-  );
-}
-
 function MemberActivationPage({ membership, setMembership, latestOrder }) {
   const [code, setCode] = useState('');
   const [error, setError] = useState('');
@@ -1259,16 +1687,16 @@ function MemberActivationPage({ membership, setMembership, latestOrder }) {
       <span className="font-mono text-pink text-xs uppercase block mb-3">// Member Activation</span>
       <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">Checkout Success & Access</h1>
       <p className="text-white/70 text-sm mb-8 max-w-3xl">
-        Frontend-only demo for payment returns and membership activation. Real launch should verify Stripe, PayPal, or Tebex webhooks on the backend.
+        Activate your GTA Money Team Workshop access, confirm your membership status, and continue into the subscriber vault.
       </p>
       <div className="grid lg:grid-cols-2 gap-6">
         <div className="premium-gate">
           <strong>{membership?.tier || 'Free'} Member</strong>
-          <p>Use test member code GMT-PREMIUM-LUX to unlock premium locally.</p>
+          <p>Enter your member access code from your receipt or welcome message to unlock the workshop vault.</p>
           <div className="service-form">
             <label>
               Member code
-              <input value={code} onChange={(event) => setCode(event.target.value)} placeholder="GMT-PREMIUM-LUX" />
+              <input value={code} onChange={(event) => setCode(event.target.value)} placeholder="Enter access code" />
             </label>
             <button
               type="button"
@@ -1278,7 +1706,7 @@ function MemberActivationPage({ membership, setMembership, latestOrder }) {
                   setMembership(activated);
                   setError('');
                 } else {
-                  setError('Invalid demo code');
+                  setError('We could not verify that access code.');
                 }
               }}
             >
@@ -1288,9 +1716,9 @@ function MemberActivationPage({ membership, setMembership, latestOrder }) {
           {error && <p className="text-pink text-xs mt-3">{error}</p>}
         </div>
         <div className="p-6 border border-green/25 rounded-lg bg-green/5">
-          <strong className="block text-green text-2xl uppercase mb-3">Latest Checkout Return</strong>
+          <strong className="block text-green text-2xl uppercase mb-3">Recent Access Activity</strong>
           <p className="text-white/65 text-xs leading-relaxed">
-            {latestOrder ? `${latestOrder.product} via ${latestOrder.provider} is recorded as ${latestOrder.status}.` : 'No checkout return recorded yet. Add ?checkout=success&product=Premium to the URL to test.'}
+            {latestOrder ? `${latestOrder.product} access is active for this workshop session.` : 'Your workshop access activity will appear here after checkout or member-code activation.'}
           </p>
         </div>
       </div>
@@ -1353,16 +1781,16 @@ function LuxOpsDeskPage({ leads, orders, tasks, campaigns }) {
       <span className="font-mono text-pink text-xs uppercase block mb-3">// Internal Only</span>
       <h1 className="font-round-bold text-4xl md:text-5xl uppercase text-white mb-6">Lux Ops Desk</h1>
       <p className="text-white/70 text-sm mb-8 max-w-3xl">
-        Local lead tracker for service requests, template interest, and handoff exports. This is stored in browser localStorage until a real CRM, email, or Discord webhook is connected.
+        Private fulfillment workspace for authorized Lux Automaton team members.
       </p>
       {!unlocked ? (
         <div className="premium-gate">
           <strong>Ops desk locked</strong>
-          <p>Enter the local operator passcode to view leads, orders, tasks, and campaigns. Demo passcode: lux-ops-2026.</p>
+          <p>This area is reserved for authorized team members.</p>
           <input
             value={passcode}
             onChange={(event) => setPasscode(event.target.value)}
-            placeholder="Operator passcode"
+            placeholder="Access code"
             className="ops-passcode"
           />
         </div>
@@ -1371,7 +1799,7 @@ function LuxOpsDeskPage({ leads, orders, tasks, campaigns }) {
           <div className="ops-toolbar">
             <div>
               <strong>{leads.length}</strong>
-              <span>local leads captured</span>
+              <span>leads captured</span>
             </div>
             <button onClick={() => exportCsv('gta-money-team-leads.csv', leadsToCsv(leads))}>Export Leads CSV</button>
             <button onClick={() => exportCsv('gta-money-team-orders.csv', toCsv(orders, ['id', 'product', 'provider', 'status', 'createdAt']))}>Export Orders CSV</button>
@@ -1418,26 +1846,26 @@ function RequestServiceModal({ service, onClose, onLeadSaved, onTaskSaved }) {
   }
 
   const emailBody = submitted
-    ? encodeURIComponent(`Service: ${submitted.service}\nContact: ${submitted.contact}\nBudget: ${submitted.budget}\nDetails:\n${submitted.details}`)
+    ? encodeURIComponent(`Build: ${submitted.service}\nContact: ${submitted.contact}\nBudget: ${submitted.budget}\nDetails:\n${submitted.details}`)
     : '';
 
   return (
     <div className="request-modal-backdrop" role="presentation">
       <div className="request-modal" role="dialog" aria-modal="true" aria-labelledby="request-title">
         <button onClick={onClose} className="request-close" aria-label="Close request form">x</button>
-        <span className="font-mono text-pink text-xs uppercase block mb-3">// Request Service</span>
+        <span className="font-mono text-pink text-xs uppercase block mb-3">// Build Request</span>
         <h2 id="request-title" className="font-round-bold text-3xl uppercase text-white mb-3">{service}</h2>
         {submitted ? (
           <div className="p-5 border border-green/30 rounded bg-green/10">
-            <strong className="block text-green text-xl uppercase mb-2">Request staged</strong>
+            <strong className="block text-green text-xl uppercase mb-2">Build Request Received</strong>
             <p className="text-white/65 text-xs leading-relaxed">
-              Lana saved a local backup and prepared the email handoff. Stripe Checkout, PayPal, or Discord webhook can replace this once credentials are approved.
+              Your build request is ready for review. Send it to Lux Automaton so the team can follow up with next steps.
             </p>
             <a
-              href={`mailto:luxautomaton@gmail.com?subject=${encodeURIComponent(`GTA Money Team Request: ${submitted.service}`)}&body=${emailBody}`}
+              href={`mailto:luxautomaton@gmail.com?subject=${encodeURIComponent(`GTA Money Team Build Request: ${submitted.service}`)}&body=${emailBody}`}
               className="request-mail-link"
             >
-              Send to Lux Automaton
+              Send Build Request
             </a>
           </div>
         ) : (
@@ -1466,8 +1894,8 @@ function RequestServiceModal({ service, onClose, onLeadSaved, onTaskSaved }) {
             className="service-form"
           >
             <label>
-              Discord or email
-              <input name="contact" required placeholder="username#0000 or email@domain.com" />
+              Contact
+              <input name="contact" required placeholder="email or Discord username" />
             </label>
             <label>
               Budget range
@@ -1481,9 +1909,9 @@ function RequestServiceModal({ service, onClose, onLeadSaved, onTaskSaved }) {
             </label>
             <label>
               Project details
-              <textarea name="details" required placeholder="Server framework, route goals, Discord size, audit needs, deadline..." />
+              <textarea name="details" required placeholder="Tell us what you want to build, sell, improve, or learn first." />
             </label>
-            <button type="submit">Submit Request</button>
+            <button type="submit">Submit Build Request</button>
           </form>
         )}
       </div>
@@ -2579,7 +3007,7 @@ function TrainingWorkshopPage() {
     './images/gta-real-money-training.jpg',
     './images/gta-server-training.jpg',
     './images/gta-faceless-content-training.jpg',
-    './images/lana-command-center.png',
+    './assets/gmt-brand/lana-day-rooftop.png',
   ];
 
   const getCourseImage = (training, index = 0) => {
@@ -2592,15 +3020,15 @@ function TrainingWorkshopPage() {
   const heroCourse = trainings.find((training) => training.id === 'gta_real_money_guide') || trainings[0];
 
   const workshopMetrics = [
-    { value: trainings.length, label: 'course products', detail: 'member-ready modules' },
-    { value: totalLessons, label: 'lesson blocks', detail: 'routes, scripts, server labs' },
-    { value: interactiveCount, label: 'quiz courses', detail: 'XP assessments live' },
-    { value: scoreXP, label: 'member XP', detail: 'local training score' },
+    { value: trainings.length, label: 'workshop products', detail: 'member-ready modules' },
+    { value: totalLessons, label: 'lesson blocks', detail: 'routes, scripts, server forge' },
+    { value: interactiveCount, label: 'quiz labs', detail: 'XP assessments live' },
+    { value: scoreXP, label: 'member XP', detail: 'training score' },
   ];
 
   const workshopTracks = [
     {
-      title: 'Player Money Routes',
+      title: 'Player Money Lab',
       kicker: 'Gameplay route lab',
       image: './images/gta-real-money-training.jpg',
       bullets: ['Route stacking', 'Cooldown planning', 'Clean risk checks'],
@@ -2620,7 +3048,7 @@ function TrainingWorkshopPage() {
     {
       title: 'Lana Coaching Desk',
       kicker: 'Lux AI host',
-      image: './images/lana-command-center.png',
+      image: './assets/gmt-brand/lana-day-rooftop.png',
       bullets: ['Course prompts', 'Launch review', 'Offer polish'],
     },
   ];
@@ -2635,8 +3063,8 @@ function TrainingWorkshopPage() {
 
   const categoryMeta = {
     'Gameplay Route': { className: 'route', label: 'Route Lab' },
-    'Server Management': { className: 'server', label: 'Server Lab' },
-    'Server Business': { className: 'server', label: 'Server Lab' },
+    'Server Management': { className: 'server', label: 'Server Forge' },
+    'Server Business': { className: 'server', label: 'Server Forge' },
     'Content Creation': { className: 'creator', label: 'Creator Lab' },
     'Wealth Strategy': { className: 'wealth', label: 'Wealth Lab' },
     'Business Paths': { className: 'wealth', label: 'Business Lab' },
@@ -2649,7 +3077,7 @@ function TrainingWorkshopPage() {
           <span className="workshop-eyebrow">Paid Member Workshop</span>
           <h1>Build the money skill stack before launch week.</h1>
           <p>
-            Train players, creators, and server owners with legal route labs, quiz-based courses, exportable outlines,
+            Train players, creators, and server owners with legal route labs, interactive lessons, exportable outlines,
             and Lana-backed planning systems that turn GTA Money Team into a premium learning product.
           </p>
           <div className="workshop-hero-actions">
@@ -2666,11 +3094,11 @@ function TrainingWorkshopPage() {
         </div>
 
         <div className="workshop-command-screen">
-          <img src="./images/lana-command-center.png" alt="Lana command center" />
+          <img src="./assets/gmt-brand/lana-day-rooftop.png" alt="Lana hosting a daytime GTA Money Team workshop" />
           <div className="workshop-screen-glass">
             <span>Lana Coach Signal</span>
             <strong>{scoreXP} XP</strong>
-            <p>Course builder, route planner, server lab, creator funnel, and safety firewall connected.</p>
+            <p>Workshop vault, calculators, Server Forge, Media Vault, Money Intel, and safety firewall connected.</p>
           </div>
         </div>
       </section>
@@ -2709,7 +3137,7 @@ function TrainingWorkshopPage() {
               <span>Active Training Catalog</span>
               <h2>Subscriber-ready course products</h2>
             </div>
-            <p>{trainings.length} courses live in the workshop vault.</p>
+            <p>{trainings.length} workshop modules live in the vault.</p>
           </div>
 
           <div className="workshop-course-grid">
@@ -3091,25 +3519,164 @@ function TrainingWorkshopPage() {
   );
 }
 
+function UserProfilePage({ membership, leads, orders, campaigns, setPage, onCheckout }) {
+  const active = hasPremiumAccess(membership);
+  const recentActivity = [
+    ...orders.map((order) => ({ type: 'Order', title: order.product, meta: order.status })),
+    ...leads.map((lead) => ({ type: 'Lead', title: lead.service, meta: lead.status })),
+    ...campaigns.map((campaign) => ({ type: 'Campaign', title: campaign.headline, meta: campaign.channel })),
+  ].slice(0, 5);
+
+  return (
+    <div className="user-profile-page text-left w-full">
+      <section className="profile-hero-card">
+        <div>
+          <span className="font-mono text-green text-xs uppercase block mb-3">// Member Profile</span>
+          <h1>GTA Money Team Account</h1>
+          <p>
+            Your customer command profile keeps every training page, store page, research page, and Lana coaching page one click away. Browse everything in preview mode, then unlock the workshop vault when the subscription is active.
+          </p>
+          <div className="profile-actions">
+            <button type="button" onClick={() => onCheckout('premiumMonthly')}>{active ? 'Review Checkout' : 'Join Workshop $25/mo'}</button>
+            <button type="button" className="ghost" onClick={() => setPage('training-workshop')}>Open Workshop</button>
+          </div>
+        </div>
+        <img src="./assets/gmt-brand/lana-day-studio.png" alt="Lana hosting the GTA Money Team creator studio" />
+      </section>
+
+      <section className="profile-status-grid">
+        <article>
+          <span>Status</span>
+          <strong>{active ? `${membership?.tier || 'Premium'} Active` : 'Preview Visitor'}</strong>
+          <p>{active ? 'Downloads and member paths are ready for your account.' : 'All pages are visible, with upgrade prompts for paid downloads and vault access.'}</p>
+        </article>
+        <article>
+          <span>Workshop</span>
+          <strong>$25/mo</strong>
+          <p>Workshop lessons, downloads, city packs, calculators, Server Forge, and Lana playbooks.</p>
+        </article>
+        <article>
+          <span>Activity</span>
+          <strong>{recentActivity.length}</strong>
+          <p>Recent orders, campaigns, and saved actions from your GTA Money Team journey.</p>
+        </article>
+      </section>
+
+      <section className="profile-page-map">
+        <div className="profile-section-head">
+          <span>All Pages</span>
+          <strong>Customer Command Map</strong>
+        </div>
+        <div className="profile-page-grid">
+          {customerPageLinks.map(([id, label, detail]) => (
+            <button key={id} type="button" onClick={() => setPage(id)}>
+              <strong>{label}</strong>
+              <span>{detail}</span>
+            </button>
+          ))}
+        </div>
+      </section>
+
+      <section className="profile-activity-panel">
+        <div className="profile-section-head">
+          <span>Account Activity</span>
+          <strong>Recent Activity</strong>
+        </div>
+        {recentActivity.length ? (
+          <div className="profile-activity-list">
+            {recentActivity.map((item, index) => (
+              <article key={`${item.type}-${item.title}-${index}`}>
+                <span>{item.type}</span>
+                <strong>{item.title || 'GTA Money Team action'}</strong>
+                <small>{item.meta || 'Saved'}</small>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div className="profile-empty-state">
+            <strong>No activity yet</strong>
+            <p>Open the Store, Workshop, Launch Funnel, or Member Access pages to start building your member profile.</p>
+          </div>
+        )}
+      </section>
+    </div>
+  );
+}
+
+function AboutPage({ setPage, onCheckout }) {
+  return (
+    <div className="about-page text-left w-full">
+      <section className="about-team-hero">
+        <img src={gmtTeamDayMarina} alt="GTA Money Team founders and Lana in a GTA-inspired daytime marina scene" />
+        <div>
+          <span className="font-mono text-pink text-xs uppercase block mb-3">// About GTA Money Team</span>
+          <h1>Learn How To Make Money The Legit Way.</h1>
+          <p>
+            GTA Money Team is built for players, creators, and server owners who want the clean path: training, planning, calculators, content systems, server education, market literacy, and launch-week advantage without cheats, stolen assets, scams, or exploit culture.
+          </p>
+          <div className="about-cta-row">
+            <button type="button" onClick={() => setPage('profile')}>Open Profile</button>
+            <button type="button" className="ghost" onClick={() => onCheckout('premiumMonthly')}>Join Workshop</button>
+          </div>
+        </div>
+      </section>
+
+      <section className="about-brand-grid">
+        {[
+          ['Powered by Lana from Lux Agent', 'Lana stays inside the app as the branded AI host for route strategy, server planning, creator systems, and member coaching.'],
+          ['Created by Lux Automaton', 'Lux Automaton builds the app, workshop vault, visual system, research workflow, and customer-facing subscription experience.'],
+          ['Legal Money Strategy', 'The word hack means smarter planning: routes, calculators, templates, education, media research, and launch systems.'],
+        ].map(([title, text]) => (
+          <article key={title}>
+            <strong>{title}</strong>
+            <p>{text}</p>
+          </article>
+        ))}
+      </section>
+
+      <section className="lana-photo-gallery">
+        <div className="profile-section-head">
+          <span>New Lana Daytime Shots</span>
+          <strong>Brand Gallery</strong>
+        </div>
+        <div className="lana-gallery-grid">
+          {lanaDayShots.map((shot) => (
+            <article key={shot.id}>
+              <img src={shot.src} alt={`${shot.title} GTA Money Team artwork`} />
+              <div>
+                <span>{shot.page}</span>
+                <strong>{shot.title}</strong>
+                <p>{shot.note}</p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+}
+
 // Router switcher helper
 function renderSubpage(page, helpers) {
   switch (page) {
+    case 'profile':
+      return <UserProfilePage membership={helpers.membership} leads={helpers.leads} orders={helpers.orders} campaigns={helpers.campaigns} setPage={helpers.setPage} onCheckout={helpers.onCheckout} />;
+    case 'about':
+      return <AboutPage setPage={helpers.setPage} onCheckout={helpers.onCheckout} />;
     case 'lana-coach':
       return <LanaCoach />;
     case 'money-courses':
-      return <MoneyCoursesPage />;
+      return <TrainingWorkshopPage />;
     case 'calculators':
       return <Calculators />;
     case 'route-planner':
-      return <RoutePlannerPage onRequest={helpers.onRequest} />;
+      return <TopServerBlueprint onRequest={helpers.onRequest} />;
     case 'server-lab':
       return <ServerLabPage onRequest={helpers.onRequest} />;
     case 'creator-kit':
-      return <CreatorKitPage />;
+      return <MediaVaultPage />;
     case 'template-shop':
       return <TemplatesShop />;
-    case 'streaming-academy':
-      return <StreamingAcademyPage onRequest={helpers.onRequest} />;
     case 'training-workshop':
       return <TrainingWorkshopPage />;
     case 'member-activation':
@@ -3118,10 +3685,12 @@ function renderSubpage(page, helpers) {
       return <LaunchFunnelPage onCampaignSaved={helpers.onCampaignSaved} />;
     case 'media-vault':
       return <MediaVaultPage />;
+    case 'gta-news':
+      return <NewsRoomPage />;
+    case 'money-intel':
+      return <TopServerBlueprint onRequest={helpers.onRequest} />;
     case 'investor-radar':
       return <InvestorRadarPage />;
-    case 'member-services':
-      return <MemberServicesPage onRequest={helpers.onRequest} setPage={helpers.setPage} />;
     case 'lux-ops':
       return <LuxOpsDeskPage leads={helpers.leads} orders={helpers.orders} tasks={helpers.tasks} campaigns={helpers.campaigns} />;
     default:
@@ -3132,6 +3701,7 @@ function renderSubpage(page, helpers) {
 const App = () => {
   const [page, setPage] = useState('home');
   const [requestedService, setRequestedService] = useState(null);
+  const [checkoutOffer, setCheckoutOffer] = useState(null);
   const [membership, setMembership] = useState(() => loadMembership());
   const [leads, setLeads] = useState([]);
   const [orders, setOrders] = useState([]);
@@ -3156,7 +3726,27 @@ const App = () => {
     }
   }, []);
 
+  useEffect(() => {
+    const handleCheckoutIntent = (event) => {
+      setCheckoutOffer(event.detail?.paymentKey || 'premiumMonthly');
+    };
+
+    window.addEventListener('gmt:checkout', handleCheckoutIntent);
+    return () => window.removeEventListener('gmt:checkout', handleCheckoutIntent);
+  }, []);
+
   const openRequest = (service) => setRequestedService(service);
+  const openCheckout = (paymentKey = 'premiumMonthly') => setCheckoutOffer(paymentKey);
+  const closeCheckout = () => setCheckoutOffer(null);
+  const completeDemoCheckout = () => {
+    const link = paymentLinks[checkoutOffer] || paymentLinks.premiumMonthly;
+    recordCheckoutReturn({ product: link.label, provider: link.provider });
+    setOrders(loadOrders());
+    const activated = activateMember('GMT-PREMIUM-LUX');
+    setMembership(activated);
+    setCheckoutOffer(null);
+    setPage('member-activation');
+  };
   const handleLeadSaved = (lead) => setLeads(saveLead(lead));
   const handleTaskSaved = (task) => setTasks(saveTask(task));
   const handleCampaignSaved = (campaign) => setCampaigns(saveCampaign(campaign));
@@ -3165,6 +3755,7 @@ const App = () => {
     return (
       <main className="home-app-shell w-dvw overflow-x-hidden" id="hero">
         <Navbar page={page} setPage={setPage} />
+        <SubscriptionPreviewBar membership={membership} onCheckout={openCheckout} setPage={setPage} />
         <Hero />
         <FirstVideo />
         <LanaCoachPreview setPage={setPage} />
@@ -3174,6 +3765,7 @@ const App = () => {
         <Final />
         <OutroPreview setPage={setPage} />
         <RequestServiceModal service={requestedService} onClose={() => setRequestedService(null)} onLeadSaved={handleLeadSaved} onTaskSaved={handleTaskSaved} />
+        <CheckoutModal paymentKey={checkoutOffer} onClose={closeCheckout} onDemoCheckout={completeDemoCheckout} setPage={setPage} />
       </main>
     );
   }
@@ -3192,13 +3784,14 @@ const App = () => {
       }}
     >
       <Navbar page={page} setPage={setPage} />
+      <SubscriptionPreviewBar membership={membership} onCheckout={openCheckout} setPage={setPage} />
 
       <div className="premium-page-wrap flex-1">
         <PageHero profile={pageProfile} />
         <div className="premium-subpage-layout">
           <PageRail profile={pageProfile} />
           <section className="revenue-workspace">
-            {renderSubpage(page, { onRequest: openRequest, setPage, membership, setMembership, leads, orders, tasks, campaigns, onCampaignSaved: handleCampaignSaved })}
+            {renderSubpage(page, { onRequest: openRequest, onCheckout: openCheckout, setPage, membership, setMembership, leads, orders, tasks, campaigns, onCampaignSaved: handleCampaignSaved })}
           </section>
         </div>
       </div>
@@ -3207,6 +3800,7 @@ const App = () => {
         Powered by Lana from Lux Agent | Created by Lux Automaton
       </footer>
       <RequestServiceModal service={requestedService} onClose={() => setRequestedService(null)} onLeadSaved={handleLeadSaved} onTaskSaved={handleTaskSaved} />
+      <CheckoutModal paymentKey={checkoutOffer} onClose={closeCheckout} onDemoCheckout={completeDemoCheckout} setPage={setPage} />
     </main>
   );
 };

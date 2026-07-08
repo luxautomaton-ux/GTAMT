@@ -40,16 +40,16 @@ const OutroPreview = ({ setPage }) => {
         {/* Call to Actions for subpages */}
         <div className="grid sm:grid-cols-3 gap-6 max-w-4xl w-full text-center">
           <div className="p-6 border border-white/10 rounded bg-white/5 flex flex-col justify-between items-center">
-            <strong className="block text-white uppercase text-lg mb-2">DFY Services</strong>
-            <p className="text-white/60 text-xs mb-4">Request custom money routes, crew payouts setup, and server script Audits.</p>
+            <strong className="block text-white uppercase text-lg mb-2">Workshop Vault</strong>
+            <p className="text-white/60 text-xs mb-4">Browse templates, city packs, calculators, route systems, and member training materials.</p>
             <button
               onClick={() => {
-                setPage('member-services');
+                setPage('template-shop');
                 window.scrollTo({ top: 0, behavior: 'instant' });
               }}
               className="px-4 py-2 bg-pink text-black text-xs font-semibold uppercase rounded hover:bg-white transition duration-300"
             >
-              Request Service
+              Open Store
             </button>
           </div>
           
