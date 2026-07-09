@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:36:01.335Z",
+  "generatedAt": "2026-07-09T04:15:10.487Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,32 +69,18 @@
   ],
   "items": [
     {
-      "id": "gamesradar-794647d9ac8bb0",
-      "title": "Sony killing physical PlayStation games has folks so angry that its announcement has even more views than Rockstar's GTA 6 trailer posts on Twitter",
-      "excerpt": "It might have more views, but the difference in the number of likes speaks volumes",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-killing-physical-playstation-games-has-folks-so-angry-that-its-announcement-has-even-more-views-than-rockstars-gta-6-trailer-posts-on-twitter/",
+      "id": "gamesradar-59636c689482c2",
+      "title": "Terrible GTA Trilogy remasters were actually enjoyed by \"a lot of people,\" says studio boss who \"agreed with most of the people's reactions\"",
+      "excerpt": "He believes better remasters can only come from Rockstar",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/terrible-gta-trilogy-remasters-were-actually-enjoyed-by-a-lot-of-people-says-studio-boss-who-agreed-with-most-of-the-peoples-reactions/",
       "source": "GamesRadar+",
       "sourceUrl": "https://www.gamesradar.com",
       "sourceType": "publisher",
-      "publishedAt": "2026-07-07T16:23:34.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/E5jRb2PaMaHuDU2KkdoUi8-1280-80.jpg",
-      "category": "Media Watch",
+      "publishedAt": "2026-07-08T16:35:17.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CnJWdbuUXW9R6KxFBXdNef-1280-80.jpg",
+      "category": "News",
       "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "the-verge-games-72708cdc7b2544",
-      "title": "Where to preorder Grand Theft Auto VI",
-      "excerpt": "A look at in-game cosmetics you’ll get with the Ultimate edition. | Image: Rockstar Games Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launc",
-      "url": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-05T16:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-e1c24de7d2e994",
@@ -151,20 +137,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "eurogamer-d3e3f6c607b419",
-      "title": "\"We can't back out now!\" Onimusha: Way of the Sword developer laughs off concerns around 2026's packed September release window",
-      "excerpt": "Onimusha: Way of the Sword is one of many, many games due to launch in the September/October 2026 period in 2026. As developers and publishers flee as far away from GTA 6 black hole as they possibly can, the resultant squeeze in the earlier (or later) months i",
-      "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-developer-concerns-september-release-window",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-06-30T10:14:57.000Z",
-      "image": "https://assetsio.gnwcdn.com/oni-calendar.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-f6299c77a47048",
