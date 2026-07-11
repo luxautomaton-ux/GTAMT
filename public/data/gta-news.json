@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T09:49:38.202Z",
+  "generatedAt": "2026-07-11T17:17:08.589Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-5399380988d51d",
+      "title": "Mortal Shell 2 is the latest game to join the Grand Theft Auto 6 release crush, but I don't think it has much to worry about because it looks sick as hell",
+      "excerpt": "Cold Symmetry's soulslike releases in August.",
+      "url": "https://www.pcgamer.com/games/rpg/mortal-shell-2-is-the-latest-game-to-join-the-grand-theft-auto-6-release-crush-but-i-dont-think-it-has-much-to-worry-about-because-it-looks-sick-as-hell/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-11T13:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MKZuz22L4oqRVwwPvHYXQP-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-343c0dcb020f86",
       "title": "\"Sony waited for Rockstar to make the first move\": Founding Xbox member warns against PlayStation's all-digital future, says \"I trust\" Steam games won't just disappear",
