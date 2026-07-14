@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T10:11:56.523Z",
+  "generatedAt": "2026-07-14T17:35:11.057Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,32 +69,18 @@
   ],
   "items": [
     {
-      "id": "gamesradar-eb4857e5617a6d",
-      "title": "\"There is a magic to what Rockstar does,\" former GTA 5 dev says ahead of GTA 6, \"I just wish they could do it at a lower human cost\"",
-      "excerpt": "\"I think I'm pretty happy that I'm not on GTA 6\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/there-is-a-magic-to-what-rockstar-does-former-gta-5-dev-says-ahead-of-gta-6-i-just-wish-they-could-do-it-at-a-lower-human-cost/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-13T19:37:56.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hDEpCpbkvXZtvrswTnCNom-1280-80.jpg",
-      "category": "News",
+      "id": "take-two-ir-cafa150aefdb95",
+      "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI",
+      "excerpt": "Starting at Midnight Local Time on June 25, 2026 NEW YORK --(BUSINESS WIRE)--Jun. 24, 2026-- Rockstar Games ®, a publishing label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO), is excited to announce that pre-orders for Grand Theft Auto VI will begin o",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-06-24T10:15:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
       "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-3ebad3aaf3a1cf",
-      "title": "GTA 6 isn't coming to PC at launch, but not because Rockstar doesn't \"care about PC,\" says GTA 5 producer: \"If you're working on that, you're not working on something else\"",
-      "excerpt": "John Ricchio says Rockstar isn't \"anti any platform\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-coming-to-pc-at-launch-but-not-because-rockstar-doesnt-care-about-pc-says-gta-5-producer-if-youre-working-on-that-youre-not-working-on-something-else/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-13T15:00:35.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ez5TXchDBFfu7cW38JnaLA-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
     },
     {
       "id": "take-two-ir-f6299c77a47048",
@@ -105,7 +91,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-21T20:05:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -119,7 +105,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-11T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -133,7 +119,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-04-23T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -147,7 +133,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-02-03T21:05:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -161,7 +147,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-01-06T13:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -175,20 +161,6 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2025-11-06T21:05:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "take-two-ir-88493745a533ea",
-      "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2026 Results on Thursday, November 6, 2025",
-      "excerpt": "NEW YORK --(BUSINESS WIRE)--Oct. 9, 2025-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its second quarter of Fiscal Year 2026, ended September 30, 2025 , after the market close on Thursday, N",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-second-quarter-fiscal-7",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2025-10-09T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
