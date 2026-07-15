@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T10:16:07.003Z",
+  "generatedAt": "2026-07-15T17:40:12.272Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,18 +69,32 @@
   ],
   "items": [
     {
-      "id": "gamesradar-04b18707d76eea",
-      "title": "You could buy two copies of GTA 6 for the price of setting up GTA Online's new Heist from scratch",
-      "excerpt": "There are some pricy prerequisites to hosting GTA Online's Kortz Center Heist",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-could-buy-two-copies-of-gta-6-for-the-price-of-setting-up-gta-onlines-new-heist-from-scratch/",
+      "id": "gamesradar-f175fdd5cc2609",
+      "title": "Ahead of GTA 6, GTA Online players complain that Rockstar \"nerfed literally everything\" commonly used to make money",
+      "excerpt": "Hundreds of thousands have been knocked the heists",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-gta-online-players-complain-that-rockstar-nerfed-literally-everything-commonly-used-to-make-money/",
       "source": "GamesRadar+",
       "sourceUrl": "https://www.gamesradar.com",
       "sourceType": "publisher",
-      "publishedAt": "2026-07-14T18:58:59.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LDg4LcAPmo2NHjDzWSuAsg-1280-80.jpg",
-      "category": "Launch Commerce",
+      "publishedAt": "2026-07-15T14:29:41.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/W8N66KWAVexk5L3QkWMHUU-1280-80.jpg",
+      "category": "News",
       "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-2d552b164b2f2f",
+      "title": "GTA 6 isn't on PC at launch because it's 'always better to start with the constraints', suggests former Rockstar producer",
+      "excerpt": "\"It's not that we don't care about PC.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-isnt-on-pc-at-launch-because-its-always-better-to-start-with-the-constraints-suggests-former-rockstar-producer/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-15T11:29:54.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/csHd3LAqcjtFkUocmzkuME-1280-80.png",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-f6299c77a47048",
