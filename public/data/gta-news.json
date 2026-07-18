@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T09:45:50.087Z",
+  "generatedAt": "2026-07-18T17:15:38.201Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "gamesradar-d0d079212e46e9",
+      "title": "GTA 5 dev \"can only imagine the size of GTA 6\" – \"It must be monstrous\"",
+      "excerpt": "Former Rockstar Games producer John Ricchio is expecting big things",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-dev-can-only-imagine-the-size-of-gta-6-it-must-be-monstrous/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-18T12:26:01.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/4WCD3hfep8EWVRenSEGJ3n-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "eurogamer-ed957726d49f1b",
       "title": "Claims about GTA 6 pre-orders are incorrect and \"absurd\", analyst firm says, but it's still had the \"strongest pre-order campaign ever recorded\"",
       "excerpt": "We all knew that GTA 6 was going to be big, but new data from a video game market data analyst group suggests Rockstar's upcoming sandbox game has already earned in excess of $260m for the company.",
@@ -81,20 +95,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-e3b0276f078d3d",
-      "title": "GTA 5 had \"so much\" cut content, including minigames that were almost \"completely done,\" former Rockstar dev says: \"They'll throw out entire levels\"",
-      "excerpt": "Rockstar Games apparently isn't scared to kill its darling",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-had-so-much-cut-content-including-minigames-that-were-almost-completely-done-former-rockstar-dev-says-theyll-throw-out-entire-levels/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-17T10:21:17.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/k8vQjGyLYsmfPhxHkHvv6C-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "pc-gamer-d2846c2e0a6238",
