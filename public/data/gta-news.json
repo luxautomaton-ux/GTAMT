@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T10:01:40.526Z",
+  "generatedAt": "2026-07-19T17:17:46.787Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,62 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-1f6bc3fd499714",
+      "title": "Assassin's Creed Black Flag Resynced lead begs fans to \"please play us when when GTA 6 comes out\" as he teases post-launch support plans",
+      "excerpt": "Following on from previous AC games",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-lead-begs-fans-to-please-play-us-when-when-gta-6-comes-out-as-he-teases-post-launch-support-plans/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-19T14:00:57.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qePgBuiSoR67295eUcviLg-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-27e77c3e5b88f8",
+      "title": "After GTA San Andreas' Hot Coffee debacle, Rockstar makes a \"huge effort\" to wipe anything cut from its game to avoid accidentally shipping it, ex-dev says",
+      "excerpt": "\"Having things on the disc is dangerous\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-gta-san-andreas-hot-coffee-debacle-rockstar-makes-a-huge-effort-to-wipe-anything-cut-from-its-game-to-avoid-accidentally-shipping-it-ex-dev-says/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-19T12:37:01.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FWS9P2SD9AGPuFFgyJ8Yy-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "the-verge-games-5e6a2d9bf26e0e",
+      "title": "The future of physical games is not looking great",
+      "excerpt": "Grand Theft Auto VI release won’t offer a disc. | Image: Rockstar Games This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on video games and physical media, follow Jay Peters. The Stepback arrives in our ",
+      "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-19T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Lucia_Caminos_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "pc-gamer-8ce39cf4c47001",
+      "title": "'GTA 6 needs this': This GTA 5 prison mod turns one of roleplay's most enduring staples into a game within a game",
+      "excerpt": "With flavours of Shawshank , this player-made masterstroke is a world unto itself.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needs-this-this-gta-5-prison-mod-turns-one-of-roleplays-most-enduring-staples-into-a-game-within-a-game/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-19T11:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ruiSvPtYyNtTHT7GHJhhdh-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-d0d079212e46e9",
       "title": "GTA 5 dev \"can only imagine the size of GTA 6\" – \"It must be monstrous\"",
