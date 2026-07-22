@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T10:34:41.485Z",
+  "generatedAt": "2026-07-22T17:42:19.162Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-e88b3bda0af89e",
+      "title": "Modder creates a Grand Theft Auto multiverse, opening portals within GTA San Andreas that make GTA 3 and Vice City completely playable",
+      "excerpt": "Seems like Doctor Strange took a trip through Rockstar's history",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/modder-creates-a-grand-theft-auto-multiverse-opening-portals-within-gta-san-andreas-that-make-gta-3-and-vice-city-completely-playable/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-22T14:19:03.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9gjDTHzAbpsjbcJmeMuTqn-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-7de301088b9164",
       "title": "Avengers: Doomsday trailer scores 503 million views in 24 hours, beating GTA 6 but falling short of Spider-Man: Brand New Day",
