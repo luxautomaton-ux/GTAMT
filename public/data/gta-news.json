@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T03:48:53.944Z",
+  "generatedAt": "2026-07-22T10:34:41.485Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-7de301088b9164",
+      "title": "Avengers: Doomsday trailer scores 503 million views in 24 hours, beating GTA 6 but falling short of Spider-Man: Brand New Day",
+      "excerpt": "The Doomsday trailer has made a huge impact",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer-scores-503-million-views-in-24-hours-beating-gta-6-but-falling-short-of-spider-man-brand-new-day/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-22T09:52:32.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/V6xLAQozUxBBr7ATUnNDY-1280-80.jpg",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
     {
       "id": "the-verge-games-5e6a2d9bf26e0e",
       "title": "The future of physical games is not looking great",
