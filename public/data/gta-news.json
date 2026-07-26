@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T10:13:25.507Z",
+  "generatedAt": "2026-07-26T17:17:11.696Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-3d439787f1295c",
+      "title": "Rockstar co-founder says 'I don't know if I personally care' if games release on disc, adds 'I love physical media'",
+      "excerpt": "\"If people want that, I think companies should provide it.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-co-founder-says-i-dont-know-if-i-personally-care-if-games-release-on-disc-adds-i-love-physical-media/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-26T14:47:54.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GcNqq5oy9UFHUpgxruLJzZ-1280-80.jpg",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
     {
       "id": "gamesradar-fdd23950fb1546",
       "title": "Rockstar Games co-founder and GTA co-creator Dan Houser says he loves physical media, but digital releases have their own benefits too",
