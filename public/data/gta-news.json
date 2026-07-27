@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:03:48.285Z",
+  "generatedAt": "2026-07-27T11:41:42.128Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-d6895949fa062c",
+      "title": "Rockstar clarifies which GTA 6 pre-order download codes are going to be region-locked, and how that is going to affect the game in your country",
+      "excerpt": "When Grand Theft Auto 6 pre-orders initially went live a little over a month ago, a number of retailers posted conflicting messages about which countries and regions the controversial code-in-the-box download code is actually going to work.",
+      "url": "https://www.eurogamer.net/gta-6-region-locked-codes-ps5-japan-expiry-date",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-27T08:23:10.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-world-map-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
     {
       "id": "pc-gamer-82a97063b1cb34",
       "title": "What does GTA Online 2.0 even look like—and, more to the point, what do we even want from Grand Theft Auto 6 multiplayer?",
@@ -165,20 +179,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "eurogamer-787cba9f25fc07",
-      "title": "\"It's not that we don't care about PC\" - Former Rockstar developer suggests why GTA 6 is only coming to consoles at launch",
-      "excerpt": "GTA 6 is looming like that monolith in 2001: A Space Odyssey, casting its fearsome shadow over the games industry and probably also scaring some monkeys. But PC players won't be able to join in the fun when Rockstar Games' mega-sequel launches on 19th November",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-pc-consoles-release",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-16T13:11:51.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-trailer-city.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-cafa150aefdb95",
