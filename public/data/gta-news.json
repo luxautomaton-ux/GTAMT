@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T11:41:42.128Z",
+  "generatedAt": "2026-07-27T17:56:28.287Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "eurogamer-c66505f8371d98",
+      "title": "Rockstar Games and GTA co-founder chimes in on the raging physical games debate: \"If people want that, companies should provide it\"",
+      "excerpt": "Rockstar Games co-founder Dan Houser and longtime Rockstar writer Lazlow Jones have chipped in on the physical video games debate.",
+      "url": "https://www.eurogamer.net/dan-houser-rockstar-physical-games-gta",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-27T16:01:25.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-drinking.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-65e9eb694b9e19",
+      "title": "As Grand Theft Auto 6 hopefuls grow anxious for a gameplay trailer, AI GTA 6 slop is getting millions of views on social media",
+      "excerpt": "As Grand Theft Auto 6 inches towards its November release date and people grow anxious for a proper gameplay trailer, GTA 6 AI slop is raking in millions of views on social media.",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-27T13:57:55.000Z",
+      "image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
       "id": "eurogamer-d6895949fa062c",
       "title": "Rockstar clarifies which GTA 6 pre-order download codes are going to be region-locked, and how that is going to affect the game in your country",
       "excerpt": "When Grand Theft Auto 6 pre-orders initially went live a little over a month ago, a number of retailers posted conflicting messages about which countries and regions the controversial code-in-the-box download code is actually going to work.",
@@ -106,20 +134,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-07-26T14:47:54.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/GcNqq5oy9UFHUpgxruLJzZ-1280-80.jpg",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "gamesradar-fdd23950fb1546",
-      "title": "Rockstar Games co-founder and GTA co-creator Dan Houser says he loves physical media, but digital releases have their own benefits too",
-      "excerpt": "As PlayStation plans to scrap game disc production",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-games-co-founder-and-gta-co-creator-dan-houser-says-he-loves-physical-media-but-digital-releases-have-their-own-benefits-too/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-26T10:04:26.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/VhCfiuo8GBkkfMCD3S4hUN-1280-80.jpg",
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
@@ -165,20 +179,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-ed957726d49f1b",
-      "title": "Claims about GTA 6 pre-orders are incorrect and \"absurd\", analyst firm says, but it's still had the \"strongest pre-order campaign ever recorded\"",
-      "excerpt": "We all knew that GTA 6 was going to be big, but new data from a video game market data analyst group suggests Rockstar's upcoming sandbox game has already earned in excess of $260m for the company.",
-      "url": "https://www.eurogamer.net/gta-6-pre-order-numbers-record",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-17T13:06:16.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-boxed.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "take-two-ir-cafa150aefdb95",
