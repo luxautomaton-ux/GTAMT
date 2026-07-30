@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T10:34:28.510Z",
+  "generatedAt": "2026-07-30T17:50:32.237Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-0c7cad7656dc5f",
+      "title": "GTA 6 news coming in August, leaker says, as more evidence points to the game's official website getting a backend update",
+      "excerpt": "It looks like we're getting some sort of Grand Theft Auto 6 news very soon, according to one insider and some convenient circumstantial evidence. NateTheHate, a reliable industry insider, was asked about the highly-anticipated game as part of a recent Q&A on X",
+      "url": "https://www.eurogamer.net/gta-6-news-august-insider-official-website-backend-updates",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-30T11:50:27.000Z",
+      "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_02.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-0b5463485cc426",
+      "title": "Resident Evil 4 and Dragon's Dogma lead's stylish new action RPG gets an October release date, steering clear of the GTA 6 rush",
+      "excerpt": "Stupid Never Dies is out on October 21",
+      "url": "https://www.gamesradar.com/games/action-rpg/resident-evil-4-and-dragons-dogma-leads-stylish-new-action-rpg-gets-an-october-release-date-steering-clear-of-the-gta-6-rush/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-07-30T11:46:07.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/SoyQcbx6XvXs8eRwrMP28D-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "eurogamer-c66505f8371d98",
       "title": "Rockstar Games and GTA co-founder chimes in on the raging physical games debate: \"If people want that, companies should provide it\"",
