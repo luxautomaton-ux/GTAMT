@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T17:39:26.193Z",
+  "generatedAt": "2026-07-30T03:30:50.294Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,20 +68,6 @@
     }
   ],
   "items": [
-    {
-      "id": "gamesradar-e47614edbdfbb2",
-      "title": "20 years later, Bully is still \"unlike any other\" open-world game, says Rockstar co-founder and GTA veteran Dan Houser",
-      "excerpt": "It's tough to be a kid",
-      "url": "https://www.gamesradar.com/games/open-world/20-years-later-bully-is-still-unlike-any-other-open-world-game-says-rockstar-co-founder-and-gta-veteran-dan-houser/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-28T17:11:40.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/aX7SBXxoGcaSm8xrVAbqmQ-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
     {
       "id": "eurogamer-c66505f8371d98",
       "title": "Rockstar Games and GTA co-founder chimes in on the raging physical games debate: \"If people want that, companies should provide it\"",
