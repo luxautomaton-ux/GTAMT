@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T10:11:41.150Z",
+  "generatedAt": "2026-08-01T17:16:25.889Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -123,20 +123,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-701a5c2ae53632",
-      "title": "Sony has enough RAM to see the PS5 through the year including GTA 6's launch",
-      "excerpt": "Sony's quarterly earnings report is allaying fears of a console shortage when GTA 6 launches this November.",
-      "url": "https://www.gamesradar.com/hardware/sony-has-enough-ram-to-see-the-ps5-through-the-year-including-gta-6s-launch/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-31T10:56:22.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3FockgxGFGpswvnW8ohZV9-1280-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
       "id": "eurogamer-0c7cad7656dc5f",
