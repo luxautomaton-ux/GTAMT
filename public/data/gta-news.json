@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:45:33.922Z",
+  "generatedAt": "2026-08-03T18:07:23.838Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,15 +69,15 @@
   ],
   "items": [
     {
-      "id": "gamesradar-d9ee96593c751f",
-      "title": "With Grand Theft Auto 6 on the way, it's down to the community to bring back the best (and stupidest) thing about GTA Online",
-      "excerpt": "Opinion | Half a decade later, it's time for an alien autopsy",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-grand-theft-auto-6-on-the-way-its-down-to-the-community-to-bring-back-the-best-and-stupidest-thing-about-gta-online/",
+      "id": "gamesradar-f8bf65c006a5e7",
+      "title": "The best GTA moments: Cracking the vault on the first 20 entries in our explosive Top 100 list in the run-up to GTA 6",
+      "excerpt": "GTA's tensest heists, funniest moments, strangest secrets, and more – counting down the series' best moments",
+      "url": "https://www.gamesradar.com/greatest-grand-theft-auto-gta-moments-of-all-time/",
       "source": "GamesRadar+",
       "sourceUrl": "https://www.gamesradar.com",
       "sourceType": "publisher",
-      "publishedAt": "2026-07-31T16:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7zQSpEjs2MmS9NTY23cjzC-1280-80.jpg",
+      "publishedAt": "2026-08-03T14:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qHwXd3C8v9pPyXXfpUQbD9-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -151,20 +151,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "eurogamer-b7c2d12d704882",
-      "title": "As layoff controversy continues, Rockstar union has 'more members than ever before', meaning it could force mandatory recognition",
-      "excerpt": "The Rockstar Game Workers Union (RGWU), which was formed earlier this year in response to the Grand Theft Auto 6 developer's massively controversial job cuts, now has \"more members than it ever had before\".",
-      "url": "https://www.eurogamer.net/rockstar-developer-union-more-members-layoffs",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-23T16:37:40.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-character-4k-wallpaper-uhdpaper.com-269%401%40n.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-cafa150aefdb95",
