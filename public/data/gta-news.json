@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T10:57:35.795Z",
+  "generatedAt": "2026-08-04T18:04:08.026Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "pc-gamer-6cb4b974bcad49",
+      "title": "Rockstar's great Midnight Club racing series was killed off for one simple reason, and you can probably guess what it was",
+      "excerpt": "I'll give you a hint: It rhymes with three pee yay.",
+      "url": "https://www.pcgamer.com/games/racing/rockstars-great-midnight-club-racing-series-was-killed-off-for-one-simple-reason-and-you-can-probably-guess-what-it-was/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-04T17:44:34.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CQoMXCC22RXiMCgpWYA99i-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "eurogamer-c93e075738e9a8",
       "title": "PlayStation and Xbox's most played games are, once again, exactly what you expect them to be",
       "excerpt": "The list of games that get played the most on PlayStation and Xbox is nearly identical across the two console platforms, and the games themselves are either long-running live service titles or annualised sports games. This has been the case for years, and anal",
@@ -92,20 +106,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-03T21:04:06.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/YHeD3k5sruUh84Wk9k24vm-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-f8bf65c006a5e7",
-      "title": "The best GTA moments: Cracking the vault on the first 20 entries in our explosive Top 100 list in the run-up to GTA 6",
-      "excerpt": "GTA's tensest heists, funniest moments, strangest secrets, and more – counting down the series' best moments",
-      "url": "https://www.gamesradar.com/greatest-grand-theft-auto-gta-moments-of-all-time/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-03T14:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qHwXd3C8v9pPyXXfpUQbD9-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
