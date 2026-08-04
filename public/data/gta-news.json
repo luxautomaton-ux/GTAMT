@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T03:39:18.981Z",
+  "generatedAt": "2026-08-04T10:57:35.795Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-c93e075738e9a8",
+      "title": "PlayStation and Xbox's most played games are, once again, exactly what you expect them to be",
+      "excerpt": "The list of games that get played the most on PlayStation and Xbox is nearly identical across the two console platforms, and the games themselves are either long-running live service titles or annualised sports games. This has been the case for years, and anal",
+      "url": "https://www.eurogamer.net/playstation-xbox-top-20-most-played-games",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-04T08:40:04.000Z",
+      "image": "https://assetsio.gnwcdn.com/The-Simpsons-characters-including-Marge%2C-Homer-and-Ned-fall-through-the-air-with-a-couch-and-trolly.-Fortnite's-Peely-is-on-the-couch-and-Homer-is-reaching-for-a-donut.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-4c73e4a66dd749",
       "title": "\"I wouldn't have time to make the game while playing GTA 6,\" says Danganronpa creator, so obviously he delayed his new game",
