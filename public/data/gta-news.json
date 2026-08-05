@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T03:34:33.154Z",
+  "generatedAt": "2026-08-05T10:46:44.158Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -92,20 +92,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-04T08:40:04.000Z",
       "image": "https://assetsio.gnwcdn.com/The-Simpsons-characters-including-Marge%2C-Homer-and-Ned-fall-through-the-air-with-a-couch-and-trolly.-Fortnite's-Peely-is-on-the-couch-and-Homer-is-reaching-for-a-donut.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-4c73e4a66dd749",
-      "title": "\"I wouldn't have time to make the game while playing GTA 6,\" says Danganronpa creator, so obviously he delayed his new game",
-      "excerpt": "\"It was inevitable that we moved the release time\"",
-      "url": "https://www.gamesradar.com/games/i-wouldnt-have-time-to-make-the-game-while-playing-gta-6-says-danganronpa-creator-so-obviously-he-delayed-his-new-game/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-03T21:04:06.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YHeD3k5sruUh84Wk9k24vm-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
