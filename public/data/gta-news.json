@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:54:33.488Z",
+  "generatedAt": "2026-08-06T03:40:35.451Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-2a0018644e3c92",
+      "title": "What happens after GTA 6?",
+      "excerpt": "With the industry in flux, will Rockstar's big one create more chaos or calm things down? Probably neither.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/what-happens-after-gta-6/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-05T23:41:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/a5kFkuMcP3K6N2YFbYPxyZ-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-25d075afc2b864",
+      "title": "Grand Theft Auto 6 publisher is holding an investors call at a very unusual time this week",
+      "excerpt": "What could it mean?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-publisher-is-holding-an-investors-call-at-a-very-unusual-time-this-week/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-05T19:20:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/K3BbkcrsWP5KN25YLwsqVJ-1280-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
     {
       "id": "pc-gamer-6cb4b974bcad49",
       "title": "Rockstar's great Midnight Club racing series was killed off for one simple reason, and you can probably guess what it was",
