@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T10:49:29.198Z",
+  "generatedAt": "2026-08-07T03:16:22.591Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,90 @@
   ],
   "items": [
     {
+      "id": "gamesradar-c75890b963a442",
+      "title": "Even as Spider-Man: Brand New Day shatters records, Rockstar's Netflix deal proves GTA 6 can still claim the ultimate entertainment crown",
+      "excerpt": "Netflix getting six hours of exclusivity on the biggest GTA reveal in a decade is a sign",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/even-as-spider-man-brand-new-day-shatters-records-rockstars-netflix-deal-proves-gta-6-can-still-claim-the-ultimate-entertainment-crown/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-06T18:00:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/iPi3bFFgSfLnoNe8NS764n-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-049e92442c0d64",
+      "title": "GTA 6 Extended Look being a 6-hour Netflix exclusive is going down just as well as you can imagine: \"Weirdest marketing I've ever seen\"",
+      "excerpt": "\"A trailer for a trailer?\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-look-being-a-6-hour-netflix-exclusive-is-going-down-just-as-well-as-you-can-imagine-weirdest-marketing-ive-ever-seen/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-06T14:54:51.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KEq7YCi23bRSNokRCAAK2A-1280-80.jpg",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "pc-gamer-313046ffbcd130",
+      "title": "The first GTA 6 gameplay reveal will debut on Netflix later this month, as the streaming service tries yet again to get a piece of that videogame pie",
+      "excerpt": "Huh. Okay then.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-first-gta-6-gameplay-reveal-will-debut-on-netflix-later-this-month-as-the-streaming-service-tries-yet-again-to-get-a-piece-of-that-videogame-pie/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-06T13:20:21.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JCZ7NEJDcNcVpDATG25CTD-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "the-verge-games-ab1fce03d6ea88",
+      "title": "GTA VI is getting an ‘extended look’ at the end of August",
+      "excerpt": "We'll be getting an in-depth preview of Grand Theft Auto VI very soon: Rockstar announced this morning that it will be airing an \"extended look\" at the game on August 27th. The preview will stream on YouTube at 9PM ET, as per usual, but will also be shown earl",
+      "url": "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-06T12:16:08.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-dfdf30bee5a3ba",
+      "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
+      "excerpt": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST).",
+      "url": "https://www.eurogamer.net/gta-6-extended-look-trailer-netflix-announcement",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-06T12:13:50.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-extended-look.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "gamesradar-d93783c3b17cf9",
+      "title": "GTA 6 gets an \"extended look\" later this month as Rockstar finally throws a bone to fans who have waited over a year for Trailer 3",
+      "excerpt": "You can watch the next look at GTA 6 hours earlier if you have Netflix",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-gets-an-extended-look-later-this-month-as-rockstar-finally-throws-a-bone-to-fans-who-have-waited-over-a-year-for-trailer-2/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-06T12:10:27.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/K963R5FNY7ZYBsikrpB3CZ-1280-80.jpg",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
       "id": "gamesradar-87d57e61e60d05",
       "title": "Another GTA 6 delay \"would not\" shock a former GTA 5 dev who says it wouldn't \"hurt\" Rockstar at all",
       "excerpt": "If something needs to change, then things could move",
@@ -109,20 +193,6 @@
       "category": "Investor Radar",
       "riskFlag": false,
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "pc-gamer-6cb4b974bcad49",
-      "title": "Rockstar's great Midnight Club racing series was killed off for one simple reason, and you can probably guess what it was",
-      "excerpt": "I'll give you a hint: It rhymes with three pee yay.",
-      "url": "https://www.pcgamer.com/games/racing/rockstars-great-midnight-club-racing-series-was-killed-off-for-one-simple-reason-and-you-can-probably-guess-what-it-was/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-04T17:44:34.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CQoMXCC22RXiMCgpWYA99i-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-c93e075738e9a8",
@@ -179,20 +249,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-65e9eb694b9e19",
-      "title": "As Grand Theft Auto 6 hopefuls grow anxious for a gameplay trailer, AI GTA 6 slop is getting millions of views on social media",
-      "excerpt": "As Grand Theft Auto 6 inches towards its November release date and people grow anxious for a proper gameplay trailer, GTA 6 AI slop is raking in millions of views on social media.",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-ai-slop",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-27T13:57:55.000Z",
-      "image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
     },
     {
       "id": "take-two-ir-cafa150aefdb95",
