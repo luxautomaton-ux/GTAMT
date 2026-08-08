@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T17:09:09.904Z",
+  "generatedAt": "2026-08-08T02:22:18.037Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,62 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-81b28021d7d829",
+      "title": "GTA 6's Netflix deal forces us to ask: can you pirate an advertisement?",
+      "excerpt": "Just when you thought videogame marketing couldn't get sillier, people are going to wind up stealing a trailer.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-netflix-deal-forces-us-to-ask-can-you-pirate-an-advertisement/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-07T23:52:49.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/XBPNsaJS7QVdcvZEorNecD-1280-80.jpg",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "pc-gamer-506066f04c0c1b",
+      "title": "Even with an $80 price tag, 'Grand Theft Auto 6 will be an incredible bargain,' Take-Two boss says",
+      "excerpt": "Strauss Zelnick reckons that the quality of the experience will more than justify the price.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/even-with-an-usd80-price-tag-grand-theft-auto-6-will-be-an-incredible-bargain-take-two-boss-says/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-07T21:54:24.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cSGCsWasEFPB44AqdWPtf5-1280-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "pc-gamer-005e8019bc8149",
+      "title": "Take-Two CEO says he expects the games industry to be in 'commercial streaming mode within 3 years,' which is great news if you hate owning things",
+      "excerpt": "Rockstar's parent company believes cloud gaming will grow its customer base even as hardware prices rise.",
+      "url": "https://www.pcgamer.com/gaming-industry/take-two-ceo-says-he-expects-the-games-industry-to-be-in-commercial-streaming-mode-within-3-years-which-is-great-news-if-you-hate-owning-things/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-07T20:05:13.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rSiZrgwHEbGKxVdZyYSoS4-1280-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "gamesradar-7eff8cad3c3b88",
+      "title": "Don't worry about $1,000 consoles, you'll be streaming your games soon enough, reckons Take-Two CEO: \"I think we'll be in commercial streaming mode in 3 years\"",
+      "excerpt": "\"I'm happy to put a timeline on it\"",
+      "url": "https://www.gamesradar.com/games/dont-worry-about-usd1-000-consoles-youll-be-streaming-your-games-soon-enough-reckons-take-two-ceo-i-think-well-be-in-commercial-streaming-mode-in-3-years/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-07T18:39:27.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/dyCiDZPpGcJUQaYPk29kTP-1280-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
     {
       "id": "pc-gamer-0d2b20efb7a61c",
       "title": "Take-Two boss dismisses hand-wringing over the end of disc-based games: 'Our business is well over 90% digitally distributed as it is'",
@@ -195,20 +251,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-c75890b963a442",
-      "title": "Even as Spider-Man: Brand New Day shatters records, Rockstar's Netflix deal proves GTA 6 can still claim the ultimate entertainment crown",
-      "excerpt": "Netflix getting six hours of exclusivity on the biggest GTA reveal in a decade is a sign",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/even-as-spider-man-brand-new-day-shatters-records-rockstars-netflix-deal-proves-gta-6-can-still-claim-the-ultimate-entertainment-crown/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-06T18:00:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/iPi3bFFgSfLnoNe8NS764n-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "pc-gamer-313046ffbcd130",
       "title": "The first GTA 6 gameplay reveal will debut on Netflix later this month, as the streaming service tries yet again to get a piece of that videogame pie",
       "excerpt": "Huh. Okay then.",
@@ -263,20 +305,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-25d075afc2b864",
-      "title": "Grand Theft Auto 6 publisher is holding an investors call at a very unusual time this week",
-      "excerpt": "What could it mean?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-publisher-is-holding-an-investors-call-at-a-very-unusual-time-this-week/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-05T19:20:04.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/K3BbkcrsWP5KN25YLwsqVJ-1280-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
       "id": "eurogamer-c93e075738e9a8",
