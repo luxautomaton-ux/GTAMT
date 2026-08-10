@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:49:20.166Z",
+  "generatedAt": "2026-08-10T17:10:09.279Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-f4b504d21c294b",
+      "title": "Gearbox owner Take-Two is \"thrilled\" with Borderlands 4 even though some fans weren't thrilled with it at launch",
+      "excerpt": "Strauss Zelnick is more than satisfied",
+      "url": "https://www.gamesradar.com/games/borderlands/gearbox-owner-take-two-is-thrilled-with-borderlands-4-even-though-some-fans-werent-thrilled-with-it-at-launch/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-10T16:21:22.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GYr7ezDXv7Lp2WxjuPUHni-1280-80.png",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "eurogamer-980dbb289c7113",
+      "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss",
+      "excerpt": "One of the most surprising things about Rockstar's Grand Theft Auto 6 trailer tease last week was word that it will premiere on subscription-based service Netflix - a move I can't ever remember another game company doing.",
+      "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-10T10:22:30.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-netflix-lucia.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
       "id": "gamesradar-68a369ff2aacdb",
       "title": "GTA 6's divisive Netflix exclusive gameplay reveal is just the start, Take-Two boss promises: \"There's appetizers, main course, and dessert to follow\"",
       "excerpt": "Rockstar has more planned for GTA 6's marketing, thankfully",
@@ -95,20 +123,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-1548eda4a431d1",
-      "title": "As PS5 and Xbox prices endlessly balloon, Take-Two CEO says rising console costs are good for no one, but won't hurt the company as GTA 6 approaches",
-      "excerpt": "\"I don't think it will slow us down any because... we're delivering experiences that people want\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-ps5-and-xbox-prices-endlessly-balloon-take-two-ceo-says-rising-console-costs-are-good-for-no-one-but-wont-hurt-the-company-as-gta-6-approaches/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-08T14:00:31.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QkVrvYdazxdPY89GYg4nYm-1280-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "pc-gamer-81b28021d7d829",
@@ -153,20 +167,6 @@
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
-      "id": "gamesradar-7eff8cad3c3b88",
-      "title": "Don't worry about $1,000 consoles, you'll be streaming your games soon enough, reckons Take-Two CEO: \"I think we'll be in commercial streaming mode in 3 years\"",
-      "excerpt": "\"I'm happy to put a timeline on it\"",
-      "url": "https://www.gamesradar.com/games/dont-worry-about-usd1-000-consoles-youll-be-streaming-your-games-soon-enough-reckons-take-two-ceo-i-think-well-be-in-commercial-streaming-mode-in-3-years/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T18:39:27.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/dyCiDZPpGcJUQaYPk29kTP-1280-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
       "id": "pc-gamer-0d2b20efb7a61c",
       "title": "Take-Two boss dismisses hand-wringing over the end of disc-based games: 'Our business is well over 90% digitally distributed as it is'",
       "excerpt": "Strauss Zelnick says Take-Two will still put out physical editions \"now and then,\" but for the most part, the era of games on discs is already over.",
@@ -204,62 +204,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-07T14:35:00.000Z",
       "image": "https://assetsio.gnwcdn.com/zelnick-gta-streaming-final.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "gamesradar-d6b87f3d864ed9",
-      "title": "GTA 6 \"will be an incredible bargain\" at $80, says Take-Two CEO, as the Rockstar owner isn't trying \"to maximize price\"",
-      "excerpt": "\"Our goal is to deliver way more value to consumers than what we charge them,\" says Strauss Zelnick",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-be-an-incredible-bargain-at-usd80-says-take-two-ceo-as-the-rockstar-owner-isnt-trying-to-maximize-price/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T14:13:22.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/whGaqJWzyg38HNct4hXrR9-1280-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-62cfa98da98f52",
-      "title": "This Back to the Future mod is taking us to Vice City before GTA 6",
-      "excerpt": "With GTA 6's release inching closer, there's a Vice City mod that I've been playing since 2009. Here's how it came to be",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-3s-back-to-the-future-hill-valley-mod-is-taking-us-to-vice-city-before-gta-6/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/h7W2D2UET3gw2AKgwCnvHS-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-6cd8073485f73d",
-      "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\" – \"if you're already connected, who cares if you download digitally?\"",
-      "excerpt": "Strauss Zelnick says that over 90% of the company's sales are digital anyway",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-digital-only-take-two-boss-says-discs-dont-really-make-sense-if-youre-already-connected-who-cares-if-you-download-digitally/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T13:43:52.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Se9BZFD5s9Au3L5p7hhTzm-1280-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "gamesradar-4f91ee56e59189",
-      "title": "Another GTA 6 delay looks much less likely as Take-Two has a \"high degree of confidence\" in Rockstar Games' November release",
-      "excerpt": "CEO Strauss Zelnick seems very confident in the open-world game's release date",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/another-gta-6-delay-looks-much-less-likely-as-take-two-has-a-high-degree-of-confidence-in-rockstar-games-november-release/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T13:38:55.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/dV7srTiMBgawX9V8basoP8-1280-80.jpg",
       "category": "Investor Radar",
       "riskFlag": false,
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
@@ -333,20 +277,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-0c7cad7656dc5f",
-      "title": "GTA 6 news coming in August, leaker says, as more evidence points to the game's official website getting a backend update",
-      "excerpt": "It looks like we're getting some sort of Grand Theft Auto 6 news very soon, according to one insider and some convenient circumstantial evidence. NateTheHate, a reliable industry insider, was asked about the highly-anticipated game as part of a recent Q&A on X",
-      "url": "https://www.eurogamer.net/gta-6-news-august-insider-official-website-backend-updates",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-07-30T11:50:27.000Z",
-      "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_02.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "take-two-ir-85d0d2e46f7274",
