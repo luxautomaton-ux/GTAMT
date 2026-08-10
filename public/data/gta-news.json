@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T02:35:33.728Z",
+  "generatedAt": "2026-08-10T09:49:20.166Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-68a369ff2aacdb",
+      "title": "GTA 6's divisive Netflix exclusive gameplay reveal is just the start, Take-Two boss promises: \"There's appetizers, main course, and dessert to follow\"",
+      "excerpt": "Rockstar has more planned for GTA 6's marketing, thankfully",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-divisive-netflix-exclusive-gameplay-reveal-is-just-the-start-take-two-boss-promises-theres-appetizers-main-course-and-dessert-to-follow/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-10T09:38:15.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/fe5rRQb3bLcyoW5s2ftqM8-1280-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
     {
       "id": "gamesradar-685a4e15a4f664",
       "title": "\"I'm a little disappointed with Rockstar\": GTA 5 and Red Dead Redemption actor auditioned for over 60 roles in GTA 6 and never heard back",
@@ -209,8 +223,8 @@
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
-      "id": "gamesradar-163946b31abcd8",
-      "title": "GTA 3's Back to the Future: Hill Valley mod will take you to Vice City before GTA 6",
+      "id": "gamesradar-62cfa98da98f52",
+      "title": "This Back to the Future mod is taking us to Vice City before GTA 6",
       "excerpt": "With GTA 6's release inching closer, there's a Vice City mod that I've been playing since 2009. Here's how it came to be",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-3s-back-to-the-future-hill-valley-mod-is-taking-us-to-vice-city-before-gta-6/",
       "source": "GamesRadar+",
