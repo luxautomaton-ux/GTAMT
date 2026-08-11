@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:28:31.060Z",
+  "generatedAt": "2026-08-11T09:15:06.376Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -123,20 +123,6 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "gamesradar-68a369ff2aacdb",
-      "title": "GTA 6's divisive Netflix exclusive gameplay reveal is just the start, Take-Two boss promises: \"There's appetizers, main course, and dessert to follow\"",
-      "excerpt": "Rockstar has more planned for GTA 6's marketing, thankfully",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-divisive-netflix-exclusive-gameplay-reveal-is-just-the-start-take-two-boss-promises-theres-appetizers-main-course-and-dessert-to-follow/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-10T09:38:15.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fe5rRQb3bLcyoW5s2ftqM8-1280-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
       "id": "eurogamer-dc0581635da63b",
