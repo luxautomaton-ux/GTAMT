@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T17:10:09.279Z",
+  "generatedAt": "2026-08-11T02:28:31.060Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-98be44815994e2",
+      "title": "As GTA 6 anticipation builds and the games industry buckles, Take-Two boss says \"I don't love winning by attrition, but I'll take it\"",
+      "excerpt": "\"The people who hate running public companies are the people who hate telling the truth\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-anticipation-builds-and-the-games-industry-buckles-take-two-boss-says-i-dont-love-winning-by-attrition-but-ill-take-it/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-10T21:08:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rkoPCUnriArWrQrGgmnV4n-1280-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "gamesradar-11548ffaf3bd16",
+      "title": "18 AAA games in 8 weeks: With the GTA 6 shadow looming, Gamescom suddenly feels like the most essential gaming event of 2026",
+      "excerpt": "With the world migrating to Vice City this November, all eyes are on Gamescom 2026 to help us better understand the fall schedule",
+      "url": "https://www.gamesradar.com/games/18-aaa-games-in-8-weeks-with-the-gta-6-shadow-looming-gamescom-suddenly-feels-like-the-most-essential-gaming-event-of-2026/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-10T20:50:48.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EBoxkUAkhQtAMLeLydgVg8-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-f4b504d21c294b",
       "title": "Gearbox owner Take-Two is \"thrilled\" with Borderlands 4 even though some fans weren't thrilled with it at launch",
       "excerpt": "Strauss Zelnick is more than satisfied",
@@ -109,76 +137,6 @@
       "category": "Investor Radar",
       "riskFlag": false,
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "gamesradar-685a4e15a4f664",
-      "title": "\"I'm a little disappointed with Rockstar\": GTA 5 and Red Dead Redemption actor auditioned for over 60 roles in GTA 6 and never heard back",
-      "excerpt": "Robert Bogue first appeared in Red Dead Revolver way back in 2004",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/im-a-little-disappointed-with-rockstar-gta-5-and-red-dead-redemption-actor-auditioned-for-over-60-roles-in-gta-6-and-never-heard-back/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-09T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/z247XpZCBcGt27g7gAKEgV-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-81b28021d7d829",
-      "title": "GTA 6's Netflix deal forces us to ask: can you pirate an advertisement?",
-      "excerpt": "Just when you thought videogame marketing couldn't get sillier, people are going to wind up stealing a trailer.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-netflix-deal-forces-us-to-ask-can-you-pirate-an-advertisement/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T23:52:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XBPNsaJS7QVdcvZEorNecD-1280-80.jpg",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "pc-gamer-506066f04c0c1b",
-      "title": "Even with an $80 price tag, 'Grand Theft Auto 6 will be an incredible bargain,' Take-Two boss says",
-      "excerpt": "Strauss Zelnick reckons that the quality of the experience will more than justify the price.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/even-with-an-usd80-price-tag-grand-theft-auto-6-will-be-an-incredible-bargain-take-two-boss-says/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T21:54:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/cSGCsWasEFPB44AqdWPtf5-1280-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "pc-gamer-005e8019bc8149",
-      "title": "Take-Two CEO says he expects the games industry to be in 'commercial streaming mode within 3 years,' which is great news if you hate owning things",
-      "excerpt": "Rockstar's parent company believes cloud gaming will grow its customer base even as hardware prices rise.",
-      "url": "https://www.pcgamer.com/gaming-industry/take-two-ceo-says-he-expects-the-games-industry-to-be-in-commercial-streaming-mode-within-3-years-which-is-great-news-if-you-hate-owning-things/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T20:05:13.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rSiZrgwHEbGKxVdZyYSoS4-1280-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "pc-gamer-0d2b20efb7a61c",
-      "title": "Take-Two boss dismisses hand-wringing over the end of disc-based games: 'Our business is well over 90% digitally distributed as it is'",
-      "excerpt": "Strauss Zelnick says Take-Two will still put out physical editions \"now and then,\" but for the most part, the era of games on discs is already over.",
-      "url": "https://www.pcgamer.com/gaming-industry/take-two-boss-dismisses-hand-wringing-over-the-end-of-disc-based-games-our-business-is-well-over-90-percent-digitally-distributed-as-it-is/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-07T16:35:05.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/hY6e5okNmvVAdFTJ3H6PjJ-1280-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "eurogamer-dc0581635da63b",
