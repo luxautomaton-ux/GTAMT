@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T09:33:57.088Z",
+  "generatedAt": "2026-08-13T17:14:18.418Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -81,20 +81,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-7227bb522f0e73",
-      "title": "Max Payne 1 and 2 remake is still happening, but publisher Rockstar won't let Remedy say any more",
-      "excerpt": "Gives you time to practice your Max Payne face",
-      "url": "https://www.gamesradar.com/games/max-payne/max-payne-1-and-2-remake-is-still-happening-but-publisher-rockstar-wont-let-remedy-say-any-more/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-11T21:13:17.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/o9Wp5DRnaP3gbPDDNg78hF-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "pc-gamer-e6ac8258b05f62",
@@ -181,20 +167,6 @@
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
-      "id": "the-verge-games-ab1fce03d6ea88",
-      "title": "GTA VI is getting an ‘extended look’ at the end of August",
-      "excerpt": "We'll be getting an in-depth preview of Grand Theft Auto VI very soon: Rockstar announced this morning that it will be airing an \"extended look\" at the game on August 27th. The preview will stream on YouTube at 9PM ET, as per usual, but will also be shown earl",
-      "url": "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-06T12:16:08.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-dfdf30bee5a3ba",
       "title": "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
       "excerpt": "Rockstar Games and Take Two have announced that an \"extended look\" trailer for Grand Theft Auto 6 will premiere first on Netflix on Thursday, the 27th August, at 3pm ET (8pm BST).",
@@ -207,20 +179,6 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "eurogamer-c93e075738e9a8",
-      "title": "PlayStation and Xbox's most played games are, once again, exactly what you expect them to be",
-      "excerpt": "The list of games that get played the most on PlayStation and Xbox is nearly identical across the two console platforms, and the games themselves are either long-running live service titles or annualised sports games. This has been the case for years, and anal",
-      "url": "https://www.eurogamer.net/playstation-xbox-top-20-most-played-games",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-04T08:40:04.000Z",
-      "image": "https://assetsio.gnwcdn.com/The-Simpsons-characters-including-Marge%2C-Homer-and-Ned-fall-through-the-air-with-a-couch-and-trolly.-Fortnite's-Peely-is-on-the-couch-and-Homer-is-reaching-for-a-donut.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-85d0d2e46f7274",
