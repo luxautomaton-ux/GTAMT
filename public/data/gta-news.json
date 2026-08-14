@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T09:28:29.454Z",
+  "generatedAt": "2026-08-14T17:12:44.702Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,62 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-03e1257a911d4c",
+      "title": "Ahead of GTA 6, Rockstar ramps up GTA Online roleplay as nopixel V prepares for exclusive Closed Beta launch in September",
+      "excerpt": "Time to get creative",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-ramps-up-gta-online-roleplay-as-nopixel-v-prepares-for-exclusive-closed-beta-launch-in-september/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-14T16:46:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pV5nhKEoDifcJKvozVZKcm-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-068c4bb58e5f2b",
+      "title": "GTA 6 isn't too expensive for superfans, as 90% opt for the pricier $100 copy according to analysts: \"It lives in a league of its own\"",
+      "excerpt": "That it does",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-too-expensive-for-superfans-as-90-percent-opt-for-the-pricier-usd100-copy-according-to-analysts-it-lives-in-a-league-of-its-own/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-14T16:30:39.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UF7JPwRPb3B7ME29wLGCp5-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-42aa3c1fc95423",
+      "title": "The women of Grand Theft Auto: How film noir shaped (and limited) Rockstar's female characters",
+      "excerpt": "Is GTA 6's leading lady about to tread the footsteps of her ancestors, or break the trend entirely?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-women-of-grand-theft-auto-how-film-noir-shaped-and-limited-rockstars-female-characters/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-14T16:06:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sxQM5RvMdFWn7FS8a6f9L4-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-84beca712ff5e3",
+      "title": "GTA 6 fans don't \"go around buying nerdy niche\" games, indie says, so fellow devs don't really need to get out of Rockstar's way",
+      "excerpt": "\"I'm pretty sure that's not the GTA audience,\" says Falconeer creator Tomas Sala",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-dont-go-around-buying-nerdy-niche-games-indie-says-so-fellow-devs-dont-really-need-to-get-out-of-rockstars-way/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-14T15:23:57.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rkoPCUnriArWrQrGgmnV4n-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-3c79ac6d6d90fd",
       "title": "Take-Two won't reveal raw GTA 6 preorder numbers because it doesn't know what they mean: 'It's just never happened before'",
