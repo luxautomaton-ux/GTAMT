@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:47:27.824Z",
+  "generatedAt": "2026-08-18T01:51:26.185Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-d1ae4605e5853c",
+      "title": "\"Rockstar literally just spent over a billion dollars\": Ori studio founder wants you to stop demanding 60 FPS on Xbox Series S just because GTA 6 can run on it",
+      "excerpt": "Moon Studios founder Thomas Mahler says games like Ori can't compete with GTA 6 on Xbox Series S",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-literally-just-spent-over-a-billion-dollars-ori-studio-founder-wants-you-to-stop-demanding-60-fps-on-xbox-series-s-just-because-gta-6-can-run-on-it/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-17T20:42:15.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2Xp9xWQhFYLeZNzPraTk6K-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-8e6fcb99229f41",
+      "title": "I'm modding GTA 5 every day until it becomes GTA 6 or breaks, starting with a new vehicle and enough missiles to level a city block",
+      "excerpt": "Baby steps.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-modding-gta-5-every-day-until-it-becomes-gta-6-or-breaks-starting-with-a-new-vehicle-and-enough-missiles-to-level-a-city-block/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-17T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oPwTMv7XTnPKAvb5frZ4g4-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "pc-gamer-e227eabd81c48d",
       "title": "Steam Week in Review: Here are the 32 Steam games brave enough to release on GTA 6 day",
       "excerpt": "All the interesting Steam facts for the week ending August 16.",
@@ -78,20 +106,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-17T01:43:59.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/7PESSCnbnt4gYY5DhsgzZR-1280-80.png",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-a45a0f80e98d1b",
-      "title": "GTA 4 producer Leslie Benzies wanted NPCs \"to have their own lives,\" former Rockstar lead says, but \"it ended up being so problematic\" and didn't \"really matter that much\"",
-      "excerpt": "Obbe Vermeij speaks on the early ambitions of GTA 4",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-4-producer-leslie-benzies-wanted-npcs-to-have-their-own-lives-former-rockstar-lead-says-but-it-ended-up-being-so-problematic-and-didnt-really-matter-that-much/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-16T18:19:46.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Hi2qTr6Jx7oZCGzmW7QoKP-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
