@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:57:04.125Z",
+  "generatedAt": "2026-08-20T16:51:59.197Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,76 @@
   ],
   "items": [
     {
+      "id": "pc-gamer-d3cc9f57f5d0e7",
+      "title": "The latest GTA 6 leak confirms the leaker likely has or had access to a playable build",
+      "excerpt": "The new video is maybe the most impressive yet, but it's the ending that spells potential trouble for Rockstar and Take-Two.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-latest-gta-6-leak-confirms-the-leaker-likely-has-or-had-access-to-a-playable-build/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-20T16:45:31.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cYQaYNp6zJr3EWS2QoMwKV-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-b030fd272cf614",
+      "title": "GTA 6 map leak is \"100% real,\" say fans who've spent years painstakingly mapping Rockstar's open-world game by hand",
+      "excerpt": "\"There is literally no way someone fabricated this\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-map-leak-is-100-percent-real-say-fans-whove-spent-years-painstakingly-mapping-rockstars-open-world-game-by-hand/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-20T16:12:37.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gMvYBKzqNGgwzXhZgvjq88-1280-80.png",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-a45db0169404d7",
+      "title": "GTA 6's leaks prove AI disinformation is more rampant than you think",
+      "excerpt": "You think you've seen the GTA 6 leaks, but are you sure they're not AI generated?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-leaks-prove-ai-disinformation-is-more-rampant-than-you-think/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-20T15:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YMBDnGam47CjG55qUtcNNA-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-375640e207f2cb",
+      "title": "GTA 6 leaks go from bad to worse for Rockstar as new footage suggests leaker has access to a playable build",
+      "excerpt": "Some fans are already worried about spoilers, three months out from launch",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaks-go-from-bad-to-worse-for-rockstar-as-new-footage-suggests-leaker-has-access-to-a-playable-build/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-20T11:56:31.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ez5TXchDBFfu7cW38JnaLA-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "eurogamer-374a37f6e8389f",
+      "title": "GTA 6 leaker shares footage suggesting link or access to playable build of the game, as Rockstar struggles to contain even more gameplay videos",
+      "excerpt": "UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had \"full access\" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account.",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-20T11:27:51.000Z",
+      "image": "https://assetsio.gnwcdn.com/GTA-6's-Jason-aims-a-gun-with-a-bandana-scarf-covering-his-lower-face-and-yellow-rimmed-sunglasses-over-his-eyes.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
       "id": "pc-gamer-1a69a272ca2339",
       "title": "GTA 6 cars need gas? OK, I'm finally on board",
       "excerpt": "It's about time GTA evolved.",
@@ -125,20 +195,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "gamesradar-03907760ec8ce0",
-      "title": "I thought digital-only games would stop leaks, but GTA 6 just proved me wrong",
-      "excerpt": "Maybe it's time to go back to floppy discs after all",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/i-thought-digital-only-games-would-stop-leaks-but-gta-6-just-proved-me-wrong/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T15:42:35.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5oRDgNtSE6J8pAuFK7fgXj-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
       "id": "eurogamer-d3cd7c2b515ef9",
       "title": "Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet",
       "excerpt": "Another video of what appears to be legitimate Grand Theft Auto 6 gameplay has leaked online, and again it bears the watermark of the group allegedly connected with today's earlier leaks, CyberLeek.",
@@ -190,34 +246,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-19T11:25:41.000Z",
       "image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-340e7aaf0f71cc",
-      "title": "New GTA 6 leaked footage is actually years old, alleged leakers claim, so don't expect Rockstar's final product to look like that",
-      "excerpt": "The Netflix special is only eight days away, y'all",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leaked-footage-is-actually-years-old-alleged-leakers-claim-so-dont-expect-rockstars-final-product-to-look-like-that/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T11:12:01.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/E5jRb2PaMaHuDU2KkdoUi8-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-5ebc74596afee4",
-      "title": "GTA 6 leakers called out by Stop Killing Games after demanding game preservation solutions and physical discs from Rockstar: \"Using illegal means to make a point is unacceptable\"",
-      "excerpt": "\"This kind of act is destructive and helps no one\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leakers-called-out-by-stop-killing-games-after-demanding-game-preservation-solutions-and-physical-discs-from-rockstar-using-illegal-means-to-make-a-point-is-unacceptable/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T10:50:28.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/L9JfY29u9s5z4EXMi2EqZ8-1280-80.jpg",
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
@@ -333,20 +361,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "eurogamer-980dbb289c7113",
-      "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss",
-      "excerpt": "One of the most surprising things about Rockstar's Grand Theft Auto 6 trailer tease last week was word that it will premiere on subscription-based service Netflix - a move I can't ever remember another game company doing.",
-      "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-10T10:22:30.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-netflix-lucia.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
     },
     {
       "id": "take-two-ir-85d0d2e46f7274",
