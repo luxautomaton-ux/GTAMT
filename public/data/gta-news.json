@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T16:47:28.344Z",
+  "generatedAt": "2026-08-20T01:52:33.705Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,62 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-1a69a272ca2339",
+      "title": "GTA 6 cars need gas? OK, I'm finally on board",
+      "excerpt": "It's about time GTA evolved.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cars-need-gas-ok-im-finally-on-board/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-19T19:52:57.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YWEVaojRzQNFEArdQjrpKD-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-92f245f7d5c437",
+      "title": "Stop Killing Games distances itself from GTA 6 leak manifesto: 'Using illegal means to make a point is unacceptable to us'",
+      "excerpt": "The group is urging its followers not to give the leakers money.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/stop-killing-games-distances-itself-from-gta-6-leak-manifesto-using-illegal-means-to-make-a-point-is-unacceptable-to-us/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-19T19:34:09.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UR4jTrwyw3yo43qEZzdkB7-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "pc-gamer-e848ef183283ed",
+      "title": "More GTA 6 leaks reveal new details: Cloning keys, combat changes, random bird deaths",
+      "excerpt": "The latest purported GTA 6 gameplay videos show Jason committing more senseless murder, and reveal even more gameplay systems.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/more-gta-6-leaks-reveal-new-details-cloning-keys-combat-changes-random-bird-deaths/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-19T18:46:37.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oKVSj4cJAK44pN6Xsw7Gan-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "the-verge-games-6a9c39efcbddf3",
+      "title": "GTA VI keeps leaking ahead of its gameplay premiere",
+      "excerpt": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips seemingly showing off t",
+      "url": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-19T17:03:11.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
     {
       "id": "gamesradar-03907760ec8ce0",
       "title": "I thought digital-only games would stop leaks, but GTA 6 just proved me wrong",
@@ -209,34 +265,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "gamesradar-09aad63dca2b53",
-      "title": "\"That's unacceptable\": Red Dead Redemption dev says crunch at Rockstar was to \"put on the show\" for executives, not to fix bugs",
-      "excerpt": "\"I don't want to do this\"",
-      "url": "https://www.gamesradar.com/games/red-dead/thats-unacceptable-red-dead-redemption-dev-says-crunch-at-rockstar-was-to-put-on-the-show-for-executives-not-to-fix-bugs/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-18T21:22:52.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3vcMF5Qqyykk6VbNpvyZMC-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-35c85a3b708c6c",
-      "title": "Apparent GTA 6 leak smells of crypto scam, links to a manifesto demanding digital rights: \"This is not a cash grab\"",
-      "excerpt": "Me when I'm definitely not pulling a cash grab",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/apparent-gta-6-leak-smells-of-crypto-scam-links-to-a-manifesto-demanding-digital-rights-this-is-not-a-cash-grab/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-18T20:59:16.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2mC6TL5ecXe7FiGDJky5Ao-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
       "id": "pc-gamer-ebf4db8f313408",
       "title": "Grand Theft Auto 6 leaker says they won't stop until Rockstar and Take-Two apologize for 'anti-consumerism' and make a 'concrete commitment to do better'",
       "excerpt": "A manifesto threatens to target not just the GTA 6 makers, but everyone who violates Cyberleek's \"three commandments.\"",
@@ -265,20 +293,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "gamesradar-424e661be22e2d",
-      "title": "New GTA 6 leaks show gameplay and the full Leonida map as Rockstar issues DMCA takedowns",
-      "excerpt": "Combat, driving, and minigames all factor into the footage",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leaks-show-gameplay-and-the-full-leonida-map-as-rockstar-issues-dmca-takedowns/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-18T19:30:13.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/MCNBQ4L5VWyv3jgpZQySuj-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
       "id": "pc-gamer-38803ed7a05edd",
       "title": "2 seemingly real GTA 6 clips—and maybe the full map—just leaked online",
       "excerpt": "B-b-b-b-b-basketball.",
@@ -302,20 +316,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-18T13:27:24.000Z",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-drinking.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-8e6fcb99229f41",
-      "title": "I'm modding GTA 5 every day until it becomes GTA 6 or breaks, starting with a new vehicle and enough missiles to level a city block",
-      "excerpt": "Baby steps.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-modding-gta-5-every-day-until-it-becomes-gta-6-or-breaks-starting-with-a-new-vehicle-and-enough-missiles-to-level-a-city-block/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-17T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oPwTMv7XTnPKAvb5frZ4g4-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
