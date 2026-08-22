@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:49:02.210Z",
+  "generatedAt": "2026-08-22T16:42:30.470Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-a2b5a57a6e8d55",
+      "title": "GTA 6 leaks persist despite Take-Two taking action, and the hacker's now dangling strip club footage in front of Rockstar",
+      "excerpt": "The Netflix Extended Look is just days away",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaks-persist-despite-take-two-taking-action-and-the-hackers-now-dangling-strip-club-footage-in-front-of-rockstar/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-22T13:59:43.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/dyCiDZPpGcJUQaYPk29kTP-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "eurogamer-0eab81844857af",
+      "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
+      "excerpt": "UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped.",
+      "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-22T11:16:33.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-headline_4qa8MBU.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
     {
       "id": "gamesradar-d41417211a6d07",
       "title": "Xbox is \"working closely\" with GTA 6 makers Take-Two and Rockstar following leaks, tech chief says, \"to support efforts to protect creative works\"",
@@ -361,34 +389,6 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "pc-gamer-1a69a272ca2339",
-      "title": "GTA 6 cars need gas? OK, I'm finally on board",
-      "excerpt": "It's about time GTA evolved.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cars-need-gas-ok-im-finally-on-board/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T19:52:57.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YWEVaojRzQNFEArdQjrpKD-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-92f245f7d5c437",
-      "title": "Stop Killing Games distances itself from GTA 6 leak manifesto: 'Using illegal means to make a point is unacceptable to us'",
-      "excerpt": "The group is urging its followers not to give the leakers money.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/stop-killing-games-distances-itself-from-gta-6-leak-manifesto-using-illegal-means-to-make-a-point-is-unacceptable-to-us/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T19:34:09.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UR4jTrwyw3yo43qEZzdkB7-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "the-verge-games-6a9c39efcbddf3",
