@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T08:49:53.986Z",
+  "generatedAt": "2026-08-23T16:43:52.411Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,48 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-97c3cb6829e2c2",
+      "title": "Former Rockstar Games lead says GTA 6 leaks are a \"nothing burger\" because \"90% of future players\" aren't searching for the clips online",
+      "excerpt": "Rockstar's ex-technical lead thinks most people \"don't have the time and don't want spoilers",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-games-lead-says-gta-6-leaks-are-a-nothing-burger-because-90-percent-of-future-players-arent-searching-for-the-clips-online/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-23T13:18:23.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uFzAcTB9QCR8HPbcgensok-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-6fd144426b1f38",
+      "title": "LA Noire still stands as Rockstar's extravagant, cinematic ode to noir fiction that could have changed everything",
+      "excerpt": "The best detective game that ever lived",
+      "url": "https://www.gamesradar.com/games/action/la-noire-still-stands-as-rockstars-extravagant-cinematic-ode-to-noir-fiction-that-could-have-changed-everything/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-23T13:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uSTvh3Eh7n5PUzG5usPt4P-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "the-verge-games-fd7691673e6107",
+      "title": "Grand Theft Auto VI exists in its own universe",
+      "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on GTA VI and the state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Step",
+      "url": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-23T12:00:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lucia_Caminos_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-8f6928891dbe79",
       "title": "GTA 6 and Red Dead Redemption 2 are \"the north stars of gaming,\" says Gamescom chief, but they won't last forever because \"most gamers aren't only interested in a single game\"",
@@ -377,20 +419,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "pc-gamer-d3cc9f57f5d0e7",
-      "title": "The latest GTA 6 leak confirms the leaker likely has or had access to a playable build",
-      "excerpt": "The new video is maybe the most impressive yet, but it's the ending that spells potential trouble for Rockstar and Take-Two.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-latest-gta-6-leak-confirms-the-leaker-likely-has-or-had-access-to-a-playable-build/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-20T16:45:31.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/cYQaYNp6zJr3EWS2QoMwKV-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
       "id": "eurogamer-374a37f6e8389f",
       "title": "GTA 6 leaker shares footage suggesting link or access to playable build of the game, as Rockstar struggles to contain even more gameplay videos",
       "excerpt": "UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had \"full access\" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account.",
@@ -428,34 +456,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-19T15:26:15.000Z",
       "image": "https://assetsio.gnwcdn.com/gta-6-headline_4qa8MBU.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "eurogamer-1c99d6a090fdf4",
-      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6",
-      "excerpt": "The Binding of Isaac: Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exa",
-      "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T11:59:42.000Z",
-      "image": "https://assetsio.gnwcdn.com/the-binding-of-isaac-repentance%2B-screen-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-0c74b7bfead3ba",
-      "title": "Stop Killing Games urges people not to support GTA 6 leakers, who declared \"gamers' rights\" their motive for action",
-      "excerpt": "Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight.",
-      "url": "https://www.eurogamer.net/stop-killing-games-gta-6-leak",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T11:25:41.000Z",
-      "image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=690&quality=85&format=jpg&auto=webp",
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
