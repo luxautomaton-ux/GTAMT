@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:42:30.470Z",
+  "generatedAt": "2026-08-23T02:00:32.730Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-8f6928891dbe79",
+      "title": "GTA 6 and Red Dead Redemption 2 are \"the north stars of gaming,\" says Gamescom chief, but they won't last forever because \"most gamers aren't only interested in a single game\"",
+      "excerpt": "Rockstar is very good at making games, but that doesn't mean they're for everyone",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-red-dead-redemption-2-are-the-north-stars-of-gaming-says-gamescom-chief-but-they-wont-last-forever-because-most-gamers-arent-only-interested-in-a-single-game/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-22T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5oRDgNtSE6J8pAuFK7fgXj-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-a2b5a57a6e8d55",
       "title": "GTA 6 leaks persist despite Take-Two taking action, and the hacker's now dangling strip club footage in front of Rockstar",
@@ -442,20 +456,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-19T11:25:41.000Z",
       "image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "eurogamer-de3c8df33f7b04",
-      "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar",
-      "excerpt": "What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map.",
-      "url": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T10:49:16.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-leak.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
