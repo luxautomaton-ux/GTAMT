@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:43:52.411Z",
+  "generatedAt": "2026-08-24T01:58:41.224Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "the-verge-games-202a080e6e0826",
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "excerpt": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then a",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-23T19:14:37.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-97c3cb6829e2c2",
       "title": "Former Rockstar Games lead says GTA 6 leaks are a \"nothing burger\" because \"90% of future players\" aren't searching for the clips online",
@@ -442,20 +456,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-19T17:03:11.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "eurogamer-d3cd7c2b515ef9",
-      "title": "Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet",
-      "excerpt": "Another video of what appears to be legitimate Grand Theft Auto 6 gameplay has leaked online, and again it bears the watermark of the group allegedly connected with today's earlier leaks, CyberLeek.",
-      "url": "https://www.eurogamer.net/third-leaked-gta-6-footage-rockstar-cyberleek",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-19T15:26:15.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-headline_4qa8MBU.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
