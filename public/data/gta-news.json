@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:56:38.014Z",
+  "generatedAt": "2026-08-25T01:53:17.746Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-9a1227818211d8",
+      "title": "Rockstar \"overreacts a bit at times,\" says former tech lead as GTA 6 leaks continue, but it's \"their job\" to stop them",
+      "excerpt": "Obbe Vermeij has said the GTA 6 leaks are \"a nothing burger\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-overreacts-a-bit-at-times-says-former-tech-lead-as-gta-6-leaks-continue-but-its-their-job-to-stop-them/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-24T21:36:09.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9twJiyUsccLrxMJAoE6g69-1280-80.png",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "pc-gamer-0d9f9fe2b911ac",
+      "title": "Latest GTA 6 leak confirms full dong",
+      "excerpt": "It's perfectly natural.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/latest-gta-6-leak-confirms-full-dong/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-24T20:22:51.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/EZTzHnEnqAtVk72c6VYG4k-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
       "id": "pc-gamer-6c2fec065bc7e1",
       "title": "Former Rockstar dev says the GTA 6 leaks are a 'nothing burger': 'There won't be much damage'",
       "excerpt": "The Cyberleek debacle is no Hot Coffee.",
@@ -97,20 +125,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "gamesradar-7e15274e262b78",
-      "title": "New GTA 6 leaks suggest Cyberleek has access to Lucia as fans become even more convinced they have Rockstar's full game in their hands",
-      "excerpt": "Lucia is yet to be seen in the latest wave of leaks",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leaks-suggest-cyberleek-has-access-to-lucia-as-fans-become-even-more-convinced-they-have-rockstars-full-game-in-their-hands/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-24T10:27:01.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/So6M7rVj8Ke8Xy5nSadTe8-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
       "id": "the-verge-games-202a080e6e0826",
       "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
       "excerpt": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then a",
@@ -123,20 +137,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-97c3cb6829e2c2",
-      "title": "Former Rockstar Games lead says GTA 6 leaks are a \"nothing burger\" because \"90% of future players\" aren't searching for the clips online",
-      "excerpt": "Rockstar's ex-technical lead thinks most people \"don't have the time and don't want spoilers",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-games-lead-says-gta-6-leaks-are-a-nothing-burger-because-90-percent-of-future-players-arent-searching-for-the-clips-online/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-23T13:18:23.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uFzAcTB9QCR8HPbcgensok-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "the-verge-games-fd7691673e6107",
@@ -223,9 +223,9 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "the-verge-games-0c37838baf26fe",
-      "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
-      "excerpt": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed on Thursday, Take-Two says copyrighted ",
+      "id": "the-verge-games-a5d4f0bab2eef5",
+      "title": "Take-Two requests subpoenas over GTA VI gameplay leaks",
+      "excerpt": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive requested to be able to subpoena Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the requests, filed on Thursday, Take-Two ",
       "url": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
       "source": "The Verge Gaming",
       "sourceUrl": "https://www.theverge.com",
@@ -260,48 +260,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-21T15:55:19.000Z",
       "image": "https://assetsio.gnwcdn.com/gta-6-lucia-retro-olive.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "pc-gamer-a8ab1218037ec6",
-      "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
-      "excerpt": "The party pooper has arrived.",
-      "url": "https://www.pcgamer.com/hardware/yes-the-gta-6-leaked-footage-was-probably-running-on-pc-and-no-that-doesnt-tell-us-a-whole-lot-about-the-eventual-release/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-21T15:36:52.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UmyHtFWVwBzmtL4FFwUYZL-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "pc-gamer-53264221d9c41b",
-      "title": "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes",
-      "excerpt": "The latest video features a new threat: \"HIGHER MARKETCAP = MORE LEEKS.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleeks-still-at-it-another-gta-6-leak-shows-2-full-minutes-of-high-speed-driving-surprisingly-few-crashes/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-21T14:38:03.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DWro25PZvaLfXnuAFUcYnh-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "pc-gamer-08d5f93c690baf",
-      "title": "Take-Two lost $2.8 billion in market cap after GTA 6 leaks—but what's more shocking to me is it probably barely felt it",
-      "excerpt": "Small pennies to Zelnick.",
-      "url": "https://www.pcgamer.com/gaming-industry/take-two-lost-usd2-8-billion-in-market-cap-after-gta-6-leaks-but-whats-more-shocking-to-me-is-it-probably-barely-felt-it/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-21T13:50:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/csHd3LAqcjtFkUocmzkuME-1280-80.png",
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
@@ -456,6 +414,20 @@
       "sourceType": "official",
       "publishedAt": "2026-04-23T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-8aefdab9ec106a",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal Third Quarter 2026",
+      "excerpt": "Company raises fiscal year 2026 outlook Fiscal third quarter Net Bookings were $1.76 billion, above Company's guidance range Net Bookings for fiscal year 2026 are now expected to range from $6.65 to $6.7 billion NEW YORK --(BUSINESS WIRE)--Feb. 3, 2026-- Take-",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fiscal-third-4",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-02-03T21:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
