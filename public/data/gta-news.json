@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T07:06:36.894Z",
+  "generatedAt": "2026-08-29T13:50:45.064Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-8aa217c3542385",
+      "title": "Rockstar considered having four protagonists in Grand Theft Auto 6, but the studio 'worried about diluting the amount of player time' with each character",
+      "excerpt": "\"How do we follow up three characters? Is it four characters now?\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-considered-having-four-protagonists-in-grand-theft-auto-6-but-the-studio-worried-about-diluting-the-amount-of-player-time-with-each-character/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-29T13:13:58.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8ncBqozL6HDJKAVUdaPae9-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-2c2d338d0fc76e",
+      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
+      "excerpt": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6.",
+      "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-29T12:09:49.000Z",
+      "image": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-a6b7d8541d9a9a",
       "title": "PS5 Pros all but vanish after GTA 6 reveal, going for up to $1,300 at the few stores with stock",
@@ -335,20 +363,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-418e3ef979f00d",
-      "title": "Fable director \"happy to go toe-to-toe\" with heavy hitters like Persona and God of War, but GTA 6 is a beast he's \"happy to avoid entirely\"",
-      "excerpt": "Playground Games is confident in its RPG reboot",
-      "url": "https://www.gamesradar.com/games/rpg/fable-director-happy-to-go-toe-to-toe-with-heavy-hitters-like-persona-and-god-of-war-but-gta-6-is-a-beast-hes-happy-to-avoid-entirely/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T10:57:13.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/epp9t79WgoCYvvq7tztUPB-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "pc-gamer-8f072b654f6000",
       "title": "Netflix is likely pleased as punch with the GTA 6 extended look, which more than doubled its web traffic",
       "excerpt": "Done deal.",
@@ -358,34 +372,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-28T10:55:36.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/a5kFkuMcP3K6N2YFbYPxyZ-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-f5513a80298ac2",
-      "title": "GTA 6 will run at 30fps across PS5 and Xbox Series X, and Rockstar is reportedly undecided about adding a performance mode to better that",
-      "excerpt": "Rockstar generally isn't fussed about these sorts of things",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-run-at-30fps-across-ps5-and-xbox-series-x-and-rockstar-is-reportedly-undecided-about-adding-a-performance-mode-to-better-that/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T10:48:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jQWpAjCrVBgDbmFAzj3AQJ-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-1855d83e511be5",
-      "title": "GTA 6 doesn't feature microtransactions or AI, Rockstar says, but I doubt its take on GTA Online won't have Shark Cards",
-      "excerpt": "Maybe GTA Online will be a separate thing this time around",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-doesnt-feature-microtransactions-or-ai-rockstar-says-but-i-doubt-its-take-on-gta-online-wont-have-shark-cards/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T10:22:45.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gA2SeaEw9H3guJjLLgPpp6-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -456,6 +442,20 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-27T21:37:19.000Z",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Sky-Diving.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-95b3cb8ebed443",
+      "title": "GTA 6 gameplay reveal breakdown: A summary of all the details we spotted",
+      "excerpt": "We saw a lot of little tactical maneuvers for perpetrating crimes in disguise and escaping the cops too.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-27T21:23:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/CEPafYXbfz9mup9ybDKMt9-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
