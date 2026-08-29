@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T20:12:36.676Z",
+  "generatedAt": "2026-08-29T07:06:36.894Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-a6b7d8541d9a9a",
+      "title": "PS5 Pros all but vanish after GTA 6 reveal, going for up to $1,300 at the few stores with stock",
+      "excerpt": "Stock has very suddenly started disappearing",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ps5-pros-all-but-vanish-after-gta-6-reveal-going-for-up-to-usd1-300-at-the-few-stores-with-stock/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-28T21:51:52.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NntepTcC8N4zc8N9rGivr4-1280-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "pc-gamer-78cde6b5cec4f1",
+      "title": "Bland or badass? The internet is split on GTA 6's Jason, and so is PC Gamer",
+      "excerpt": "Everyone's got an opinion, including us.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/bland-or-badass-the-internet-is-split-on-gta-6s-jason-and-so-is-pc-gamer/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-28T20:16:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/okZg4Udto3wSrSrxHSJWrk-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-dc16de0c7d2123",
       "title": "GTA 6 extended look breakdown: 7 things you might have missed",
@@ -405,20 +433,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-78e822c966fb99",
-      "title": "Rockstar is cautious about what to satirize in GTA 6: \"Specific political issues or memes will date fast\"",
-      "excerpt": "\"We have to be careful\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-cautious-about-what-to-satirize-in-gta-6-specific-political-issues-or-memes-will-date-fast/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T00:05:13.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/as9wuFhTyhA4vGp5WqZLyA-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "the-verge-games-3e6a523c30ca81",
       "title": "The biggest video game of all time looks like a movie",
       "excerpt": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige",
@@ -442,20 +456,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-27T21:37:19.000Z",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Sky-Diving.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-95b3cb8ebed443",
-      "title": "GTA 6 gameplay reveal breakdown: A summary of all the details we spotted",
-      "excerpt": "We saw a lot of little tactical maneuvers for perpetrating crimes in disguise and escaping the cops too.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T21:23:08.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CEPafYXbfz9mup9ybDKMt9-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
