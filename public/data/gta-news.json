@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T13:50:45.064Z",
+  "generatedAt": "2026-08-29T19:24:58.554Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-5ab9f58681980c",
+      "title": "GTA 6 \"will be released on time,\" Rockstar North co-lead says, who hopes the extended look will stop fans from being \"worried about the quality\"",
+      "excerpt": "Rockstar is saying yet again that November is the final release date for the next Grand Theft Auto game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-be-released-on-time-rockstar-north-co-lead-says-who-hopes-the-extended-look-will-stop-fans-from-being-worried-about-the-quality/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-29T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zb3Q2uW5q96AnLSCtr2AVA-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-f9692e0efb513b",
+      "title": "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process",
+      "excerpt": "Reaction streams to Grand Theft Auto 6's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far.",
+      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-29T14:25:56.000Z",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-roundup-header-new.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-8aa217c3542385",
       "title": "Rockstar considered having four protagonists in Grand Theft Auto 6, but the studio 'worried about diluting the amount of player time' with each character",
@@ -335,20 +363,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-7ddd9a22a00b15",
-      "title": "After 13 years, GTA 6's gameplay deep dive has been so worth the wait even my 76-year-old mother has been texting me about it",
-      "excerpt": "Rockstar's 26-minute Extended Look is beautiful, enormous and deeply impressive – but its arrival on Netflix feels bigger than GTA alone",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-13-years-gta-6s-gameplay-deep-dive-has-been-so-worth-the-wait-even-my-76-year-old-mother-has-been-texting-me-about-it/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T12:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jQWpAjCrVBgDbmFAzj3AQJ-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "pc-gamer-6ea6363bb858ea",
       "title": "GTA 6 is adding a more nuanced version of Red Dead Redemption 2's honor system to ensure player characters aren't too 'all-powerful'",
       "excerpt": "Careful when you're in Leonida, it's on sight.",
@@ -442,20 +456,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-27T21:37:19.000Z",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Sky-Diving.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-95b3cb8ebed443",
-      "title": "GTA 6 gameplay reveal breakdown: A summary of all the details we spotted",
-      "excerpt": "We saw a lot of little tactical maneuvers for perpetrating crimes in disguise and escaping the cops too.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-gameplay-reveal-details-breakdown/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T21:23:08.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/CEPafYXbfz9mup9ybDKMt9-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
