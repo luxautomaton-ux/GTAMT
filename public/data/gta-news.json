@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T05:26:58.500Z",
+  "generatedAt": "2026-08-30T13:48:57.860Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "eurogamer-ea680106cf26a6",
+      "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
+      "excerpt": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI.",
+      "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-30T10:48:08.000Z",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Lucia-Caminos.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-5ab9f58681980c",
       "title": "GTA 6 \"will be released on time,\" Rockstar North co-lead says, who hopes the extended look will stop fans from being \"worried about the quality\"",
       "excerpt": "Rockstar is saying yet again that November is the final release date for the next Grand Theft Auto game",
@@ -83,8 +97,8 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "eurogamer-f9692e0efb513b",
-      "title": "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process",
+      "id": "eurogamer-cbb8c83a648d4a",
+      "title": "GTA 6's gameplay reveal pulled in 3.97 million viewers across commentator livestreams, overwhelming Twitch and Netflix in the process",
       "excerpt": "Reaction streams to Grand Theft Auto 6's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far.",
       "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
       "source": "Eurogamer",
@@ -316,20 +330,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-28T14:30:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/i4irRDAzNhwzEF9mPq2P4J-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-5100c466c27ebb",
-      "title": "GTA 6's 8 biggest gameplay changes and new mechanics that will forever change the open-world sandbox",
-      "excerpt": "With Grand Theft Auto 6 gameplay finally in the wild, Jason and Lucia's criminal adventure promises to seriously overhaul GTA as we know it",
-      "url": "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T13:31:24.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/E2oU4EY2q3AYYCvcgHkEWH-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
