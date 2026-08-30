@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T13:48:57.860Z",
+  "generatedAt": "2026-08-30T19:19:46.690Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-27d4e208444af6",
+      "title": "Thanks to a dedicated team 'art-directing' every single NPC, GTA 6 has over 10 times as many unique animations as GTA 5",
+      "excerpt": "Over 600,000.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-30T18:40:46.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/d98cNJbDERxr7uvvmasfBX-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-99242f59215560",
+      "title": "GTA 6 became too realistic for even Rockstar so the devs had to cut a system for restocking Jason and Lucia's fridge to \"find the right balance between realism and ease of play\"",
+      "excerpt": "But how will I perfectly align everything now?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-became-too-realistic-for-even-rockstar-so-the-devs-had-to-cut-a-system-for-restocking-jason-and-lucias-fridge-to-find-the-right-balance-between-realism-and-ease-of-play/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-30T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/nk7whvMGczHZvECqY8WJvU-1280-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
     {
       "id": "eurogamer-ea680106cf26a6",
       "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
@@ -428,34 +456,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-28T00:32:39.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/h2cyXUQXPLehh9u6LFZ8vT-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "the-verge-games-3e6a523c30ca81",
-      "title": "The biggest video game of all time looks like a movie",
-      "excerpt": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige",
-      "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T23:20:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "eurogamer-963d8d9209d036",
-      "title": "GTA 6's map is so massive, you could fit two GTA 5s in it - and we know roughly how long it'll take to beat too",
-      "excerpt": "As part of its massive GTA 6 info blowout, Rockstar has been talking sizes - both of the map kind and length kind - confirming its latest open-world epic unfolds across a world that's twice as big as that of GTA 5, and should take around 80 hours to complete.",
-      "url": "https://www.eurogamer.net/gta-6-map-size-length-how-big-revealed",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T21:37:19.000Z",
-      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Sky-Diving.png?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
