@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:10:38.208Z",
+  "generatedAt": "2026-08-31T21:28:59.471Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,62 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-58ad83851e26b1",
+      "title": "Sony lawyers argue that nobody is stupid enough to believe they actually own digital games, because then only one person could buy GTA 6",
+      "excerpt": "PlayStation believes \"reasonable consumers would not be misled\" by its current disclosures",
+      "url": "https://www.gamesradar.com/games/sony-lawyers-argue-that-nobody-is-stupid-enough-to-believe-they-actually-own-digital-games-because-then-only-one-person-could-buy-gta-6/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-31T17:18:02.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/y5ptEuDQcPNJEokrGwvScg-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-a6ee91dc2ee002",
+      "title": "GTA 6 won’t let you switch between Lucia and Jason whenever you want because it would be \"unnatural\" for story progression",
+      "excerpt": "To switch or not to switch?",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-let-you-switch-between-lucia-and-jason-whenever-you-want-because-it-would-be-unnatural-for-story-progression/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-31T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5SZMxgxPtfdQsuELcPj4hf-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-c07955f0f02bbd",
+      "title": "With GTA 6 leaker hunt 'rapidly evolving,' Take-Two asks court to keep latest subpoena request sealed to avoid tipping off leakers",
+      "excerpt": "The filing contains \"highly sensitive, confidential information\" that lawyers fear could help the GTA 6 leakers destroy evidence or evade detection.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-31T16:57:47.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/SQbhirAcauNXRR8uDfFa2k-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-922460807c2738",
+      "title": "I've been staring at this GTA 6 iguana for an hour, and it's clear Rockstar's obsession with uber-detailed animals did not end with Red Dead Redemption 2's horses",
+      "excerpt": "In awe of the detail of this lad",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ive-been-staring-at-this-gta-6-iguana-for-an-hour-and-its-clear-rockstars-obsession-with-uber-detailed-animals-did-not-end-with-red-dead-redemption-2s-horses/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-31T16:24:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/keKFQB4tN5VgTtyQPbozfh-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-2073c4cd833c5f",
       "title": "GTA 6 is so big, Rockstar doesn't \"know that there's anybody on the team that knows all of it\"",
@@ -181,20 +237,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-a6b7d8541d9a9a",
-      "title": "PS5 Pros all but vanish after GTA 6 reveal, going for up to $1,300 at the few stores with stock",
-      "excerpt": "Stock has very suddenly started disappearing",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ps5-pros-all-but-vanish-after-gta-6-reveal-going-for-up-to-usd1-300-at-the-few-stores-with-stock/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T21:51:52.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/NntepTcC8N4zc8N9rGivr4-1280-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
       "id": "pc-gamer-78cde6b5cec4f1",
       "title": "Bland or badass? The internet is split on GTA 6's Jason, and so is PC Gamer",
       "excerpt": "Everyone's got an opinion, including us.",
@@ -204,34 +246,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-28T20:16:05.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/okZg4Udto3wSrSrxHSJWrk-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-dc16de0c7d2123",
-      "title": "GTA 6 extended look breakdown: 7 things you might have missed",
-      "excerpt": "It's all about the little details in the GTA 6 extended look",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-look-breakdown-7-things-you-might-have-missed/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T19:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nk7whvMGczHZvECqY8WJvU-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-40ad50fdfa97f2",
-      "title": "GTA 6 already confirmed the first GTA Online character to return, and their glow up for Rockstar's sequel is mind-blowing",
-      "excerpt": "She made a blink-and-you'll-miss-it appearance",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-already-confirmed-the-first-gta-online-character-to-return-and-their-glow-up-for-rockstars-sequel-is-mind-blowing/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T16:56:45.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BgXa4HNPsmD2f4Ld99fpLh-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -277,48 +291,6 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "pc-gamer-b26e2140f4eafb",
-      "title": "After seeing what GTA 6 does to a PS5 we're even more desperate to see what the PC version has for us",
-      "excerpt": "Looking at the PlayStation 5 capture, we're noodling on just what extra shinies Rockstar might add to the best gaming platform's version.",
-      "url": "https://www.pcgamer.com/hardware/after-seeing-what-gta-6-does-to-a-ps5-were-even-more-desperate-to-see-what-the-pc-version-has-for-us/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T13:20:10.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/yUkAVEnT4ZSGWE8YiUFCPR-1280-80.png",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-6ea6363bb858ea",
-      "title": "GTA 6 is adding a more nuanced version of Red Dead Redemption 2's honor system to ensure player characters aren't too 'all-powerful'",
-      "excerpt": "Careful when you're in Leonida, it's on sight.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-adding-a-more-nuanced-version-of-red-dead-redemption-2s-honor-system-to-ensure-player-characters-arent-too-all-powerful/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T11:21:22.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DWro25PZvaLfXnuAFUcYnh-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-8f072b654f6000",
-      "title": "Netflix is likely pleased as punch with the GTA 6 extended look, which more than doubled its web traffic",
-      "excerpt": "Done deal.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/netflix-is-likely-pleased-as-punch-with-the-gta-6-extended-look-which-more-than-doubled-its-web-traffic/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T10:55:36.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/a5kFkuMcP3K6N2YFbYPxyZ-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "the-verge-games-9295560efaa39d",
@@ -459,6 +431,34 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "eurogamer-35e18e3298d043",
+      "title": "GTA 6's Netflix trailer premiere was so popular it temporarily crashed the streaming service",
+      "excerpt": "Those eager to see GTA 6's big Netflix reveal this evening were met with a \"Something Went Wrong\" message at the moment the video was meant to go live, with the rush to see Rockstar's latest open-world epic seemingly bringing the streaming service to its knees",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-netflix-something-went-wrong",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-27T19:31:17.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-crash.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "eurogamer-7c3ab39c528272",
+      "title": "GTA 6 has a relationship system, and it sounds as though you can make-or-break Jason and Lucia's romance",
+      "excerpt": "Rockstar has revealed a relationship system in Grand Theft Auto 6, to underpin and support the bond between co-protagonists and lovers Jason and Lucia. Using this system you can nurture their bond, bringing them closer together, or neglect it, potentially lead",
+      "url": "https://www.eurogamer.net/gta-6-romance-relationship-system-jason-lucia",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-27T19:27:26.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lady-phone.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     }
   ],
   "videos": [
