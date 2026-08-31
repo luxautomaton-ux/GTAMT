@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T19:19:46.690Z",
+  "generatedAt": "2026-08-31T05:38:58.136Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -349,20 +349,6 @@
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
     },
     {
-      "id": "gamesradar-f3d4b2eb4bdc78",
-      "title": "GTA 6 might be single-player but the coupled-up life changes everything",
-      "excerpt": "The power of two",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-might-be-single-player-but-the-coupled-up-life-changes-everything/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T14:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/i4irRDAzNhwzEF9mPq2P4J-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-e7953ca8090b5e",
       "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
       "excerpt": "UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer (which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains \"",
@@ -459,6 +445,20 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "the-verge-games-3e6a523c30ca81",
+      "title": "The biggest video game of all time looks like a movie",
+      "excerpt": "I think I know why Rockstar Games debuted its \"extended look\" of Grand Theft Auto VI on Netflix instead of immediately dropping it for free on YouTube. Unlike most video game trailers, the almost 27-minute preview of GTA VI felt more like a slice of a prestige",
+      "url": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-27T23:20:00.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
     }
   ],
   "videos": [
