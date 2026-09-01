@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T05:12:56.543Z",
+  "generatedAt": "2026-09-01T13:30:53.098Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-072283f4f4ce80",
+      "title": "GTA 6 lets players \"forget it's a game\" with all its choices, and that's what Rockstar lead Rob Nelson is most proud of: \"It's up to you and what matters to you\"",
+      "excerpt": "\"Roleplay as heavily or as lightly as you want to\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lets-players-forget-its-a-game-with-all-its-choices-and-thats-what-rockstar-lead-rob-nelson-is-most-proud-of-its-up-to-you-and-what-matters-to-you/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-01T09:51:06.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/E2oU4EY2q3AYYCvcgHkEWH-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-051b6b3f0f8264",
+      "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
+      "excerpt": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago. The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from ",
+      "url": "https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-01T08:26:02.000Z",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Masks.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
     {
       "id": "gamesradar-ed6bf3457b0a08",
       "title": "Take-Two's GTA 6 leak investigation is heating up as the publisher requests sealed subpoena to avoid tipping off leakers",
@@ -167,20 +195,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-99242f59215560",
-      "title": "GTA 6 became too realistic for even Rockstar so the devs had to cut a system for restocking Jason and Lucia's fridge to \"find the right balance between realism and ease of play\"",
-      "excerpt": "But how will I perfectly align everything now?",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-became-too-realistic-for-even-rockstar-so-the-devs-had-to-cut-a-system-for-restocking-jason-and-lucias-fridge-to-find-the-right-balance-between-realism-and-ease-of-play/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-30T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nk7whvMGczHZvECqY8WJvU-1280-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
       "id": "eurogamer-ea680106cf26a6",
       "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
       "excerpt": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI.",
@@ -190,20 +204,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-30T10:48:08.000Z",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Lucia-Caminos.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-5ab9f58681980c",
-      "title": "GTA 6 \"will be released on time,\" Rockstar North co-lead says, who hopes the extended look will stop fans from being \"worried about the quality\"",
-      "excerpt": "Rockstar is saying yet again that November is the final release date for the next Grand Theft Auto game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-be-released-on-time-rockstar-north-co-lead-says-who-hopes-the-extended-look-will-stop-fans-from-being-worried-about-the-quality/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-29T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Zb3Q2uW5q96AnLSCtr2AVA-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -246,20 +246,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-29T12:09:49.000Z",
       "image": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-78cde6b5cec4f1",
-      "title": "Bland or badass? The internet is split on GTA 6's Jason, and so is PC Gamer",
-      "excerpt": "Everyone's got an opinion, including us.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/bland-or-badass-the-internet-is-split-on-gta-6s-jason-and-so-is-pc-gamer/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T20:16:05.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/okZg4Udto3wSrSrxHSJWrk-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -391,20 +377,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "the-verge-games-c294de656a00a1",
-      "title": "GTA VI looks just as great as we could hope for",
-      "excerpt": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes. But everything just looks much be",
-      "url": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:49:57.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.26.13-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-4dc601c647f69a",
       "title": "Every activity we've spotted in GTA 6's extended look trailer and previews so far",
       "excerpt": "Anyone who played a Grand Theft Auto game before will tell you that a lot of the fun comes from everything you can do outside of scripted story sequences. GTA 6 looks to offer a wide range of things to do in Leonida that don't include shooting people or drivin",
@@ -459,6 +431,34 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-3206a500603043",
+      "title": "GTA 6 is revamping the Wanted system and giving you a Criminal Profile",
+      "excerpt": "There's perhaps no gameplay feature that's more synonyms with Grand Theft Auto than the series' Wanted system. But like many of the mechanics that underpin the core of the series, it seems, the Wanted system in GTA 6 has evolved in significant ways.",
+      "url": "https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-27T19:16:54.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-police-car.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-9f8567d2d8a190",
+      "title": "The massive GTA 6 leaks might be done for good as Cyberleek cashes out nearly £200,000 from their crypto scheme",
+      "excerpt": "Mere hours before Rockstar Games revealed GTA 6 footage on its own terms, the hacker - or hacking group - behind the open-world game's massive leaks has pulled about $270,000 (or almost £200,000) out of their crypto scheme.",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cashes-out--cyberleek-crypto-scheme",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-27T19:12:47.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-oceanview.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     }
   ],
   "videos": [
