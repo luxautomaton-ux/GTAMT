@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T21:28:59.471Z",
+  "generatedAt": "2026-09-01T05:12:56.543Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-ed6bf3457b0a08",
+      "title": "Take-Two's GTA 6 leak investigation is heating up as the publisher requests sealed subpoena to avoid tipping off leakers",
+      "excerpt": "The subpoena \"reveals highly sensitive, confidential information about an ongoing investigation\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/take-twos-gta-6-leak-investigation-is-heating-up-as-the-publisher-requests-sealed-subpoena-to-avoid-tipping-off-leakers/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-01T00:09:01.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/P29wAChwKZsUVcgS2w7mTh-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
     {
       "id": "gamesradar-58ad83851e26b1",
       "title": "Sony lawyers argue that nobody is stupid enough to believe they actually own digital games, because then only one person could buy GTA 6",
@@ -251,34 +265,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "pc-gamer-1d3f0705e94c2b",
-      "title": "Rockstar has to 'be careful' about what GTA 6 picks to satirize because 'very specific political issues or memes will date fast'",
-      "excerpt": "So no Skibidi Toilet? Got it.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-to-be-careful-about-what-gta-6-picks-to-satirize-because-very-specific-political-issues-or-memes-will-date-fast/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T15:27:18.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/NvDKQpF5f45mKFZjbtZSQm-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-bbb4eddc9a5b7f",
-      "title": "Fable director says they aren't 'scared of other big games' except one—it's GTA 6, in case you were living under a rock",
-      "excerpt": "\"There's just one that I'm happy to avoid entirely.\"",
-      "url": "https://www.pcgamer.com/games/rpg/fable-director-says-they-arent-scared-of-other-big-games-except-one-its-gta-6-in-case-you-were-living-under-a-rock/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T14:54:03.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6vewwayEFfetAtZ5tpUSnB-1280-80.png",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-e7953ca8090b5e",
       "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
       "excerpt": "UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer (which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains \"",
@@ -456,6 +442,20 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-27T19:27:26.000Z",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lady-phone.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-d8f83570e32946",
+      "title": "GTA 6's driving and car-jacking will be \"more challenging\", Rockstar says, amid a seemingly big push for realism",
+      "excerpt": "Two of the Grand Theft Auto series' most prominent, interweaving systems - stealing cars and driving them - are set to get a major change in Grand Theft Auto 6, as developer Rockstar has said the pick-up-and-play systems are now going to be \"more challenging\" ",
+      "url": "https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-27T19:22:10.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-screaming-car.png?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
