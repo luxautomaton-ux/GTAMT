@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:47:33.126Z",
+  "generatedAt": "2026-09-02T19:23:39.782Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-5b5dc7611f8fd0",
+      "title": "I modded GTA 6 leak-accurate car fuelling into GTA 5",
+      "excerpt": "It's a sim now. I'm a sim now.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-gta-6-leak-accurate-car-fuelling-into-gta-5/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-02T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9F7rvjBomMiNsPGn3G8jsE-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "eurogamer-731cbba4a9cf25",
+      "title": "Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates",
+      "excerpt": "Nvidia's hotly debated DLSS 5 tech, which uses generative AI to apply graphical filters to existing games, arrives this week, albeit only in one game. The game is NBA 2K7, and the GeForce drivers for DLSS 5 arrive Thursday night in the US (9pm PDT) and early F",
+      "url": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-02T15:53:39.000Z",
+      "image": "https://assetsio.gnwcdn.com/nvida-dlss-5.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "eurogamer-a63b6e5ae293e3",
       "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it",
@@ -209,20 +237,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-b2ad45cf7c03f0",
-      "title": "GTA 6 isn't flashy for the sake of it – I'm impressed at how additive every new detail feels to gameplay",
-      "excerpt": "Rockstar Games evolve familiar mechanics with GTA 6 to reimagine the series' foundations while keeping them recognizable",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-flashy-for-the-sake-of-it-im-impressed-at-how-additive-every-new-detail-feels-to-gameplay/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-01T15:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3N4MyTKS7pQQDuVc3tDDoh-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-051b6b3f0f8264",
       "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
       "excerpt": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago. The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from ",
@@ -232,20 +246,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-01T08:26:02.000Z",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Masks.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "pc-gamer-9331f0dd7399d4",
-      "title": "Court grants Take-Two's latest request for more user information from Discord as the GTA 6 leaker hunt intensifies",
-      "excerpt": "It seems the subpoena will remain sealed, as Take-Two requested.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-31T16:57:47.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/SQbhirAcauNXRR8uDfFa2k-1280-80.jpg",
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
@@ -305,20 +305,6 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "the-verge-games-9295560efaa39d",
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-      "excerpt": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET",
-      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T01:05:18.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-963d8d9209d036",
@@ -459,6 +445,20 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-9f8567d2d8a190",
+      "title": "The massive GTA 6 leaks might be done for good as Cyberleek cashes out nearly £200,000 from their crypto scheme",
+      "excerpt": "Mere hours before Rockstar Games revealed GTA 6 footage on its own terms, the hacker - or hacking group - behind the open-world game's massive leaks has pulled about $270,000 (or almost £200,000) out of their crypto scheme.",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cashes-out--cyberleek-crypto-scheme",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-08-27T19:12:47.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-oceanview.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     }
   ],
   "videos": [
