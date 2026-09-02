@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T19:24:30.817Z",
+  "generatedAt": "2026-09-02T04:37:50.335Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,76 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-b737877e160650",
+      "title": "That Grand Theft Auto 6 exclusive reveal worked out pretty well for Netflix: It was the platform's biggest show last week",
+      "excerpt": "The GTA 6 reveal showcase pulled in more than 31 million views over just four days.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/that-grand-theft-auto-6-exclusive-reveal-worked-out-pretty-well-for-netflix-it-was-the-platforms-biggest-show-last-week/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-01T22:45:20.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/aPWeH3auDGetjVpE4BuTHa-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-7589300224eb26",
+      "title": "The future of GTA roleplaying remains in GTA 5 for now, as Rockstar touts new invite-only Nopixel V RP server",
+      "excerpt": "Rockstar collaborated with Nopixel Studios for the latest version of its custom GTA 5 roleplaying experience, which includes 1,000 ownable properties.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-touts-new-invite-only-nopixel-v-gta-roleplaying-server-as-the-next-evolution-of-the-rp-community/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-01T22:17:11.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gJoNQSUuZkdviCFHUD64KY-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-452b7d3437800d",
+      "title": "The GTA 6 extended look was Netflix's most-watched title for the week with 31.1 million views",
+      "excerpt": "It's no Stranger Things, but it was huge",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-gta-6-extended-look-was-netflixs-most-watched-title-for-the-week-with-31-1-million-views/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-01T21:46:29.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-c751c66afc938c",
+      "title": "Rockstar Games unveils its official GTA Online RP server, mere months before GTA 6",
+      "excerpt": "Rockstar Games hasn't said much of anything about GTA 6's potential multiplayer offerings, but the developer is making strides for GTA Online's roleplaying community. A watch-only nopixel 5 closed beta is coming next week.",
+      "url": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-01T19:44:40.000Z",
+      "image": "https://assetsio.gnwcdn.com/Trevor-in-GTA-5-carries-a-jerry-can-as-a-car-burns-behind-him.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-9c7f407bf67b39",
+      "title": "GTA 6's story is too important for Rockstar to let you swap between Lucia and Jason whenever you want",
+      "excerpt": "Outside of the story, however, you'll be free to swap whenever.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-story-is-too-important-for-rockstar-to-let-you-swap-between-lucia-and-jason-whenever-you-want/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-01T19:39:14.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/dDu7UmE5UcCkQy8z6g8ZoW-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-7f1a4c38740273",
       "title": "No Rest for the Wicked, which was slated to hit 1.0 a month before Grand Theft Auto 6, is delayed into 2027",
@@ -139,20 +209,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-072283f4f4ce80",
-      "title": "GTA 6 lets players \"forget it's a game\" with all its choices, and that's what Rockstar lead Rob Nelson is most proud of: \"It's up to you and what matters to you\"",
-      "excerpt": "\"Roleplay as heavily or as lightly as you want to\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lets-players-forget-its-a-game-with-all-its-choices-and-thats-what-rockstar-lead-rob-nelson-is-most-proud-of-its-up-to-you-and-what-matters-to-you/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-01T09:51:06.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/E2oU4EY2q3AYYCvcgHkEWH-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-051b6b3f0f8264",
       "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
       "excerpt": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago. The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from ",
@@ -162,20 +218,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-01T08:26:02.000Z",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Masks.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-ed6bf3457b0a08",
-      "title": "Take-Two's GTA 6 leak investigation is heating up as the publisher requests sealed subpoena to avoid tipping off leakers",
-      "excerpt": "The subpoena \"reveals highly sensitive, confidential information about an ongoing investigation\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/take-twos-gta-6-leak-investigation-is-heating-up-as-the-publisher-requests-sealed-subpoena-to-avoid-tipping-off-leakers/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-01T00:09:01.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/P29wAChwKZsUVcgS2w7mTh-1280-80.jpg",
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
@@ -193,20 +235,6 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "pc-gamer-27d4e208444af6",
-      "title": "Thanks to a dedicated team 'art-directing' every single NPC, GTA 6 has over 10 times as many unique animations as GTA 5",
-      "excerpt": "Over 600,000.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-30T18:40:46.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/d98cNJbDERxr7uvvmasfBX-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-ea680106cf26a6",
@@ -431,34 +459,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-3206a500603043",
-      "title": "GTA 6 is revamping the Wanted system and giving you a Criminal Profile",
-      "excerpt": "There's perhaps no gameplay feature that's more synonyms with Grand Theft Auto than the series' Wanted system. But like many of the mechanics that underpin the core of the series, it seems, the Wanted system in GTA 6 has evolved in significant ways.",
-      "url": "https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:16:54.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-police-car.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-9f8567d2d8a190",
-      "title": "The massive GTA 6 leaks might be done for good as Cyberleek cashes out nearly £200,000 from their crypto scheme",
-      "excerpt": "Mere hours before Rockstar Games revealed GTA 6 footage on its own terms, the hacker - or hacking group - behind the open-world game's massive leaks has pulled about $270,000 (or almost £200,000) out of their crypto scheme.",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cashes-out--cyberleek-crypto-scheme",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:12:47.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-oceanview.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     }
   ],
   "videos": [
