@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T12:50:24.666Z",
+  "generatedAt": "2026-09-03T19:18:05.897Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "eurogamer-7f8929d74f63a3",
+      "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
+      "excerpt": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream.",
+      "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-03T14:47:05.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-duelsense-controllers.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "gamesradar-73b6728cf2f5dc",
+      "title": "Sony announces GTA 6 limited edition DualSense, and at least something's physical",
+      "excerpt": "Sony has announced a special edition DualSense controller ready for GTA 6, and pre-orders begin on September 10.",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/sony-announces-gta-6-limited-edition-dualsense-and-at-least-somethings-physical/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-03T14:45:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/yFMqJYiyesGWcJhQbPpp9c-1280-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
       "id": "gamesradar-641c73152eac84",
       "title": "Rockstar boss says \"we'll see what people say\" about GTA 6's controversial refueling system, but thinks it's so fast that \"you can't complain\"",
       "excerpt": "\"Do you think people are going to like it?\" Rob Nelson asks",
@@ -95,34 +123,6 @@
       "category": "Investor Radar",
       "riskFlag": false,
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "gamesradar-9dcbef0d47c932",
-      "title": "Getting GTA Online players to move on to GTA 6 Online is going to be \"a mess\" for Rockstar, Valve veteran says",
-      "excerpt": "\"Are they just going to kill Grand Theft Auto 5?\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/getting-gta-online-players-to-move-on-to-gta-6-online-is-going-to-be-a-mess-for-rockstar-valve-veteran-says/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-02T21:37:47.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-5b5dc7611f8fd0",
-      "title": "I modded GTA 6 leak-accurate car fuelling into GTA 5",
-      "excerpt": "It's a sim now. I'm a sim now.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-gta-6-leak-accurate-car-fuelling-into-gta-5/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-02T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9F7rvjBomMiNsPGn3G8jsE-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "eurogamer-731cbba4a9cf25",
