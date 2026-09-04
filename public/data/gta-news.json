@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T12:44:19.735Z",
+  "generatedAt": "2026-09-04T18:59:35.629Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "eurogamer-7b5e8d7f6ef40d",
+      "title": "Hype for GTA 6 is giving PS5 and Xbox console sales a much needed 30% boost",
+      "excerpt": "GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games' inevitable pile of cash doesn't drop for another couple of months.",
+      "url": "https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-04T17:14:16.000Z",
+      "image": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-5ad38dff6b4cb0",
       "title": "Plan to market GTA 6 by turning Miami-Dade into Vice City isn't going down well with local sheriff: \"We need to seriously consider the message we send\"",
       "excerpt": "\"At a time when law enforcement is working every day to reduce violent crime...\"",
@@ -92,20 +106,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-03T14:47:05.000Z",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-duelsense-controllers.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-73b6728cf2f5dc",
-      "title": "Sony announces GTA 6 limited edition DualSense, and at least something's physical",
-      "excerpt": "Sony has announced a special edition DualSense controller ready for GTA 6, and pre-orders begin on September 10.",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/sony-announces-gta-6-limited-edition-dualsense-and-at-least-somethings-physical/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-03T14:45:38.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/yFMqJYiyesGWcJhQbPpp9c-1280-80.jpg",
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
@@ -419,34 +419,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "eurogamer-52a9e3a8425703",
-      "title": "GTA 6 officially has character weight and exercise systems, and even \"multi-day benders\" reportedly have a visible effect",
-      "excerpt": "Official Grand Theft Auto 6 coverage is starting to appear ahead of today's Netflix 'extended look' premiere, and with it comes confirmation that eating and exercising and even going on \"multi-day benders\" can visibly affect the look of your characters.",
-      "url": "https://www.eurogamer.net/gta-6-food-weight-exercise-benders",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T09:40:01.000Z",
-      "image": "https://assetsio.gnwcdn.com/jason-gta-6-back-tattoo.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-276c9ab11281d9",
-      "title": "Rockstar set up a special GTA 6 team in Miami to meet with \"ex-criminals, law enforcement, club promoters, gun dealers and anyone notorious or influential\"",
-      "excerpt": "Rockstar went to some great lengths for its Grand Theft Auto 6 research, it seems, as the studio has said it sent multiple teams of developers to Miami as well as embedding a team there longer-term for research.",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-miami-research-team-ex-criminals-gun-dealers",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T09:37:16.000Z",
-      "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_ELECTRIC_FANG_03.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "take-two-ir-85d0d2e46f7274",
       "title": "Take-Two Interactive Software, Inc. to Report First Quarter Fiscal Year 2027 Results on Friday, August 7, 2026",
       "excerpt": "NEW YORK --(BUSINESS WIRE)--Jul. 9, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its first quarter of fiscal year 2027, ended June 30, 2026, before the market open on Friday, August 7, ",
@@ -456,6 +428,34 @@
       "sourceType": "official",
       "publishedAt": "2026-07-09T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-cafa150aefdb95",
+      "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI",
+      "excerpt": "Starting at Midnight Local Time on June 25, 2026 NEW YORK --(BUSINESS WIRE)--Jun. 24, 2026-- Rockstar Games ®, a publishing label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO), is excited to announce that pre-orders for Grand Theft Auto VI will begin o",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-06-24T10:15:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-f6299c77a47048",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fourth Quarter and Fiscal Year 2026",
+      "excerpt": "$1.58 billion fiscal fourth quarter Net Bookings, above Company's guidance range $6.72 billion fiscal year 2026 Net Bookings Initial outlook for fiscal 2027 includes Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--May 21, 2026-- Take-Two Inter",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fourth-2",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-05-21T20:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
