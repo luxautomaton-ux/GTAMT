@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T04:33:13.097Z",
+  "generatedAt": "2026-09-05T11:50:39.421Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-d0853dde08548c",
+      "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\"",
+      "excerpt": "Art imitating life",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-bit-too-real-for-me-rockstar-will-punish-you-if-jason-and-lucia-dont-get-a-good-nights-sleep-we-track-lots-of-things/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-05T11:36:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/24JyKBmokGVJm4K2VQmq3h-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-4f258029f0e628",
       "title": "'Grand Theft Auto is a videogame franchise built around criminal activity': Miami-Dade County Sheriff comes out hard against a proposed GTA 6 collab with Rockstar",
@@ -193,6 +207,20 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "take-two-ir-fb467d2bbb6ce9",
+      "title": "Zynga Poker Taps Keegan-Michael Key To Bring Out Your ‘Inner Winner’",
+      "excerpt": "Emmy-winner headlines new series of spots directed by Jody Hill; will debut as official in-game host for new ‘Poker Dash’ feature coming soon SAN MATEO, Calif. --(BUSINESS WIRE)--Sep. 1, 2026-- Zynga Inc., a wholly-owned publishing label of Take-Two Interactiv",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/zynga-poker-taps-keegan-michael-key-bring-out-your-inner-winner",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
     },
     {
       "id": "eurogamer-051b6b3f0f8264",
@@ -419,43 +447,15 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "eurogamer-5b8fed8d11931a",
-      "title": "GTA 6 Netflix extended look live report - all the gameplay and revelations from Rockstar's Grand Theft Auto 6 premiere",
-      "excerpt": "Tonight we'll get probably our best look at Grand Theft Auto 6 yet, as Rockstar's 'extended look' trailer airs exclusively on Netflix. We'll be watching it live and reporting on everything we see, here, in this article.",
-      "url": "https://www.eurogamer.net/gta-6-extended-look-netflix-live-report",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T14:03:38.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-netflix-lucia.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "take-two-ir-85d0d2e46f7274",
-      "title": "Take-Two Interactive Software, Inc. to Report First Quarter Fiscal Year 2027 Results on Friday, August 7, 2026",
-      "excerpt": "NEW YORK --(BUSINESS WIRE)--Jul. 9, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its first quarter of fiscal year 2027, ended June 30, 2026, before the market open on Friday, August 7, ",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-first-quarter-fiscal-7",
+      "id": "take-two-ir-3f77fc2208848d",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027",
+      "excerpt": "Fiscal first quarter Net Bookings were $1.39 billion, slightly above Company's guidance range Company updates fiscal year 2027 outlook and reiterates expectation for Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--Aug. 7, 2026-- Take-Two Inter",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fiscal-first-6",
       "source": "Take-Two Investor Relations",
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
-      "publishedAt": "2026-07-09T12:00:00.000Z",
+      "publishedAt": "2026-08-07T11:30:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "take-two-ir-cafa150aefdb95",
-      "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI",
-      "excerpt": "Starting at Midnight Local Time on June 25, 2026 NEW YORK --(BUSINESS WIRE)--Jun. 24, 2026-- Rockstar Games ®, a publishing label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO), is excited to announce that pre-orders for Grand Theft Auto VI will begin o",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-06-24T10:15:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
