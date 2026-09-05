@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T18:59:35.629Z",
+  "generatedAt": "2026-09-05T04:33:13.097Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-4f258029f0e628",
+      "title": "'Grand Theft Auto is a videogame franchise built around criminal activity': Miami-Dade County Sheriff comes out hard against a proposed GTA 6 collab with Rockstar",
+      "excerpt": "It actually sounds like a really good idea, but of course the cops are against it.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-is-a-videogame-franchise-built-around-criminal-activity-miami-dade-county-sheriff-comes-out-hard-against-a-proposed-gta-6-collab-with-rockstar/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-04T21:54:43.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NVz7VbqHAgnCEszydtCSpW-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-e9d294c2186fdc",
+      "title": "GTA 6 driving is \"the best parts\" of GTA 4 but with \"the accessibility of GTA 5,\" says Rockstar boss",
+      "excerpt": "The best of both worlds",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-driving-is-the-best-parts-of-gta-4-but-with-the-accessibility-of-gta-5-says-rockstar-boss/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-04T21:45:56.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vKtkPkRiVfUyKge2eApMeg-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "eurogamer-7b5e8d7f6ef40d",
       "title": "Hype for GTA 6 is giving PS5 and Xbox console sales a much needed 30% boost",
@@ -405,20 +433,6 @@
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
     },
     {
-      "id": "eurogamer-f3861b7ca96509",
-      "title": "GTA 6 gameplay details revealed in new preview, including seamless character switching, playing as a couple and more",
-      "excerpt": "Grand Theft Auto 6 day has kicked off a little early. While everyone waits for the game's Netflix extended look, new information has emerged from something of an unlikely source.",
-      "url": "https://www.eurogamer.net/gta-6-character-switching-reactive-world-jason-lucia-romance",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T09:51:21.000Z",
-      "image": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_02.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "take-two-ir-85d0d2e46f7274",
       "title": "Take-Two Interactive Software, Inc. to Report First Quarter Fiscal Year 2027 Results on Friday, August 7, 2026",
       "excerpt": "NEW YORK --(BUSINESS WIRE)--Jul. 9, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its first quarter of fiscal year 2027, ended June 30, 2026, before the market open on Friday, August 7, ",
@@ -442,20 +456,6 @@
       "sourceType": "official",
       "publishedAt": "2026-06-24T10:15:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "take-two-ir-f6299c77a47048",
-      "title": "Take-Two Interactive Software, Inc. Reports Results for Fourth Quarter and Fiscal Year 2026",
-      "excerpt": "$1.58 billion fiscal fourth quarter Net Bookings, above Company's guidance range $6.72 billion fiscal year 2026 Net Bookings Initial outlook for fiscal 2027 includes Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--May 21, 2026-- Take-Two Inter",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fourth-2",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-05-21T20:05:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
