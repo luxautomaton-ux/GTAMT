@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T11:50:39.421Z",
+  "generatedAt": "2026-09-05T18:20:09.908Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-e1265fcdd0340a",
+      "title": "Grand Theft Auto 6's controversial refuelling action reportedly takes about 10 seconds to perform, which Rockstar's co-studio head says is 'pretty fast for a fill-up'",
+      "excerpt": "\"You can't complain about that\".",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6s-controversial-refuelling-action-reportedly-takes-about-10-seconds-to-perform-which-rockstars-co-studio-head-says-is-pretty-fast-for-a-fill-up/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-05T12:16:31.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pG4Lm6TuDeWLKMmAHcBtPD-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-d0853dde08548c",
       "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\"",
@@ -391,62 +405,6 @@
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
     },
     {
-      "id": "eurogamer-7c3ab39c528272",
-      "title": "GTA 6 has a relationship system, and it sounds as though you can make-or-break Jason and Lucia's romance",
-      "excerpt": "Rockstar has revealed a relationship system in Grand Theft Auto 6, to underpin and support the bond between co-protagonists and lovers Jason and Lucia. Using this system you can nurture their bond, bringing them closer together, or neglect it, potentially lead",
-      "url": "https://www.eurogamer.net/gta-6-romance-relationship-system-jason-lucia",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:27:26.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lady-phone.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-d8f83570e32946",
-      "title": "GTA 6's driving and car-jacking will be \"more challenging\", Rockstar says, amid a seemingly big push for realism",
-      "excerpt": "Two of the Grand Theft Auto series' most prominent, interweaving systems - stealing cars and driving them - are set to get a major change in Grand Theft Auto 6, as developer Rockstar has said the pick-up-and-play systems are now going to be \"more challenging\" ",
-      "url": "https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:22:10.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-screaming-car.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-3206a500603043",
-      "title": "GTA 6 is revamping the Wanted system and giving you a Criminal Profile",
-      "excerpt": "There's perhaps no gameplay feature that's more synonyms with Grand Theft Auto than the series' Wanted system. But like many of the mechanics that underpin the core of the series, it seems, the Wanted system in GTA 6 has evolved in significant ways.",
-      "url": "https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:16:54.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-police-car.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-9f8567d2d8a190",
-      "title": "The massive GTA 6 leaks might be done for good as Cyberleek cashes out nearly £200,000 from their crypto scheme",
-      "excerpt": "Mere hours before Rockstar Games revealed GTA 6 footage on its own terms, the hacker - or hacking group - behind the open-world game's massive leaks has pulled about $270,000 (or almost £200,000) out of their crypto scheme.",
-      "url": "https://www.eurogamer.net/gta-6-leaker-cashes-out--cyberleek-crypto-scheme",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:12:47.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-oceanview.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
       "id": "take-two-ir-3f77fc2208848d",
       "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027",
       "excerpt": "Fiscal first quarter Net Bookings were $1.39 billion, slightly above Company's guidance range Company updates fiscal year 2027 outlook and reiterates expectation for Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--Aug. 7, 2026-- Take-Two Inter",
@@ -456,6 +414,48 @@
       "sourceType": "official",
       "publishedAt": "2026-08-07T11:30:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-85d0d2e46f7274",
+      "title": "Take-Two Interactive Software, Inc. to Report First Quarter Fiscal Year 2027 Results on Friday, August 7, 2026",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Jul. 9, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its first quarter of fiscal year 2027, ended June 30, 2026, before the market open on Friday, August 7, ",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-first-quarter-fiscal-7",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-07-09T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-cafa150aefdb95",
+      "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI",
+      "excerpt": "Starting at Midnight Local Time on June 25, 2026 NEW YORK --(BUSINESS WIRE)--Jun. 24, 2026-- Rockstar Games ®, a publishing label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO), is excited to announce that pre-orders for Grand Theft Auto VI will begin o",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-06-24T10:15:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-f6299c77a47048",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fourth Quarter and Fiscal Year 2026",
+      "excerpt": "$1.58 billion fiscal fourth quarter Net Bookings, above Company's guidance range $6.72 billion fiscal year 2026 Net Bookings Initial outlook for fiscal 2027 includes Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--May 21, 2026-- Take-Two Inter",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fourth-2",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-05-21T20:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
