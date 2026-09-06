@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T12:09:32.493Z",
+  "generatedAt": "2026-09-06T18:19:10.359Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-1881198f413d05",
+      "title": "Ex-Rockstar dev's chilling new psychological horror could be the next Silent Hill – even in a rough design build",
+      "excerpt": "This might not be the Ritual Tides demo developer Vertpaint intended for Gamescom, but I've been swept up by it all the same",
+      "url": "https://www.gamesradar.com/games/horror/ex-rockstar-devs-chilling-new-psychological-horror-could-be-the-next-silent-hill-even-in-a-rough-design-build/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-06T14:30:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uSaUHii4rUcduqsnNTH7fb-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-48f5c67efdfbee",
+      "title": "Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work \"at this resolution\"",
+      "excerpt": "GTA 6 needs better \"behavioral sophistication\" from its NPCs",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6-doesnt-just-let-you-easily-walk-around-with-guns-because-gta-5s-approach-doesnt-work-at-this-resolution/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-06T12:27:19.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "pc-gamer-e1265fcdd0340a",
       "title": "Grand Theft Auto 6's controversial refuelling action reportedly takes about 10 seconds to perform, which Rockstar's co-studio head says is 'pretty fast for a fill-up'",
       "excerpt": "\"You can't complain about that\".",
@@ -134,20 +162,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-04T17:14:16.000Z",
       "image": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-5ad38dff6b4cb0",
-      "title": "Plan to market GTA 6 by turning Miami-Dade into Vice City isn't going down well with local sheriff: \"We need to seriously consider the message we send\"",
-      "excerpt": "\"At a time when law enforcement is working every day to reduce violent crime...\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/plan-to-market-gta-6-by-turning-miami-dade-into-vice-city-isnt-going-down-well-with-local-sheriff-we-need-to-seriously-consider-the-message-we-send/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-04T10:36:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -316,48 +330,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-27T21:37:19.000Z",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Sky-Diving.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-b1f00fdf1ff418",
-      "title": "Twitch suffers major outage following Grand Theft Auto 6's extended look gameplay trailer premiere",
-      "excerpt": "Popular livestreaming platform Twitch suffered a major outage soon after the premiere of the Grand Theft Auto 6 extended look on Netflix.",
-      "url": "https://www.eurogamer.net/twitch-down-outage-grand-theft-auto-6",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T21:10:45.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-man-holding-phone-near-lucia.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "eurogamer-67f094ce6a7dc2",
-      "title": "GTA 6 has more than 10 times the animations in GTA 5, and double the amount in Red Dead Redemption 2, Rockstar confirms",
-      "excerpt": "Everyone was expecting GTA 6 to be massive, sure, but comparing the amount of unique animations in the game to what was included in Rockstar Games' previous work really puts things into perspective.",
-      "url": "https://www.eurogamer.net/gta-6-has-more-than-10-times-the-animations-in-gta-5-and-double-the-amount-in-red-dead-redemption-2-rockstar-confirms",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T21:07:47.000Z",
-      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Masks.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-111d8383d38b02",
-      "title": "GTA 6: This is what a billion dollars gets you",
-      "excerpt": "There are plenty of layers to GTA 6, if the game's 26-minute Netflix teaser is anything to go by.",
-      "url": "https://www.eurogamer.net/gta-6-reaction-this-is-what-a-billion-dollars-gets-you",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T21:05:44.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-city-shot-sunset.png?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
