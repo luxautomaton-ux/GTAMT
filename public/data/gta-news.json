@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T04:42:27.825Z",
+  "generatedAt": "2026-09-06T12:09:32.493Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -363,48 +363,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "eurogamer-cc6d4a4fdde4d5",
-      "title": "GTA 6's apparent shift towards awkward ultra-realism is a huge risk - and that's exactly why it's the right thing to do",
-      "excerpt": "Scrabble together all the various, disparate nuggets of information released about Grand Theft Auto 6 since its big Netflix premiere, and you might spot a pattern emerging: Rockstar is going full, Red Dead Redemption 2-style realism with GTA 6. In fact it soun",
-      "url": "https://www.eurogamer.net/gta-6-shift-towards-realism-rockstar-taking-huge-risk",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T20:08:46.000Z",
-      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Raul.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-4dc601c647f69a",
-      "title": "Every activity we've spotted in GTA 6's extended look trailer and previews so far",
-      "excerpt": "Anyone who played a Grand Theft Auto game before will tell you that a lot of the fun comes from everything you can do outside of scripted story sequences. GTA 6 looks to offer a wide range of things to do in Leonida that don't include shooting people or drivin",
-      "url": "https://www.eurogamer.net/gta-6-activities-things-to-do-spotted-so-far",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:46:00.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-lifting-weights.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "eurogamer-35e18e3298d043",
-      "title": "GTA 6's Netflix trailer premiere was so popular it temporarily crashed the streaming service",
-      "excerpt": "Those eager to see GTA 6's big Netflix reveal this evening were met with a \"Something Went Wrong\" message at the moment the video was meant to go live, with the rush to see Rockstar's latest open-world epic seemingly bringing the streaming service to its knees",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-netflix-something-went-wrong",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T19:31:17.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-crash.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
       "id": "take-two-ir-3f77fc2208848d",
       "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027",
       "excerpt": "Fiscal first quarter Net Bookings were $1.39 billion, slightly above Company's guidance range Company updates fiscal year 2027 outlook and reiterates expectation for Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--Aug. 7, 2026-- Take-Two Inter",
@@ -456,6 +414,34 @@
       "sourceType": "official",
       "publishedAt": "2026-05-21T20:05:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-dc838986578c79",
+      "title": "Take-Two Interactive Software, Inc. to Present at the TD Cowen 54th Annual Technology, Media & Telecom Conference",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--May 11, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that Strauss Zelnick, the Company’s Chairman and Chief Executive Officer, plans to participate in a Fireside Chat at the TD Cowen 54 th Annual Technol",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-present-td-cowen-54th-annual",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-05-11T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-9953c6e1de7c35",
+      "title": "Take-Two Interactive Software, Inc. to Report Fourth Quarter and Fiscal Year 2026 Results on Thursday, May 21, 2026",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Apr. 23, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its fourth quarter and fiscal year 2026, ended March 31, 2026, after the market close on Thursday, May ",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-fourth-quarter-and-19",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-04-23T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
