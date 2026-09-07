@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T04:45:14.526Z",
+  "generatedAt": "2026-09-07T14:16:12.475Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,48 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-fbb81f42eb8a11",
+      "title": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game's frame-rate",
+      "excerpt": "Nvidia's gen-AI-powered, graphics-changing DLSS 5 tech has been tested and it really does take a heavy toll on a game's frame-rate. There was suspicion of this last week, ahead of DLSS 5's debut implementation in NBA 2K27, and now it's been properly tested, th",
+      "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-07T12:34:26.000Z",
+      "image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-39d525b08fcabe",
+      "title": "GTA 6 boss says \"there will always be things to satirize,\" but Rockstar has to \"be careful about what we pick\" because after 11 years of development \"it could be gone, it could change, it could be dated\"",
+      "excerpt": "The next Grand Theft Auto game has been in development since 2015, but most developers didn't join until Red Dead Redemption wrapped up in 2018",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-there-will-always-be-things-to-satirize-but-rockstar-has-to-be-careful-about-what-we-pick-because-after-11-years-of-development-it-could-be-gone-it-could-change-it-could-be-dated/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-07T12:02:11.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-082e5f45b7ee67",
+      "title": "Fan makes Lego GTA 6 set, and it's so perfect I'm gutted there isn't an official version",
+      "excerpt": "I'm heartbroken that this fan-made Lego GTA 6 set isn't an official model, because it deserves to be",
+      "url": "https://www.gamesradar.com/toys-collectibles/fan-makes-lego-gta-6-set-and-its-so-perfect-im-gutted-there-isnt-an-official-version/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-07T11:52:06.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/c6uMiAtj7K3jyRrYpfnRjY-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-1881198f413d05",
       "title": "Ex-Rockstar dev's chilling new psychological horror could be the next Silent Hill – even in a rough design build",
@@ -302,34 +344,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-08-29T12:09:49.000Z",
       "image": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-e7953ca8090b5e",
-      "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
-      "excerpt": "UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer (which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains \"",
-      "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-28T13:20:14.000Z",
-      "image": "https://assetsio.gnwcdn.com/lucia-gta-6-car.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "eurogamer-963d8d9209d036",
-      "title": "GTA 6's map is so massive, you could fit two GTA 5s in it - and we know roughly how long it'll take to beat too",
-      "excerpt": "As part of its massive GTA 6 info blowout, Rockstar has been talking sizes - both of the map kind and length kind - confirming its latest open-world epic unfolds across a world that's twice as big as that of GTA 5, and should take around 80 hours to complete.",
-      "url": "https://www.eurogamer.net/gta-6-map-size-length-how-big-revealed",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-08-27T21:37:19.000Z",
-      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Sky-Diving.png?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
