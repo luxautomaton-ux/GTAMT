@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T04:40:06.652Z",
+  "generatedAt": "2026-09-08T12:53:08.883Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "eurogamer-e98e7183ee6e80",
+      "title": "Grand Theft Auto 6 worldwide unlock times revealed, and Xbox owners can seemingly still use the old New Zealand trick to play early",
+      "excerpt": "Grand Theft Auto 6 arrives 19th November on PlayStation 5 and Xbox Series X/S. Depending on where you may be in the world, however, when you actually get to play varies.",
+      "url": "https://www.eurogamer.net/gta-6-worldwide-release-unlock-times-ps5-xbox-series-x-s",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-08T11:12:12.000Z",
+      "image": "https://assetsio.gnwcdn.com/nz-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-60aab6df2c6023",
+      "title": "GTA 6 release times have been discovered through the PS Store - and it's finally time to book that holiday to New Zealand",
+      "excerpt": "Rockstar's going for a staggered launch",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-release-times-have-been-discovered-through-the-ps-store-and-its-finally-time-to-book-that-holiday-to-new-zealand/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-08T10:51:41.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3389mzUBT3d6BLYsdfWpWh-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-1e5f3bde8d94bf",
+      "title": "\"Rockstar has tried to get away with Grand Theft Employment Rights\" - Final hearing in Rockstar vs. GTA 6 fired employees begins this week",
+      "excerpt": "Two weeks after Grand Theft Auto 6's Netflix reveal, and only a couple of months before the game's meteoric release, Rockstar Games has an employment tribunal to fight. This week, the final hearing in Rockstar vs. the 31 fired Rockstar North employees begins.",
+      "url": "https://www.eurogamer.net/rockstar-north-employment-tribunal-gta-6",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-08T10:24:19.000Z",
+      "image": "https://assetsio.gnwcdn.com/rockstar-north-protest-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "pc-gamer-379c82c76c7da7",
       "title": "GTA 6's Criminal Profile system sounds pretty interesting, includes a 'shattered' state for players who DGAF",
       "excerpt": "There are reportedly four main states, Professional, Aggressive, Violent, and Psycho, plus a hard-to-reach state you can't come back from.",
@@ -125,8 +167,8 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-082e5f45b7ee67",
-      "title": "Fan makes Lego GTA 6 set, and it's so perfect I'm gutted there isn't an official version",
+      "id": "gamesradar-192564226e2bbc",
+      "title": "Fan makes Lego GTA 6 set, and it's so damn perfect I'm gutted there isn't an official version",
       "excerpt": "I'm heartbroken that this fan-made Lego GTA 6 set isn't an official model, because it deserves to be",
       "url": "https://www.gamesradar.com/toys-collectibles/fan-makes-lego-gta-6-set-and-its-so-perfect-im-gutted-there-isnt-an-official-version/",
       "source": "GamesRadar+",
@@ -134,20 +176,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-07T11:52:06.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/c6uMiAtj7K3jyRrYpfnRjY-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-1881198f413d05",
-      "title": "Ex-Rockstar dev's chilling new psychological horror could be the next Silent Hill – even in a rough design build",
-      "excerpt": "This might not be the Ritual Tides demo developer Vertpaint intended for Gamescom, but I've been swept up by it all the same",
-      "url": "https://www.gamesradar.com/games/horror/ex-rockstar-devs-chilling-new-psychological-horror-could-be-the-next-silent-hill-even-in-a-rough-design-build/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-06T14:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uSaUHii4rUcduqsnNTH7fb-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
