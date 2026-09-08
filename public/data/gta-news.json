@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T19:58:52.159Z",
+  "generatedAt": "2026-09-08T04:40:06.652Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -148,20 +148,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-06T14:30:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/uSaUHii4rUcduqsnNTH7fb-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-48f5c67efdfbee",
-      "title": "Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work \"at this resolution\"",
-      "excerpt": "GTA 6 needs better \"behavioral sophistication\" from its NPCs",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-says-gta-6-doesnt-just-let-you-easily-walk-around-with-guns-because-gta-5s-approach-doesnt-work-at-this-resolution/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-06T12:27:19.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
