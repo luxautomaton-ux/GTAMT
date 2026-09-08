@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:53:08.883Z",
+  "generatedAt": "2026-09-08T19:26:26.611Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "the-verge-games-1e231c1af37700",
+      "title": "Nintendo isn’t scared of GTA VI",
+      "excerpt": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, except for Nintendo. The company held a 3",
+      "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-08T17:13:51.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NS2_TheLegendofZeldaOcarinaofTime_scrn_02.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-a2f190042d9aa0",
+      "title": "Zelda: Ocarina of Time remake release date set for November as Nintendo joins GTA 6 in a weird month",
+      "excerpt": "Nintendo and Rockstar fill out the fall",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-release-date-set-for-november-as-nintendo-joins-gta-6-in-a-weird-month/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-08T14:35:22.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/LCe9M5N325rhxv2UAq5D29-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "eurogamer-e98e7183ee6e80",
       "title": "Grand Theft Auto 6 worldwide unlock times revealed, and Xbox owners can seemingly still use the old New Zealand trick to play early",
       "excerpt": "Grand Theft Auto 6 arrives 19th November on PlayStation 5 and Xbox Series X/S. Depending on where you may be in the world, however, when you actually get to play varies.",
@@ -125,20 +153,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-6581bae635e8a8",
-      "title": "GTA 5 left Rockstar feeling \"slightly nervous\" about Red Dead Redemption 2 as devs worried fans \"were going to be bored\" by only having one protagonist to play as",
-      "excerpt": "Suffering from success",
-      "url": "https://www.gamesradar.com/games/action/gta-5-left-rockstar-feeling-slightly-nervous-about-red-dead-redemption-2-as-devs-worried-fans-were-going-to-be-bored-by-only-having-one-protagonist-to-play-as/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-07T19:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BMicjTXUijfTskiiVc8iLW-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-fbb81f42eb8a11",
       "title": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game's frame-rate",
       "excerpt": "Nvidia's gen-AI-powered, graphics-changing DLSS 5 tech has been tested and it really does take a heavy toll on a game's frame-rate. There was suspicion of this last week, ahead of DLSS 5's debut implementation in NBA 2K27, and now it's been properly tested, th",
@@ -148,62 +162,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-07T12:34:26.000Z",
       "image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-39d525b08fcabe",
-      "title": "GTA 6 boss says \"there will always be things to satirize,\" but Rockstar has to \"be careful about what we pick\" because after 11 years of development \"it could be gone, it could change, it could be dated\"",
-      "excerpt": "The next Grand Theft Auto game has been in development since 2015, but most developers didn't join until Red Dead Redemption wrapped up in 2018",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-there-will-always-be-things-to-satirize-but-rockstar-has-to-be-careful-about-what-we-pick-because-after-11-years-of-development-it-could-be-gone-it-could-change-it-could-be-dated/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-07T12:02:11.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-192564226e2bbc",
-      "title": "Fan makes Lego GTA 6 set, and it's so damn perfect I'm gutted there isn't an official version",
-      "excerpt": "I'm heartbroken that this fan-made Lego GTA 6 set isn't an official model, because it deserves to be",
-      "url": "https://www.gamesradar.com/toys-collectibles/fan-makes-lego-gta-6-set-and-its-so-perfect-im-gutted-there-isnt-an-official-version/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-07T11:52:06.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/c6uMiAtj7K3jyRrYpfnRjY-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-e1265fcdd0340a",
-      "title": "Grand Theft Auto 6's controversial refuelling action reportedly takes about 10 seconds to perform, which Rockstar's co-studio head says is 'pretty fast for a fill-up'",
-      "excerpt": "\"You can't complain about that\".",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6s-controversial-refuelling-action-reportedly-takes-about-10-seconds-to-perform-which-rockstars-co-studio-head-says-is-pretty-fast-for-a-fill-up/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-05T12:16:31.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/pG4Lm6TuDeWLKMmAHcBtPD-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-4f258029f0e628",
-      "title": "'Grand Theft Auto is a videogame franchise built around criminal activity': Miami-Dade County Sheriff comes out hard against a proposed GTA 6 collab with Rockstar",
-      "excerpt": "It actually sounds like a really good idea, but of course the cops are against it.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-is-a-videogame-franchise-built-around-criminal-activity-miami-dade-county-sheriff-comes-out-hard-against-a-proposed-gta-6-collab-with-rockstar/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-04T21:54:43.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/NVz7VbqHAgnCEszydtCSpW-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
