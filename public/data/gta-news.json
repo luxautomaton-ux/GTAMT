@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T04:45:39.197Z",
+  "generatedAt": "2026-09-09T12:58:52.463Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -106,20 +106,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-08T11:12:12.000Z",
       "image": "https://assetsio.gnwcdn.com/nz-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-60aab6df2c6023",
-      "title": "GTA 6 release times have been discovered through the PS Store - and it's finally time to book that holiday to New Zealand",
-      "excerpt": "Rockstar's going for a staggered launch",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-release-times-have-been-discovered-through-the-ps-store-and-its-finally-time-to-book-that-holiday-to-new-zealand/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-08T10:51:41.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3389mzUBT3d6BLYsdfWpWh-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -263,20 +249,6 @@
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "eurogamer-051b6b3f0f8264",
-      "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
-      "excerpt": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago. The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from ",
-      "url": "https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-01T08:26:02.000Z",
-      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Masks.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "take-two-ir-3f77fc2208848d",
