@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T12:58:52.463Z",
+  "generatedAt": "2026-09-09T19:17:40.301Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-4077e760c0614c",
+      "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says, but the Tom Petty song it used was a \"mission statement\" of where it was going",
+      "excerpt": "Rockstar North's co-studio head Rob Nelson says \"often it is a song we rally around\" in the early stages of making a game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-09T13:58:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BaZVBJYGymFMbx4HnaNUZh-1280-80.jpg",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "gamesradar-3545faa1dbbb99",
+      "title": "GTA 6 DualSense pre-orders drop soon, here's how to secure your Vice City controller",
+      "excerpt": "GTA 6 DualSense pre-orders will drop at 10am local time on September 10, here's how to secure your controller.",
+      "url": "https://www.gamesradar.com/news/live/gta-6-dualsense-pre-orders-where-to-buy-live/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-09T13:53:34.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FdjHaMacQDnQZknE3MXRea-1280-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
       "id": "the-verge-games-1e231c1af37700",
       "title": "Nintendo isn’t scared of GTA VI",
       "excerpt": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, except for Nintendo. The company held a 3",
@@ -78,20 +106,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-08T17:13:51.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NS2_TheLegendofZeldaOcarinaofTime_scrn_02.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-a2f190042d9aa0",
-      "title": "Zelda: Ocarina of Time remake release date set for November as Nintendo joins GTA 6 in a weird month",
-      "excerpt": "Nintendo and Rockstar fill out the fall",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-release-date-set-for-november-as-nintendo-joins-gta-6-in-a-weird-month/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-08T14:35:22.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LCe9M5N325rhxv2UAq5D29-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
