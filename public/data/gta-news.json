@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T04:45:49.206Z",
+  "generatedAt": "2026-09-10T12:56:03.533Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,32 +69,18 @@
   ],
   "items": [
     {
-      "id": "gamesradar-4077e760c0614c",
-      "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says, but the Tom Petty song it used was a \"mission statement\" of where it was going",
-      "excerpt": "Rockstar North's co-studio head Rob Nelson says \"often it is a song we rally around\" in the early stages of making a game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
+      "id": "eurogamer-9b2f29135f1a17",
+      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
+      "excerpt": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October.",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
       "sourceType": "publisher",
-      "publishedAt": "2026-09-09T13:58:38.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BaZVBJYGymFMbx4HnaNUZh-1280-80.jpg",
-      "category": "Media Watch",
+      "publishedAt": "2026-09-10T12:25:25.000Z",
+      "image": "https://assetsio.gnwcdn.com/Jason_Duval_07.0ca326xbl~oyh.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
       "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "gamesradar-3545faa1dbbb99",
-      "title": "GTA 6 DualSense pre-orders drop soon, here's how to secure your Vice City controller",
-      "excerpt": "GTA 6 DualSense pre-orders will drop at 10am local time on September 10, here's how to secure your controller.",
-      "url": "https://www.gamesradar.com/news/live/gta-6-dualsense-pre-orders-where-to-buy-live/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-09T13:53:34.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/FdjHaMacQDnQZknE3MXRea-1280-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "the-verge-games-1e231c1af37700",
@@ -204,20 +190,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-02T15:53:39.000Z",
       "image": "https://assetsio.gnwcdn.com/nvida-dlss-5.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-a63b6e5ae293e3",
-      "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it",
-      "excerpt": "For nearly 25 years, Grand Theft Auto games have uniquely mapped your sprint movement to a face button on a controller. Although some Rockstar games offered alternate control schemes, the default has always required players to tap X or A (depending on your pla",
-      "url": "https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-02T08:48:30.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-scooter-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
