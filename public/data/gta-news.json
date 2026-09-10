@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:56:03.533Z",
+  "generatedAt": "2026-09-10T19:07:50.511Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,48 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-7557c014faf887",
+      "title": "GTA 6 fans track down real-life nudist resort featured in leaks just to write unflattering fake reviews that are driving its owner to madness: \"A nudist resort DENYING exposure?\"",
+      "excerpt": "Leave these nice naked people alone",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-track-down-real-life-nudist-resort-featured-in-leaks-just-to-write-unflattering-fake-reviews-that-are-driving-its-owner-to-madness-a-nudist-resort-denying-exposure/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-10T17:53:23.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kyJmoWGy6seJEtojJk28UE-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "pc-gamer-797c67ebd907e9",
+      "title": "'The modern workplace runs on fear ... today we are fighting fear': Fired Grand Theft Auto 6 dev calls out Rockstar in impassioned pre-trial speech",
+      "excerpt": "The final hearing in the dispute between Rockstar and 31 employees who were fired in 2025 begins today.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-modern-workplace-runs-on-fear-today-we-are-fighting-fear-fired-grand-theft-auto-6-dev-calls-out-rockstar-in-impassioned-pre-trial-speech/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-10T15:59:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/h6jVhnAAam4T2JfbDv5AZc-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-49cf93d0362875",
+      "title": "GTA 6 extended reveal caused a surge in PS5 and Xbox Series X sales, analysts say – now imagine the response if consoles didn't cost an arm and a leg",
+      "excerpt": "A 17% bump for PS5 and a 9% bump for Xbox in the US",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-reveal-caused-a-surge-in-ps5-and-xbox-series-x-sales-analysts-say-now-imagine-the-response-if-consoles-didnt-cost-an-arm-and-a-leg/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-10T14:43:20.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "eurogamer-9b2f29135f1a17",
       "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
@@ -179,20 +221,6 @@
       "category": "Investor Radar",
       "riskFlag": false,
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "eurogamer-731cbba4a9cf25",
-      "title": "Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates",
-      "excerpt": "Nvidia's hotly debated DLSS 5 tech, which uses generative AI to apply graphical filters to existing games, arrives this week, albeit only in one game. The game is NBA 2K7, and the GeForce drivers for DLSS 5 arrive Thursday night in the US (9pm PDT) and early F",
-      "url": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-02T15:53:39.000Z",
-      "image": "https://assetsio.gnwcdn.com/nvida-dlss-5.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-fb467d2bbb6ce9",
