@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T19:17:40.301Z",
+  "generatedAt": "2026-09-10T04:45:49.206Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -139,20 +139,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "pc-gamer-379c82c76c7da7",
-      "title": "GTA 6's Criminal Profile system sounds pretty interesting, includes a 'shattered' state for players who DGAF",
-      "excerpt": "There are reportedly four main states, Professional, Aggressive, Violent, and Psycho, plus a hard-to-reach state you can't come back from.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-criminal-profile-system-sounds-pretty-interesting-isnt-a-direct-copy-of-red-deads-honor-system/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-07T19:19:23.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wAQbKw8yFQnKuSGffo7Pdh-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-fbb81f42eb8a11",
       "title": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game's frame-rate",
       "excerpt": "Nvidia's gen-AI-powered, graphics-changing DLSS 5 tech has been tested and it really does take a heavy toll on a game's frame-rate. There was suspicion of this last week, ahead of DLSS 5's debut implementation in NBA 2K27, and now it's been properly tested, th",
@@ -232,20 +218,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-02T08:48:30.000Z",
       "image": "https://assetsio.gnwcdn.com/gta-6-scooter-screen-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-c751c66afc938c",
-      "title": "Rockstar Games unveils its official GTA Online RP server, mere months before GTA 6",
-      "excerpt": "Rockstar Games hasn't said much of anything about GTA 6's potential multiplayer offerings, but the developer is making strides for GTA Online's roleplaying community. A watch-only nopixel 5 closed beta is coming next week.",
-      "url": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-01T19:44:40.000Z",
-      "image": "https://assetsio.gnwcdn.com/Trevor-in-GTA-5-carries-a-jerry-can-as-a-car-burns-behind-him.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
