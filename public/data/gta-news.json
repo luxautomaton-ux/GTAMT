@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T04:44:03.902Z",
+  "generatedAt": "2026-09-11T12:50:26.819Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-9ad780649d92a9",
+      "title": "Rockstar says people seeking GTA 6 updates have led to hackers blackmailing over leaks and drones being used to spy on devs",
+      "excerpt": "Improved security measures have since been implemented",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-says-people-seeking-gta-6-updates-have-led-to-hackers-blackmailing-over-leaks-and-drones-being-used-to-spy-on-devs/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-11T11:00:57.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "eurogamer-e0f8ccf731bc3a",
+      "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\"",
+      "excerpt": "The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars.",
+      "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-11T08:56:27.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-screaming-car.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-7557c014faf887",
       "title": "GTA 6 fans track down real-life nudist resort featured in leaks just to write unflattering fake reviews that are driving its owner to madness: \"A nudist resort DENYING exposure?\"",
