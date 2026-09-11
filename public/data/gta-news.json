@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T12:50:26.819Z",
+  "generatedAt": "2026-09-11T19:09:55.771Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,62 @@
   ],
   "items": [
     {
+      "id": "pc-gamer-9addafe64bb459",
+      "title": "'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns",
+      "excerpt": "One city commissioner said he asked the police about it, and they \"actually kind of laughed at me.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/were-not-giving-away-pistols-and-cocaine-to-people-miami-beach-votes-in-favor-of-grand-theft-auto-6-collab-despite-concerns/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-11T18:35:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/wzPGbueijAZZECY3Gfpg3A-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-3668bc158b2dfd",
+      "title": "Politicians dig up Grand Theft Auto's \"hot coffee\" incident and grill Rockstar for violence, but clear $3m in GTA 6 Miami Beach marketing anyway: \"It's a video game, it's fake\"",
+      "excerpt": "A commissioner who loves Rockstar's series says \"I'm not going to play the game and then go on a crime spree\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/politicians-dig-up-grand-theft-autos-hot-coffee-incident-and-grill-rockstar-for-violence-but-clear-usd3m-in-gta-6-miami-beach-marketing-anyway-its-a-video-game-its-fake/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-11T15:06:56.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5SZMxgxPtfdQsuELcPj4hf-1280-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-cf25ceef9fddcf",
+      "title": "$2 billion later, I'm not convinced GTA 6 will do more for me than a PS2 and San Andreas",
+      "excerpt": "I'll be playing GTA San Andreas on an original PS2 while everyone tucks in GTA 6, and you'd be surprised how easy it is to get the retro console up and running.",
+      "url": "https://www.gamesradar.com/hardware/retro/usd2-billion-later-im-not-convinced-gta-6-will-do-more-for-me-than-a-ps2-and-san-andreas/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-11T14:48:25.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ti9RanrLQohXEZXYxacgs8-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-5957da40c75b5c",
+      "title": "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal over sacked GTA 6 employees begins",
+      "excerpt": "Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago.",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-11T14:16:10.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-surprised-man-face-tribunal.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-9ad780649d92a9",
       "title": "Rockstar says people seeking GTA 6 updates have led to hackers blackmailing over leaks and drones being used to spy on devs",
       "excerpt": "Improved security measures have since been implemented",
@@ -120,20 +176,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-10T15:59:30.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/h6jVhnAAam4T2JfbDv5AZc-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-49cf93d0362875",
-      "title": "GTA 6 extended reveal caused a surge in PS5 and Xbox Series X sales, analysts say – now imagine the response if consoles didn't cost an arm and a leg",
-      "excerpt": "A 17% bump for PS5 and a 9% bump for Xbox in the US",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-reveal-caused-a-surge-in-ps5-and-xbox-series-x-sales-analysts-say-now-imagine-the-response-if-consoles-didnt-cost-an-arm-and-a-leg/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-10T14:43:20.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -235,20 +277,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "eurogamer-8f8436a3a02b00",
-      "title": "How does Epic Games CEO Tim Sweeney reckon we can fight the component crisis and industry \"Crash 2.0\"? By building more factories, for one",
-      "excerpt": "It's pretty obvious to anyone that's been paying attention that the games industry is in a pretty rough place at the moment. No matter where you look, there are mass layoffs: Sony, Microsoft, EA, Ubisoft, Take-Two, Epic Games… the list goes on. The reasons are",
-      "url": "https://www.eurogamer.net/tim-sweeney-crash-2-more-factories",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-03T10:08:38.000Z",
-      "image": "https://assetsio.gnwcdn.com/sweeney-factories.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
       "id": "take-two-ir-fb467d2bbb6ce9",
