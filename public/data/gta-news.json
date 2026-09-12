@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T19:09:55.771Z",
+  "generatedAt": "2026-09-12T04:38:27.389Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -40,7 +40,12 @@
       "type": "publisher"
     }
   ],
-  "feedErrors": [],
+  "feedErrors": [
+    {
+      "source": "GamesRadar+",
+      "message": "fetch failed"
+    }
+  ],
   "officialWatchlist": [
     {
       "id": "rockstar-vi-hub",
@@ -83,34 +88,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-3668bc158b2dfd",
-      "title": "Politicians dig up Grand Theft Auto's \"hot coffee\" incident and grill Rockstar for violence, but clear $3m in GTA 6 Miami Beach marketing anyway: \"It's a video game, it's fake\"",
-      "excerpt": "A commissioner who loves Rockstar's series says \"I'm not going to play the game and then go on a crime spree\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/politicians-dig-up-grand-theft-autos-hot-coffee-incident-and-grill-rockstar-for-violence-but-clear-usd3m-in-gta-6-miami-beach-marketing-anyway-its-a-video-game-its-fake/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-11T15:06:56.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5SZMxgxPtfdQsuELcPj4hf-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-cf25ceef9fddcf",
-      "title": "$2 billion later, I'm not convinced GTA 6 will do more for me than a PS2 and San Andreas",
-      "excerpt": "I'll be playing GTA San Andreas on an original PS2 while everyone tucks in GTA 6, and you'd be surprised how easy it is to get the retro console up and running.",
-      "url": "https://www.gamesradar.com/hardware/retro/usd2-billion-later-im-not-convinced-gta-6-will-do-more-for-me-than-a-ps2-and-san-andreas/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-11T14:48:25.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ti9RanrLQohXEZXYxacgs8-1280-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-5957da40c75b5c",
       "title": "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal over sacked GTA 6 employees begins",
       "excerpt": "Rockstar Games and the Independent Workers Union of Great Britain (IWGB) have traded blows in fiery opening statements during the final employment tribunal hearing, relating to the sudden firing of 31 Rockstar North employees nearly a year ago.",
@@ -125,20 +102,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-9ad780649d92a9",
-      "title": "Rockstar says people seeking GTA 6 updates have led to hackers blackmailing over leaks and drones being used to spy on devs",
-      "excerpt": "Improved security measures have since been implemented",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-says-people-seeking-gta-6-updates-have-led-to-hackers-blackmailing-over-leaks-and-drones-being-used-to-spy-on-devs/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-11T11:00:57.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
       "id": "eurogamer-e0f8ccf731bc3a",
       "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\"",
       "excerpt": "The City of Miami Beach has approved negotiations with Rockstar Games for an upcoming marketing campaign. This would bring advertisements for Grand Theft Auto 6 to the seaside city in exchange for millions of dollars.",
@@ -151,20 +114,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-7557c014faf887",
-      "title": "GTA 6 fans track down real-life nudist resort featured in leaks just to write unflattering fake reviews that are driving its owner to madness: \"A nudist resort DENYING exposure?\"",
-      "excerpt": "Leave these nice naked people alone",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-track-down-real-life-nudist-resort-featured-in-leaks-just-to-write-unflattering-fake-reviews-that-are-driving-its-owner-to-madness-a-nudist-resort-denying-exposure/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-10T17:53:23.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kyJmoWGy6seJEtojJk28UE-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "pc-gamer-797c67ebd907e9",
