@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T04:51:30.407Z",
+  "generatedAt": "2026-09-13T13:19:18.540Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -221,20 +221,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-7f8929d74f63a3",
-      "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
-      "excerpt": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream.",
-      "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-03T14:47:05.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-duelsense-controllers.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "take-two-ir-fb467d2bbb6ce9",
