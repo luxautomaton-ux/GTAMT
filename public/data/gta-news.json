@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T13:19:18.540Z",
+  "generatedAt": "2026-09-13T18:48:03.928Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "gamesradar-bdd2fc05c5191a",
+      "title": "Rockstar wants GTA 6's Jason and Lucia to inspire the same sort of \"emotional connection\" that Red Dead Redemption 2 fans had with Arthur",
+      "excerpt": "\"We wanted to see if we could bring some of those elements into GTA 6\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wants-gta-6s-jason-and-lucia-to-inspire-the-same-sort-of-emotional-connection-that-red-dead-redemption-2-fans-had-with-arthur/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-13T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oFV96Lzam6D6cjSoxVEn9h-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "pc-gamer-9addafe64bb459",
       "title": "'We're not giving away pistols and cocaine to people': Miami Beach votes in favor of Grand Theft Auto 6 collab despite concerns",
       "excerpt": "One city commissioner said he asked the police about it, and they \"actually kind of laughed at me.\"",
@@ -123,20 +137,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-9ad780649d92a9",
-      "title": "Rockstar says people seeking GTA 6 updates have led to hackers blackmailing over leaks and drones being used to spy on devs",
-      "excerpt": "Improved security measures have since been implemented",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-says-people-seeking-gta-6-updates-have-led-to-hackers-blackmailing-over-leaks-and-drones-being-used-to-spy-on-devs/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-11T11:00:57.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1280-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "eurogamer-e0f8ccf731bc3a",
