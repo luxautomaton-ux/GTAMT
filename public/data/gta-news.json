@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T15:02:09.528Z",
+  "generatedAt": "2026-09-14T20:18:41.850Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-f650e134f50d55",
+      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
+      "excerpt": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root.",
+      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-14T19:04:43.000Z",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Brian-Heder.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-f9c177f9a48623",
+      "title": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction",
+      "excerpt": "Quit staring.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-14T17:37:10.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/P28KWtsUUqjdnKeSUNmnxc-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-8e92ca79ad45d3",
       "title": "One of GTA 6's actors has finally been confirmed because it was already obvious: \"There are too many people who knew me from King of the Hill\"",
