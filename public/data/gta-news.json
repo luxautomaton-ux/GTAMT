@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T13:31:19.046Z",
+  "generatedAt": "2026-09-16T19:34:17.800Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-db80167fc98f06",
+      "title": "PS5 Linux dev abandons the project as AI \"slop kiddies\" ruin open-source mods ahead of GTA 6: \"Just a bunch of noobs using LLMs and writing hacks they don't even understand\"",
+      "excerpt": "\"I asked them to at least wait for GTA 6 to come out,\" says Andy Nguyen",
+      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-16T17:14:07.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-cf4edefcaf5ca8",
+      "title": "Parts of GTA 6 are \"a bit outdated and weird,\" says former Rockstar dev, but \"like GTA 5\" it will \"perform really well\" and keep fans busy for a decade",
+      "excerpt": "An animator on Grand Theft Auto 5 and Red Dead Redemption 2 has his say",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/parts-of-gta-6-are-a-bit-outdated-and-weird-says-former-rockstar-dev-but-like-gta-5-it-will-perform-really-well-and-keep-fans-busy-for-a-decade/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-16T16:36:46.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1280-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-a94d66d6a5cf02",
       "title": "As GTA 6: An Extended Look sends hype into overdrive, PS5 Pro prices surge as high as €1,400 in Europe as stock issues persist",
@@ -190,20 +218,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-08T10:24:19.000Z",
       "image": "https://assetsio.gnwcdn.com/rockstar-north-protest-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-fbb81f42eb8a11",
-      "title": "\"This is super, super heavy\" - Experts test Nvidia's divisive graphics-altering DLSS 5 tech and find it really does tank your game's frame-rate",
-      "excerpt": "Nvidia's gen-AI-powered, graphics-changing DLSS 5 tech has been tested and it really does take a heavy toll on a game's frame-rate. There was suspicion of this last week, ahead of DLSS 5's debut implementation in NBA 2K27, and now it's been properly tested, th",
-      "url": "https://www.eurogamer.net/nvidia-dlss-5-tested-frame-rates",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-07T12:34:26.000Z",
-      "image": "https://assetsio.gnwcdn.com/nba-2k7-dlss-5.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
