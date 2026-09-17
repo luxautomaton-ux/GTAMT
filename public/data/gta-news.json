@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:30:10.277Z",
+  "generatedAt": "2026-09-17T19:44:12.625Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,76 @@
   ],
   "items": [
     {
+      "id": "pc-gamer-cb373c8e200691",
+      "title": "Twitch CEO says GTA 6 multiplayer will launch in 2027",
+      "excerpt": "That soon? Twitch CEO Dan Clancy sounds pretty sure of it.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-17T18:19:36.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mGAbwHEYqU99h2xFrdszPL-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-217fe46b055786",
+      "title": "Upcoming soulslike Valor Mortis costs $40 as it's up against GTA 6 and the Zelda: Ocarina of Time remake: \"We want this to be a game that you can pick up alongside these other great games\"",
+      "excerpt": "\"We find ourselves as one of the only new IPs launching in what is objectively the craziest fall in the history of this business\"",
+      "url": "https://www.gamesradar.com/games/action/upcoming-soulslike-valor-mortis-costs-usd40-as-its-up-against-gta-6-and-the-zelda-ocarina-of-time-remake-we-want-this-to-be-a-game-that-you-can-pick-up-alongside-these-other-great-games/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-17T16:31:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kGh5EGzhe6Y2y7tm9QiJiA-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-ad73374b86b632",
+      "title": "With GTA 6 about to launch, Take-Two boss unloads on investor criticizing \"years of delays, missed expectations, and continued dependence on a small number of major franchises\"",
+      "excerpt": "Take-Two was \"nearly bankrupt\" before GTA 5 launched",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-about-to-launch-take-two-boss-unloads-on-investor-criticizing-years-of-delays-missed-expectations-and-continued-dependence-on-a-small-number-of-major-franchises/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-17T15:18:48.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/iMZ4fo3KMu7yRL2FouceCg-1920-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "gamesradar-5d48fd63bae71e",
+      "title": "You can't get a physical copy of GTA 6, but you can get the soundtrack on CD or a $125 deluxe vinyl collection",
+      "excerpt": "GTA 6 features original tracks from Travis Scott, Rauw Alejandro, Keith Richards, Morgan Wallen, and more",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-cant-get-a-physical-copy-of-gta-6-but-you-can-get-the-soundtrack-on-cd-or-a-usd125-deluxe-vinyl-collection/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-17T15:15:18.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/AfcEUg3UmbjNCVLSJgrs6n-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-2ab5e9016776d1",
+      "title": "GTA 6 on PC sounds even more inevitable in Take-Two CEO's latest comments",
+      "excerpt": "Strauss Zelnick suggests Grand Theft Auto will target platforms with \"a meaningful audience\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-on-pc-sounds-even-more-inevitable-in-take-two-ceos-latest-comments/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-17T14:08:35.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1920-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
       "id": "eurogamer-15150183860980",
       "title": "GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today",
       "excerpt": "Grand Theft Auto 6's original soundtrack was partially revealed today. The full album contains 34 original tracks made for the upcoming open-world crime game.",
@@ -123,34 +193,6 @@
       "category": "Investor Radar",
       "riskFlag": false,
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "gamesradar-db80167fc98f06",
-      "title": "PS5 Linux dev abandons the project as AI \"slop kiddies\" ruin open-source mods ahead of GTA 6: \"Just a bunch of noobs using LLMs and writing hacks they don't even understand\"",
-      "excerpt": "\"I asked them to at least wait for GTA 6 to come out,\" says Andy Nguyen",
-      "url": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-16T17:14:07.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/dCi5Fdq7sD946GXMMsR2Mj-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-cf4edefcaf5ca8",
-      "title": "Parts of GTA 6 are \"a bit outdated and weird,\" says former Rockstar dev, but \"like GTA 5\" it will \"perform really well\" and keep fans busy for a decade",
-      "excerpt": "An animator on Grand Theft Auto 5 and Red Dead Redemption 2 has his say",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/parts-of-gta-6-are-a-bit-outdated-and-weird-says-former-rockstar-dev-but-like-gta-5-it-will-perform-really-well-and-keep-fans-busy-for-a-decade/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-16T16:36:46.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-f650e134f50d55",
