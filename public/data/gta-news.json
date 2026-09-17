@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T19:34:17.800Z",
+  "generatedAt": "2026-09-17T04:55:37.654Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -111,20 +111,6 @@
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
-      "id": "gamesradar-5c398fb09dac08",
-      "title": "GTA 6 teasers keep popping up on celebrity social media as Travis Scott, Morgan Wallen, and more hint at Rockstar collaboration",
-      "excerpt": "Who passed Rockstar the aux?",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-teasers-keep-popping-up-on-celebrity-social-media-as-travis-scott-morgan-wallen-and-more-hint-at-rockstar-collaboration/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-15T17:18:58.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3YE3t65W2Dm5Vp5CxAnzSF-1280-80.png",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
       "id": "eurogamer-f650e134f50d55",
       "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
       "excerpt": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root.",
@@ -134,20 +120,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-14T19:04:43.000Z",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Brian-Heder.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-f9c177f9a48623",
-      "title": "Forget GTA 6, I have brought GTA 5 closer to being the true greatest game of all time: Hulk – Ultimate Destruction",
-      "excerpt": "Quit staring.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/forget-gta-6-i-have-brought-gta-5-closer-to-being-the-true-greatest-game-of-all-time-hulk-ultimate-destruction/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-14T17:37:10.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/P28KWtsUUqjdnKeSUNmnxc-1280-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
