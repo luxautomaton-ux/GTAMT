@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T12:59:09.804Z",
+  "generatedAt": "2026-09-18T19:02:38.292Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "pc-gamer-bc9eea853146cf",
+      "title": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6",
+      "excerpt": "Strauss Zelnick was asked about GTA 6 on PC during Take-Two's recent annual meeting.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-pc-platform-is-becoming-more-and-more-important-take-two-chief-says-as-we-continue-to-wonder-when-were-going-to-get-gta-6/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-18T18:22:26.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/X5bwnU4v3okUuzcqFbJz63-1920-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "eurogamer-c956361a012b53",
+      "title": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
+      "excerpt": "Rockstar Games' latest leak seemingly includes a nearly 200GB version of GTA 5's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6.",
+      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-18T18:19:10.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-5-protags.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-08ffc5e258bab0",
+      "title": "\"I would 100% prioritize [GTA], and now I don't have to\": Ex-Nintendo marketing lead says \"thank god\" the Zelda Ocarina of Time remake is dodging GTA 6, because even she'd pick Rockstar",
+      "excerpt": "It's a good November for Zelda and GTA fans",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/i-would-100-percent-prioritize-gta-and-now-i-dont-have-to-ex-nintendo-marketing-lead-says-thank-god-the-zelda-ocarina-of-time-remake-is-dodging-gta-6-because-even-shed-pick-rockstar/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-18T16:30:54.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/RKBdrVy7naGiR7BnKBssQM-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-3a03a421f65948",
       "title": "The game may be a code in a box, but GTA 6's soundtrack is now available on vinyl for physical media fans",
       "excerpt": "Rockstar has just dropped pre-orders for the GTA 6 soundtrack on vinyl, which is helping me cope with the game's lack of a true physical release.",
@@ -137,62 +179,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-217fe46b055786",
-      "title": "Upcoming soulslike Valor Mortis costs $40 as it's up against GTA 6 and the Zelda: Ocarina of Time remake: \"We want this to be a game that you can pick up alongside these other great games\"",
-      "excerpt": "\"We find ourselves as one of the only new IPs launching in what is objectively the craziest fall in the history of this business\"",
-      "url": "https://www.gamesradar.com/games/action/upcoming-soulslike-valor-mortis-costs-usd40-as-its-up-against-gta-6-and-the-zelda-ocarina-of-time-remake-we-want-this-to-be-a-game-that-you-can-pick-up-alongside-these-other-great-games/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-17T16:31:08.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kGh5EGzhe6Y2y7tm9QiJiA-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-ad73374b86b632",
-      "title": "With GTA 6 about to launch, Take-Two boss unloads on investor criticizing \"years of delays, missed expectations, and continued dependence on a small number of major franchises\"",
-      "excerpt": "Take-Two was \"nearly bankrupt\" before GTA 5 launched",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-about-to-launch-take-two-boss-unloads-on-investor-criticizing-years-of-delays-missed-expectations-and-continued-dependence-on-a-small-number-of-major-franchises/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-17T15:18:48.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/iMZ4fo3KMu7yRL2FouceCg-1920-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "gamesradar-5d48fd63bae71e",
-      "title": "You can't get a physical copy of GTA 6, but you can get the soundtrack on CD or a $125 deluxe vinyl collection",
-      "excerpt": "GTA 6 features original tracks from Travis Scott, Rauw Alejandro, Keith Richards, Morgan Wallen, and more",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-cant-get-a-physical-copy-of-gta-6-but-you-can-get-the-soundtrack-on-cd-or-a-usd125-deluxe-vinyl-collection/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-17T15:15:18.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/AfcEUg3UmbjNCVLSJgrs6n-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-2ab5e9016776d1",
-      "title": "GTA 6 on PC sounds even more inevitable in Take-Two CEO's latest comments",
-      "excerpt": "Strauss Zelnick suggests Grand Theft Auto will target platforms with \"a meaningful audience\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-on-pc-sounds-even-more-inevitable-in-take-two-ceos-latest-comments/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-17T14:08:35.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1920-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
       "id": "eurogamer-15150183860980",
