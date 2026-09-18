@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:44:12.625Z",
+  "generatedAt": "2026-09-18T04:46:50.625Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-8035a9b8529644",
+      "title": "GTA 6 has turned October into a new release bloodbath, but AA first-person soulslike Valor Mortis is hellbent on entering the fray",
+      "excerpt": "Going with a $40 price point will make it an \"and game\".",
+      "url": "https://www.pcgamer.com/gaming-industry/gta-6-has-turned-october-into-a-new-release-bloodbath-but-aa-first-person-soulslike-valor-mortis-is-hellbent-on-entering-the-fray/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-18T01:19:18.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ofjZpctqnSuo7DbahTtZsC-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
     {
       "id": "pc-gamer-cb373c8e200691",
       "title": "Twitch CEO says GTA 6 multiplayer will launch in 2027",
@@ -179,20 +193,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-92f3210abe4f89",
-      "title": "GTA 6 still needs marketing even if everyone's heard of it, Take-Two boss says: \"Take awareness and turn it into excitement\"",
-      "excerpt": "Strauss Zelnick says \"awareness is one thing; enthusiasm is another thing\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-still-needs-marketing-even-if-everyones-heard-of-it-take-two-boss-says-take-awareness-and-turn-it-into-excitement/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-17T09:48:40.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/p5xXjN4jhguPenWLzWb6rh-1920-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
       "id": "eurogamer-f650e134f50d55",
