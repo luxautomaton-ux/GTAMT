@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:58:51.940Z",
+  "generatedAt": "2026-09-21T15:07:23.149Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "gamesradar-17dd69cf6e8bb5",
+      "title": "Ahead of GTA 6, Rockstar releases modding guidelines that axe new missions, maps, ports, and more: \"Respect our games\"",
+      "excerpt": "\"No fun allowed basically,\" as fans say",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-releases-modding-guidelines-that-axe-new-missions-maps-ports-and-more-respect-our-games/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-21T10:11:49.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/YHeD3k5sruUh84Wk9k24vm-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "eurogamer-c956361a012b53",
       "title": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
       "excerpt": "Rockstar Games' latest leak seemingly includes a nearly 200GB version of GTA 5's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6.",
@@ -81,20 +95,6 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-08ffc5e258bab0",
-      "title": "\"I would 100% prioritize [GTA], and now I don't have to\": Ex-Nintendo marketing lead says \"thank god\" the Zelda Ocarina of Time remake is dodging GTA 6, because even she'd pick Rockstar",
-      "excerpt": "It's a good November for Zelda and GTA fans",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/i-would-100-percent-prioritize-gta-and-now-i-dont-have-to-ex-nintendo-marketing-lead-says-thank-god-the-zelda-ocarina-of-time-remake-is-dodging-gta-6-because-even-shed-pick-rockstar/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-18T16:30:54.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/RKBdrVy7naGiR7BnKBssQM-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-f1ba770c5bb748",
