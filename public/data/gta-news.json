@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T15:07:23.149Z",
+  "generatedAt": "2026-09-21T20:25:54.952Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,48 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-798b7d8a4b8e8b",
+      "title": "Rockstar asks modders to please take its games very seriously",
+      "excerpt": "In mod guidelines published earlier this month, Rockstar tells modders to \"respect our games.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-21T20:14:25.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/JCZ7NEJDcNcVpDATG25CTD-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-336def2b14e782",
+      "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
+      "excerpt": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight.",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-21T19:23:49.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-jason_9MumaLo.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-2a3ec56f7f2339",
+      "title": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not",
+      "excerpt": "Grand Theft Auto fans are known for a love of speculation and information sleuthing at this point, and this certainly hasn't changed since Rockstar released the extended gameplay preview for Grand Theft Auto 6. The community's current fixation? Whether or not ",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-21T15:48:09.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-sky-diving-parachute.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-17dd69cf6e8bb5",
       "title": "Ahead of GTA 6, Rockstar releases modding guidelines that axe new missions, maps, ports, and more: \"Respect our games\"",
