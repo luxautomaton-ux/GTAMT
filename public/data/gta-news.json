@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T04:59:59.995Z",
+  "generatedAt": "2026-09-22T13:25:41.574Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,8 +69,8 @@
   ],
   "items": [
     {
-      "id": "gamesradar-fc96e164c164a8",
-      "title": "Former Valve writer says \"giant teams just don't work\" in video game development, unless you're making GTA 6",
+      "id": "gamesradar-3f03f31449133c",
+      "title": "Former Valve writer says \"giant teams\" don't work in video game dev, unless you're making GTA 6",
       "excerpt": "Chet Faliszek doesn't think Valve needs to get any bigger",
       "url": "https://www.gamesradar.com/games/former-valve-writer-says-giant-teams-just-dont-work-in-video-game-development-unless-youre-making-gta-6/",
       "source": "GamesRadar+",
@@ -120,20 +120,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-21T15:48:09.000Z",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-sky-diving-parachute.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-17dd69cf6e8bb5",
-      "title": "Ahead of GTA 6, Rockstar releases modding guidelines that axe new missions, maps, ports, and more: \"Respect our games\"",
-      "excerpt": "\"No fun allowed basically,\" as fans say",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-releases-modding-guidelines-that-axe-new-missions-maps-ports-and-more-respect-our-games/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-21T10:11:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/YHeD3k5sruUh84Wk9k24vm-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -232,20 +218,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-11T08:56:27.000Z",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-screaming-car.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-9b2f29135f1a17",
-      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
-      "excerpt": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October.",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-10T12:25:25.000Z",
-      "image": "https://assetsio.gnwcdn.com/Jason_Duval_07.0ca326xbl~oyh.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
