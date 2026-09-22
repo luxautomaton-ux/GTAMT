@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:25:54.952Z",
+  "generatedAt": "2026-09-22T04:59:59.995Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-fc96e164c164a8",
+      "title": "Former Valve writer says \"giant teams just don't work\" in video game development, unless you're making GTA 6",
+      "excerpt": "Chet Faliszek doesn't think Valve needs to get any bigger",
+      "url": "https://www.gamesradar.com/games/former-valve-writer-says-giant-teams-just-dont-work-in-video-game-development-unless-youre-making-gta-6/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-21T20:59:51.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jngM5MjboF3iNycFz39kQ9-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-798b7d8a4b8e8b",
       "title": "Rockstar asks modders to please take its games very seriously",
