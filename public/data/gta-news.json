@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T13:39:54.489Z",
+  "generatedAt": "2026-09-23T19:41:16.220Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-436c006301634a",
+      "title": "NBA star warns GTA 6 will ruin November sports because players and coaches will be too busy playing to train",
+      "excerpt": "\"Look at all the leagues and watch them plummet,\" says Steven Adams",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/nba-star-warns-gta-6-will-ruin-november-sports-because-players-and-coaches-will-be-too-busy-playing-to-train/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-23T16:03:28.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2pSZdE6TKY4gEz9haAKNMo-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-557dca9c743805",
+      "title": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'",
+      "excerpt": "The status of the Gibson is currently unknown.",
+      "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-23T15:11:18.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9Pu997rJdeG8ReYNpFBTJP-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-2b6aadad9d7a3e",
       "title": "GTA 6's $1 million billboard goes up despite protests from local police",
       "excerpt": "The Kaseya Center is the first location to host Rockstar's marketing",
@@ -81,34 +109,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-8649924089cc26",
-      "title": "Modding GTA 6 sounds illegal in Rockstar's guidelines, but that's never stopped modders before",
-      "excerpt": "The community has spoken, and it's pretty unfazed",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/modding-gta-6-sounds-outright-illegal-under-rockstars-guidelines-but-thats-never-stopped-modders-before/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-22T15:38:01.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-813384db3cd421",
-      "title": "GTA 6 won't beat the GOTY record set by Baldur's Gate 3 and Clair Obscur: Expedition 33",
-      "excerpt": "GTA 6 isn't eligible for this year's Golden Joystick Awards",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-not-be-eligible-to-complete-baldurs-gate-3-and-clair-obscur-expedition-33s-big-5-goty-sweep-in-the-2026-7-season/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-22T15:05:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oFV96Lzam6D6cjSoxVEn9h-1920-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "eurogamer-336def2b14e782",
@@ -176,20 +176,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-17T12:57:37.000Z",
       "image": "https://assetsio.gnwcdn.com/gta-6-official-soundtrack-album-covber-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "the-verge-games-1503eafe720c62",
-      "title": "Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks",
-      "excerpt": "After teasing a music-related reveal a few days ago, Rockstar has officially announced the soundtrack for Grand Theft Auto VI. Called Grand Theft Auto VI: The Album, the soundtrack will feature 34 songs, which Rockstar describes as \"brand-new, original tracks.",
-      "url": "https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-17T12:31:30.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Lucia_Caminos_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
