@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:34:17.602Z",
+  "generatedAt": "2026-09-24T20:00:16.989Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "gamesradar-4fec13de73225e",
+      "title": "GTA 6's $400 collectible spoon is actually a reference to another, far more expensive GTA spoon",
+      "excerpt": "Rockstar's been in the cutlery game for a minute",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-usd400-collectible-spoon-is-actually-a-reference-to-another-far-more-expensive-gta-spoon-from-18-years-ago/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-24T16:42:28.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-ab472aca294e72",
+      "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
+      "excerpt": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - £349 - doesn't include a copy of the game, and is pre-orderable now.",
+      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-24T16:20:44.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-collectors-box.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "gamesradar-a1a4c0fd46c44c",
+      "title": "GTA 6 Collector's Box is $400 and doesn't have the game, but you do get a spoon, stickers, and more",
+      "excerpt": "Rockstar's even throwing in a pair of Oakleys",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-collectors-box-is-usd400-and-doesnt-include-the-game-but-you-do-get-a-spoon-stickers-and-more-needlessly-expensive-merch/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-24T15:44:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kWw9FEwneArzWxypW9xKMh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-57b7d96ded1df5",
       "title": "Wardogs boss says \"games need to cost more\" and GTA 6 should've been the game to make the change",
       "excerpt": "Joe Brammer says Rockstar \"had a chance to raise the bar and they didn't do it, so we'll keep going round\"",
@@ -78,34 +120,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-24T10:22:10.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/wTUMRtmV4K6K22oDvuehKd-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-436c006301634a",
-      "title": "NBA star warns GTA 6 will ruin November sports because players and coaches will be too busy playing to train",
-      "excerpt": "\"Look at all the leagues and watch them plummet,\" says Steven Adams",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/nba-star-warns-gta-6-will-ruin-november-sports-because-players-and-coaches-will-be-too-busy-playing-to-train/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-23T16:03:28.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/2pSZdE6TKY4gEz9haAKNMo-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-557dca9c743805",
-      "title": "'We hacked the FBI' says previous Rockstar-breaching hacking group: 'We hold data on all FBI employees and applicants'",
-      "excerpt": "The status of the Gibson is currently unknown.",
-      "url": "https://www.pcgamer.com/software/security/we-hacked-the-fbi-says-previous-rockstar-breaching-hacking-group-we-hold-data-on-all-fbi-employees-and-applicants/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-23T15:11:18.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/9Pu997rJdeG8ReYNpFBTJP-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
