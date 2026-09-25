@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T13:50:17.647Z",
+  "generatedAt": "2026-09-25T20:01:36.671Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "pc-gamer-bafcab87f9fbe9",
+      "title": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
+      "excerpt": "Higher body count than I was expecting.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-25T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6wFZDGm8vKA36ZdfSB9jTE-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-ead29998ae077b",
+      "title": "GTA 6 on Nintendo Switch 2 \"doesn't make sense\" says former Rockstar dev",
+      "excerpt": "He doesn't completely discount the idea",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/bringing-gta-6-to-nintendo-switch-2-doesnt-make-sense-when-anyone-will-buy-a-ps5-to-get-your-game-says-former-rockstar-dev/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-25T15:57:10.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-10e4fa0a152979",
       "title": "GTA 6 scalpers try to resell Rockstar's $400 Collector's Box for $1,500, but it's still in stock",
       "excerpt": "Putting the \"Grand Theft\" in Grand Theft Auto 6",
@@ -97,20 +125,6 @@
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
-      "id": "gamesradar-4fec13de73225e",
-      "title": "GTA 6's $400 collectible spoon is actually a reference to another, far more expensive GTA spoon",
-      "excerpt": "Rockstar's been in the cutlery game for a minute",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-usd400-collectible-spoon-is-actually-a-reference-to-another-far-more-expensive-gta-spoon-from-18-years-ago/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-24T16:42:28.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-ab472aca294e72",
       "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
       "excerpt": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - £349 - doesn't include a copy of the game, and is pre-orderable now.",
@@ -123,20 +137,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-a1a4c0fd46c44c",
-      "title": "GTA 6 Collector's Box is $400 and doesn't have the game, but you do get a spoon, stickers, and more",
-      "excerpt": "Rockstar's even throwing in a pair of Oakleys",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-collectors-box-is-usd400-and-doesnt-include-the-game-but-you-do-get-a-spoon-stickers-and-more-needlessly-expensive-merch/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-24T15:44:05.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/kWw9FEwneArzWxypW9xKMh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-336def2b14e782",
@@ -204,20 +204,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-17T12:57:37.000Z",
       "image": "https://assetsio.gnwcdn.com/gta-6-official-soundtrack-album-covber-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-f650e134f50d55",
-      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
-      "excerpt": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root.",
-      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-14T19:04:43.000Z",
-      "image": "https://assetsio.gnwcdn.com/GTA-6-Brian-Heder.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
