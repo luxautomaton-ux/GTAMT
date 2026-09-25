@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:00:37.703Z",
+  "generatedAt": "2026-09-25T13:50:17.647Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-10e4fa0a152979",
+      "title": "GTA 6 scalpers try to resell Rockstar's $400 Collector's Box for $1,500, but it's still in stock",
+      "excerpt": "Putting the \"Grand Theft\" in Grand Theft Auto 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-scalpers-are-already-trying-to-resell-rockstars-usd400-collectors-box-for-upwards-of-usd1-500-even-though-its-still-in-stock/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-25T13:13:12.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/TEreSmLV52RRZgMHB9ktZX-1920-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "gamesradar-05495fdf8bea59",
+      "title": "Xbox is \"very happy with GTA 6 pre-orders,\" exec claims they match \"our share of the console market\"",
+      "excerpt": "Rockstar's upcoming blockbuster is apparently setting records for Microsoft",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/xbox-is-very-happy-with-gta-6-pre-orders-exec-says-claims-sales-match-our-share-of-the-console-market/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-25T11:13:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/z97tu6QgVY7qy5FoGveeGh-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
       "id": "gamesradar-4fec13de73225e",
       "title": "GTA 6's $400 collectible spoon is actually a reference to another, far more expensive GTA spoon",
       "excerpt": "Rockstar's been in the cutlery game for a minute",
@@ -106,20 +134,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-24T15:44:05.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/kWw9FEwneArzWxypW9xKMh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-57b7d96ded1df5",
-      "title": "Wardogs boss says \"games need to cost more\" and GTA 6 should've been the game to make the change",
-      "excerpt": "Joe Brammer says Rockstar \"had a chance to raise the bar and they didn't do it, so we'll keep going round\"",
-      "url": "https://www.gamesradar.com/games/fps/wardogs-boss-says-games-need-to-cost-more-and-gta-6-shouldve-been-the-game-to-make-the-change/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-24T10:22:10.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wTUMRtmV4K6K22oDvuehKd-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
