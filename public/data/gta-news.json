@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:21:08.319Z",
+  "generatedAt": "2026-09-27T14:00:37.777Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -137,20 +137,6 @@
       "category": "Investor Radar",
       "riskFlag": false,
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "gamesradar-05495fdf8bea59",
-      "title": "Xbox is \"very happy with GTA 6 pre-orders,\" exec claims they match \"our share of the console market\"",
-      "excerpt": "Rockstar's upcoming blockbuster is apparently setting records for Microsoft",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/xbox-is-very-happy-with-gta-6-pre-orders-exec-says-claims-sales-match-our-share-of-the-console-market/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-25T11:13:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/z97tu6QgVY7qy5FoGveeGh-1920-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "eurogamer-ab472aca294e72",
