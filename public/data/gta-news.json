@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T05:27:11.460Z",
+  "generatedAt": "2026-09-28T16:46:13.290Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-4af347d0a2ce30",
+      "title": "GTA 6 fans replicate the $400 Collector's Box statue, and you can now 3D print your own ugly gator at home",
+      "excerpt": "Despite all odds, the collector's box sold out",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fans-replicate-the-usd400-collectors-box-statue-and-you-can-now-3d-print-your-own-ugly-gator-at-home/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-28T16:33:13.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/iWk3hXL2jUfp349cAJMF3n-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-014acdcb452173",
+      "title": "Forget Red Dead Redemption 3, Rockstar's next game is LA Noire 2 according to a GTA 6 leaker",
+      "excerpt": "Take-Two has managed to go through the studio's back catalog",
+      "url": "https://www.gamesradar.com/games/open-world/forget-red-dead-redemption-3-rockstars-next-game-is-apparently-la-noire-2-according-to-a-gta-6-leaker-but-dont-expect-to-play-it-until-at-least-2030/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-28T15:35:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8MDTcyAncWNALTaiERa8Zi-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
       "id": "gamesradar-d04f77e551582e",
       "title": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA",
       "excerpt": "Whoops",
@@ -109,34 +137,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-ead29998ae077b",
-      "title": "GTA 6 on Nintendo Switch 2 \"doesn't make sense\" says former Rockstar dev",
-      "excerpt": "He doesn't completely discount the idea",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/bringing-gta-6-to-nintendo-switch-2-doesnt-make-sense-when-anyone-will-buy-a-ps5-to-get-your-game-says-former-rockstar-dev/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-25T15:57:10.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-10e4fa0a152979",
-      "title": "GTA 6 scalpers try to resell Rockstar's $400 Collector's Box for $1,500, but it's still in stock",
-      "excerpt": "Putting the \"Grand Theft\" in Grand Theft Auto 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-scalpers-are-already-trying-to-resell-rockstars-usd400-collectors-box-for-upwards-of-usd1-500-even-though-its-still-in-stock/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-25T13:13:12.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/TEreSmLV52RRZgMHB9ktZX-1920-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
       "id": "eurogamer-ab472aca294e72",
