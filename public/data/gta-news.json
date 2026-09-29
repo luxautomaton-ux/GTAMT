@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T05:46:23.641Z",
+  "generatedAt": "2026-09-29T14:51:38.702Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-c542b6774959f1",
+      "title": "GTA 5 modder behind Switch 1 port says it's \"shutting down\" following action from the devs",
+      "excerpt": "There's still GTA 6 to look forward to, I guess",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-modder-behind-switch-1-port-using-rockstars-leaked-code-says-its-shutting-down-following-action-from-the-devs-i-am-thankful-for-take-twos-mercy/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-29T10:36:53.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/nzPR6ejt96QV5qVmHYg3ib-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "eurogamer-c41ecff6578828",
       "title": "\"What if London existed in the Grand Theft Auto universe?\" One fan has answered with a GTA-style map of the city",
@@ -165,34 +179,6 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "eurogamer-f1ba770c5bb748",
-      "title": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year",
-      "excerpt": "Rockstar has remained very tight-lipped about GTA 6's multiplayer component, the potential successor to GTA 5's incredibly popular Grand Theft Auto Online, not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Au",
-      "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-18T10:15:25.000Z",
-      "image": "https://assetsio.gnwcdn.com/GTA-Online-6_vy3MsZh.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-15150183860980",
-      "title": "GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today",
-      "excerpt": "Grand Theft Auto 6's original soundtrack was partially revealed today. The full album contains 34 original tracks made for the upcoming open-world crime game.",
-      "url": "https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-17T12:57:37.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-official-soundtrack-album-covber-1.jpeg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-fb467d2bbb6ce9",
