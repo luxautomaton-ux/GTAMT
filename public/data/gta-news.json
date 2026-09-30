@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T14:56:37.457Z",
+  "generatedAt": "2026-09-30T20:49:48.673Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "eurogamer-2848e36f2d8466",
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "excerpt": "If you thought Red Dead Redemption 2's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6. Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" a",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-30T17:04:55.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-f3d626f738bf40",
       "title": "GTA 6 influencers sent mysterious merch that sure looks better than those $400 Collector's Boxes",
       "excerpt": "Right now, Rockstar isn't selling this merch separately",
@@ -120,20 +134,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-29T19:18:06.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-3534578e4b4cc9",
-      "title": "GTA 6 devs spent years \"going to strip clubs\" and the beach to research Florida life",
-      "excerpt": "Rockstar is dedicated to realism",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-devs-spent-years-going-to-strip-clubs-spending-time-on-the-beach-and-riding-with-ex-cops-to-research-florida-life/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-29T18:07:25.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7E43SERC2PDAcs2Nxm9Yxm-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
