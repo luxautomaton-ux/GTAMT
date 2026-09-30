@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T05:35:38.847Z",
+  "generatedAt": "2026-09-30T14:56:37.457Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "gamesradar-f3d626f738bf40",
+      "title": "GTA 6 influencers sent mysterious merch that sure looks better than those $400 Collector's Boxes",
+      "excerpt": "Right now, Rockstar isn't selling this merch separately",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-influencers-sent-a-mysterious-package-that-fans-say-sure-looks-better-than-those-usd400-collectors-boxes/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-30T13:28:34.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sxWdBUBimAc5dB53dcoBxh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-25daa80ae0857e",
+      "title": "GTA 6's weather is completely re-done from Red Dead Redemption 2, has hurricanes, rainbows and more",
+      "excerpt": "Rockstar's going above and beyond once again",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-weather-is-completely-re-engineered-from-red-dead-redemption-2-and-it-has-hurricanes-rainbows-proper-cloud-formations-and-more/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-30T12:01:23.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/xaJa896BofqxWZpjF8NUCi-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-c7fd108a79cb2e",
+      "title": "Police arrest \"one of the alleged leaders\" behind Rockstar hack that revealed how much money GTA Online makes",
+      "excerpt": "Rockstar previously said the incident in April saw a \"limited amount of non-material company information\" accessed",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/police-arrest-one-of-the-alleged-leaders-of-group-behind-rockstar-hack-that-apparently-revealed-how-much-money-gta-online-makes-fbi-warns-we-know-how-to-find-you/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-09-30T10:39:14.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/jQWpAjCrVBgDbmFAzj3AQJ-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-1f0d1093e3892f",
       "title": "Rockstar flashes its wallet, says GTA 6 doesn't compromise on detail or scale",
       "excerpt": "\"As the pressure for us on this project is huge, we dealt with that by doing our best to overdeliver,\" says co-studio head Aaron Garbut",
@@ -92,20 +134,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-29T18:07:25.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/7E43SERC2PDAcs2Nxm9Yxm-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-c542b6774959f1",
-      "title": "GTA 5 modder behind Switch 1 port says it's \"shutting down\" following action from the devs",
-      "excerpt": "There's still GTA 6 to look forward to, I guess",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-modder-behind-switch-1-port-using-rockstars-leaked-code-says-its-shutting-down-following-action-from-the-devs-i-am-thankful-for-take-twos-mercy/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-29T10:36:53.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nzPR6ejt96QV5qVmHYg3ib-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -165,20 +193,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-c956361a012b53",
-      "title": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
-      "excerpt": "Rockstar Games' latest leak seemingly includes a nearly 200GB version of GTA 5's source code, suggesting the developer started and then scrapped plans for a Liberty City DLC, alongside very early files related to GTA 6.",
-      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-18T18:19:10.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-5-protags.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "take-two-ir-fb467d2bbb6ce9",
