@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T05:58:56.075Z",
+  "generatedAt": "2026-10-01T15:28:23.468Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "gamesradar-1960756b5e9079",
+      "title": "GTA 6's hype will be matched eventually, ex-PlayStation boss says, but it might be up to Rockstar",
+      "excerpt": "Shuhei Yoshida says other companies might try to compete in the gap after GTA 6, too",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hype-and-impact-will-eventually-be-matched-by-another-game-ex-playstation-boss-says-but-it-might-be-up-to-rockstar-to-make-it-after-15-years-maybe-gta-7/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-01T15:11:25.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zb3Q2uW5q96AnLSCtr2AVA-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "eurogamer-2848e36f2d8466",
       "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
       "excerpt": "If you thought Red Dead Redemption 2's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6. Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" a",
@@ -78,48 +92,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-30T17:04:55.000Z",
       "image": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-f3d626f738bf40",
-      "title": "GTA 6 influencers sent mysterious merch that sure looks better than those $400 Collector's Boxes",
-      "excerpt": "Right now, Rockstar isn't selling this merch separately",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-influencers-sent-a-mysterious-package-that-fans-say-sure-looks-better-than-those-usd400-collectors-boxes/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-30T13:28:34.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sxWdBUBimAc5dB53dcoBxh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-25daa80ae0857e",
-      "title": "GTA 6's weather is completely re-done from Red Dead Redemption 2, has hurricanes, rainbows and more",
-      "excerpt": "Rockstar's going above and beyond once again",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-weather-is-completely-re-engineered-from-red-dead-redemption-2-and-it-has-hurricanes-rainbows-proper-cloud-formations-and-more/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-30T12:01:23.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/xaJa896BofqxWZpjF8NUCi-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-c7fd108a79cb2e",
-      "title": "Police arrest \"one of the alleged leaders\" behind Rockstar hack that revealed how much money GTA Online makes",
-      "excerpt": "Rockstar previously said the incident in April saw a \"limited amount of non-material company information\" accessed",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/police-arrest-one-of-the-alleged-leaders-of-group-behind-rockstar-hack-that-apparently-revealed-how-much-money-gta-online-makes-fbi-warns-we-know-how-to-find-you/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-30T10:39:14.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/jQWpAjCrVBgDbmFAzj3AQJ-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -167,18 +139,18 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "eurogamer-2a3ec56f7f2339",
-      "title": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not",
-      "excerpt": "Grand Theft Auto fans are known for a love of speculation and information sleuthing at this point, and this certainly hasn't changed since Rockstar released the extended gameplay preview for Grand Theft Auto 6. The community's current fixation? Whether or not ",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-21T15:48:09.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-sky-diving-parachute.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
+      "id": "take-two-ir-0ecfad44093ef8",
+      "title": "Take-Two Interactive to Host Webcast of 2026 Annual Meeting of Stockholders",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Sep. 10, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that the Company will host a webcast of its 2026 Annual Meeting of Stockholders which is being held as a virtual, audio-only meeting hosted online at",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-host-webcast-2026-annual-meeting",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
       "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
     },
     {
       "id": "take-two-ir-fb467d2bbb6ce9",
@@ -189,7 +161,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-01T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -203,7 +175,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-08-07T11:30:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -217,7 +189,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-07-09T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -231,7 +203,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-06-24T10:15:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -245,7 +217,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-21T20:05:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -259,7 +231,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-11T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -273,7 +245,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-04-23T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
