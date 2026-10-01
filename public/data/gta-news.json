@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T20:49:48.673Z",
+  "generatedAt": "2026-10-01T05:58:56.075Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -120,20 +120,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-09-30T10:39:14.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/jQWpAjCrVBgDbmFAzj3AQJ-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-1f0d1093e3892f",
-      "title": "Rockstar flashes its wallet, says GTA 6 doesn't compromise on detail or scale",
-      "excerpt": "\"As the pressure for us on this project is huge, we dealt with that by doing our best to overdeliver,\" says co-studio head Aaron Garbut",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-flashes-its-wallet-says-gta-6-doesnt-compromise-on-detail-or-scale-i-dont-think-we-have-ever-created-anything-close-to-this-before/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-29T19:18:06.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
