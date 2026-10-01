@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:28:23.468Z",
+  "generatedAt": "2026-10-01T21:02:48.575Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-0a3bb68ddfc20a",
+      "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
+      "excerpt": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/kingdom-come-deliverance-studio-co-founder-hopes-grand-theft-auto-6-will-blaze-a-trail-to-higher-game-prices/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-01T20:13:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KAVCkMQ6m9p7Ayo6NQ3BdD-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
     {
       "id": "gamesradar-1960756b5e9079",
       "title": "GTA 6's hype will be matched eventually, ex-PlayStation boss says, but it might be up to Rockstar",
