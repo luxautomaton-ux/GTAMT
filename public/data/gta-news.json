@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T14:45:17.373Z",
+  "generatedAt": "2026-10-02T20:46:37.636Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,76 @@
   ],
   "items": [
     {
+      "id": "eurogamer-ff446cf6962312",
+      "title": "GTA 6's 18+ age rating reveals Lucia and Jason can partake in drug use \"directly from their inventory\" and \"at any time\"",
+      "excerpt": "GTA 6 is seemingly adding another naughty pastime to the series' already mammoth collection of naughty pastimes. Joining the strip clubs and violent car-jackings and carefree murder is \"frequent and prominent\" drug use that you can try \"at any time,\" according",
+      "url": "https://www.eurogamer.net/gta6-age-rating-pegi-lucia-jason-drug-use",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-02T19:08:59.000Z",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Lucia_bnyTxLW.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-dbca651ac8ef26",
+      "title": "GTA 6 has \"detailed decapitation\" and cocaine can be \"snorted directly,\" says UK ratings board",
+      "excerpt": "Surprise, GTA 6 is for \"adults only\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-has-detailed-decapitation-and-cocaine-can-be-snorted-directly-from-your-hand-says-uk-ratings-board/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-02T18:06:14.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-bfa5bd214f660a",
+      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
+      "excerpt": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal.",
+      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-02T16:52:25.000Z",
+      "image": "https://assetsio.gnwcdn.com/KCDII_Standard_KA_Unbranded.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "gamesradar-ab51ab72197288",
+      "title": "Here's everything new we learned about GTA 6 this week | GTA 6 O'clock",
+      "excerpt": "On this week’s GTA 6 O’clock, James Jarvis and Dan Dawkins break down a huge batch of new GTA 6 details, including fresh information from Rob Nelson",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/heres-everything-new-we-learned-about-gta-6-this-week-after-rockstar-revealed-new-details-on-the-animals-activities-and-weather-in-its-sprawling-open-world-sandbox/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-02T16:04:20.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GrtqtSun9vQVcmcsb63nDh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-49d242264066a3",
+      "title": "GTA 6 marketing turns NBA goliath Miami Heat into the Vice City Heat for one game",
+      "excerpt": "Rockstar is going for a three-pointer here",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-power-of-gta-6-marketing-turns-nba-goliath-miami-heat-into-the-vice-city-heat-for-one-game-involving-an-arena-makeover-new-kits-and-naturally-merch/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-02T15:47:18.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3389mzUBT3d6BLYsdfWpWh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "eurogamer-744bc6be6db1f9",
       "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
       "excerpt": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game.",
@@ -123,20 +193,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-1960756b5e9079",
-      "title": "GTA 6's hype will be matched eventually, ex-PlayStation boss says, but it might be up to Rockstar",
-      "excerpt": "Shuhei Yoshida says other companies might try to compete in the gap after GTA 6, too",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hype-and-impact-will-eventually-be-matched-by-another-game-ex-playstation-boss-says-but-it-might-be-up-to-rockstar-to-make-it-after-15-years-maybe-gta-7/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-01T15:11:25.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Zb3Q2uW5q96AnLSCtr2AVA-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-2848e36f2d8466",
