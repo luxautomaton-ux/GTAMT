@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T05:41:23.189Z",
+  "generatedAt": "2026-10-02T14:45:17.373Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "eurogamer-744bc6be6db1f9",
+      "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
+      "excerpt": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game.",
+      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-02T13:59:39.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-sex-scene.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-e52fd087efefff",
+      "title": "GTA 6 age rating suggests a more explicit game than GTA 5, singling out \"sex scenes\"",
+      "excerpt": "The only surprising bit is that GTA 5's rating didn't also say this",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-age-rating-suggests-a-more-explicit-game-than-gta-5-singling-out-sex-scenes-in-a-step-up-from-rockstars-last-installment/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-02T13:36:54.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/vCErqiBEVyrTATaunxpSZS-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-77d1d6568485da",
+      "title": "Kingdom Come: Deliverance 2 lead wants GTA 6 to open the door to charging more for games",
+      "excerpt": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-02T10:34:09.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5SZMxgxPtfdQsuELcPj4hf-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
       "id": "pc-gamer-0a3bb68ddfc20a",
       "title": "Kingdom Come: Deliverance studio co-founder hopes Grand Theft Auto 6 will 'blaze a trail' to higher game prices",
       "excerpt": "Warhorse co-founder Martin Klima says games keep getting more expensive to make, and that money has to come from somewhere.",
@@ -137,20 +179,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "eurogamer-336def2b14e782",
-      "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
-      "excerpt": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight.",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-21T19:23:49.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-jason_9MumaLo.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-0ecfad44093ef8",
