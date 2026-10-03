@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:24:47.934Z",
+  "generatedAt": "2026-10-03T19:14:43.115Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-4e4a82284be3f7",
+      "title": "Rockstar co-founder Dan Houser is avoiding GTA 6 so it doesn't \"distract or disrupt\" his new games",
+      "excerpt": "\"I will try and avoid it\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-co-founder-dan-houser-is-avoiding-gta-6-so-it-doesnt-distract-or-disrupt-his-new-games-including-another-open-world-comedy/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-03T15:23:51.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GrtqtSun9vQVcmcsb63nDh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-6e1b4765415ce1",
       "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
