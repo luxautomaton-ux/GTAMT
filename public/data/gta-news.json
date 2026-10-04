@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T05:57:18.524Z",
+  "generatedAt": "2026-10-04T14:05:49.514Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-9ebc7d0a59f417",
+      "title": "Grand Theft Auto 6 features 'detailed decapitation' and 'frequent and prominent' drug use, according to hastily deleted PEGI rating",
+      "excerpt": "Jason and Lucia can also snort cocaine \"directly from their hand at any time.\"",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-features-detailed-decapitation-and-frequent-and-prominent-drug-use-according-to-hastily-deleted-pegi-rating/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-04T11:49:18.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/rjLFde7bmaQCWqYowbJvaD-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-859db1cfeeb190",
       "title": "GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'",
