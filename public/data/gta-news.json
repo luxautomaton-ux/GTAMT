@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T05:45:05.182Z",
+  "generatedAt": "2026-10-05T17:09:49.604Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,48 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-d834e0a05e1e6f",
+      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
+      "excerpt": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics.",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-05T15:00:30.000Z",
+      "image": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-3313f0d463e441",
+      "title": "The GTA 6 guide to Prime Day: all the deals you need",
+      "excerpt": "There's lots of kit you need to pick up ahead of GTA 6's release, and Prime Day makes them all much cheaper.",
+      "url": "https://www.gamesradar.com/hardware/handhelds/the-gta-6-guide-to-prime-day-every-discounted-tv-controller-headset-and-gadget-you-need-when-you-visit-leonida/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-05T13:48:49.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/gNi7b3NFJeXWUH4z4Q8Sah-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-39f308f4f5d43f",
+      "title": "GTA 6 boss says Rockstar has to \"forego realism\" for the sake of the players",
+      "excerpt": "\"Sometimes it's better to ignore or omit certain aspects of reality,\" says Rob Nelson",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-rockstar-has-to-forego-realism-for-the-sake-of-the-players-realism-can-help-greatly-with-immersion-but-too-much-can-feel-tedious/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-05T11:08:15.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/E5jRb2PaMaHuDU2KkdoUi8-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-008b723949be4b",
       "title": "Former GTA lead says \"there's no greater compliment\" than being compared to his Rockstar classics",
@@ -153,20 +195,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-dbca651ac8ef26",
-      "title": "GTA 6 has \"detailed decapitation\" and cocaine can be \"snorted directly,\" says UK ratings board",
-      "excerpt": "Surprise, GTA 6 is for \"adults only\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-has-detailed-decapitation-and-cocaine-can-be-snorted-directly-from-your-hand-says-uk-ratings-board/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-02T18:06:14.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-bfa5bd214f660a",
       "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
       "excerpt": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal.",
@@ -181,34 +209,6 @@
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
-      "id": "gamesradar-ab51ab72197288",
-      "title": "Here's everything new we learned about GTA 6 this week | GTA 6 O'clock",
-      "excerpt": "On this week’s GTA 6 O’clock, James Jarvis and Dan Dawkins break down a huge batch of new GTA 6 details, including fresh information from Rob Nelson",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/heres-everything-new-we-learned-about-gta-6-this-week-after-rockstar-revealed-new-details-on-the-animals-activities-and-weather-in-its-sprawling-open-world-sandbox/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-02T16:04:20.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GrtqtSun9vQVcmcsb63nDh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-49d242264066a3",
-      "title": "GTA 6 marketing turns NBA goliath Miami Heat into the Vice City Heat for one game",
-      "excerpt": "Rockstar is going for a three-pointer here",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-power-of-gta-6-marketing-turns-nba-goliath-miami-heat-into-the-vice-city-heat-for-one-game-involving-an-arena-makeover-new-kits-and-naturally-merch/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-02T15:47:18.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3389mzUBT3d6BLYsdfWpWh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-744bc6be6db1f9",
       "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
       "excerpt": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game.",
@@ -221,34 +221,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-e52fd087efefff",
-      "title": "GTA 6 age rating suggests a more explicit game than GTA 5, singling out \"sex scenes\"",
-      "excerpt": "The only surprising bit is that GTA 5's rating didn't also say this",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-age-rating-suggests-a-more-explicit-game-than-gta-5-singling-out-sex-scenes-in-a-step-up-from-rockstars-last-installment/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-02T13:36:54.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/vCErqiBEVyrTATaunxpSZS-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-77d1d6568485da",
-      "title": "Kingdom Come: Deliverance 2 lead wants GTA 6 to open the door to charging more for games",
-      "excerpt": "Martin Klíma says Rockstar is the only developer \"who can afford, or who can dare, to increase the price of games\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/kingdom-come-deliverance-2-lead-wants-gta-6-to-open-the-door-to-charging-more-for-games-even-though-the-popularity-of-rockstars-series-beats-me/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-02T10:34:09.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/5SZMxgxPtfdQsuELcPj4hf-1920-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "eurogamer-2848e36f2d8466",
@@ -277,20 +249,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-ab472aca294e72",
-      "title": "Rockstar reveals a £350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
-      "excerpt": "Rockstar Games has announced a limited Goodtime State Vice City collection of goodies for Grand Theft Auto 6 that's ludicrously expensive - £349 - doesn't include a copy of the game, and is pre-orderable now.",
-      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-09-24T16:20:44.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-collectors-box.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "take-two-ir-0ecfad44093ef8",
