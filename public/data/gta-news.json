@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T15:13:49.879Z",
+  "generatedAt": "2026-10-06T21:00:08.955Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-b9b156a2233d12",
+      "title": "PlayStation Store credit deal brings GTA 6's $100 Ultimate Edition down to normal game price",
+      "excerpt": "PlayStation Store gift cards are available at a rare discount",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/for-5-days-this-playstation-store-credit-deal-brings-gta-6s-usd100-ultimate-edition-down-to-the-price-of-a-normal-game/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-06T16:22:01.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/So6M7rVj8Ke8Xy5nSadTe8-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
     {
       "id": "gamesradar-c03c2431c50833",
       "title": "I'm building the ultimate GTA 6 setup this Prime Day, these are the gadgets in my cart",
