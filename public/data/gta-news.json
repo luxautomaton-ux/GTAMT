@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T06:24:24.107Z",
+  "generatedAt": "2026-10-06T15:13:49.879Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-c03c2431c50833",
+      "title": "I'm building the ultimate GTA 6 setup this Prime Day, these are the gadgets in my cart",
+      "excerpt": "Get GTA 6 ready for less this Prime Day, here's everything I've found to upgrade your setup.",
+      "url": "https://www.gamesradar.com/hardware/news/live/prime-day-gta-6-ultimate-setup-oct-26/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-06T13:32:28.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sHC6ayTTNhWznYnQ4m3q9m-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-d872354220b301",
+      "title": "As GTA 6 battles Zelda: Ocarina of Time, expert says Nintendo is \"the only company\" that could try",
+      "excerpt": "And the reaction from fans \"tells you how this ends\" already, he suggests",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-faces-off-against-zelda-ocarina-of-time-remake-expert-says-nintendo-is-the-only-company-in-the-industry-with-a-fanbase-loyal-enough-to-make-that-bet-against-rockstar/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-06T10:14:46.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/RKBdrVy7naGiR7BnKBssQM-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-84a8666b386aef",
       "title": "GTA 6 story lead says Rockstar didn't want to make a \"statement\" with Jason's ex-military background",
       "excerpt": "A lot of Jason's actions are the result of his \"material circumstances,\" says Rupert Humphries",
@@ -120,48 +148,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-05T15:00:30.000Z",
       "image": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-3313f0d463e441",
-      "title": "The GTA 6 guide to Prime Day: all the deals you need",
-      "excerpt": "There's lots of kit you need to pick up ahead of GTA 6's release, and Prime Day makes them all much cheaper.",
-      "url": "https://www.gamesradar.com/hardware/handhelds/the-gta-6-guide-to-prime-day-every-discounted-tv-controller-headset-and-gadget-you-need-when-you-visit-leonida/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-05T13:48:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/gNi7b3NFJeXWUH4z4Q8Sah-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-39f308f4f5d43f",
-      "title": "GTA 6 boss says Rockstar has to \"forego realism\" for the sake of the players",
-      "excerpt": "\"Sometimes it's better to ignore or omit certain aspects of reality,\" says Rob Nelson",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-rockstar-has-to-forego-realism-for-the-sake-of-the-players-realism-can-help-greatly-with-immersion-but-too-much-can-feel-tedious/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-05T11:08:15.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/E5jRb2PaMaHuDU2KkdoUi8-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-008b723949be4b",
-      "title": "Former GTA lead says \"there's no greater compliment\" than being compared to his Rockstar classics",
-      "excerpt": "\"The work is the creative work, not what the market thinks of it\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-gta-lead-says-theres-no-greater-compliment-than-being-compared-to-his-rockstar-classics-but-he-hopes-his-new-game-is-successful-in-its-own-right/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-04T16:09:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6wkBw7S8q9nKY7VCzXrD3L-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
