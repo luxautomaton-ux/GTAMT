@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:03:36.090Z",
+  "generatedAt": "2026-10-07T15:34:21.438Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "gamesradar-9ef4e3921df87b",
+      "title": "With sex in GTA 6, studio boss suggests Rockstar doesn't want another Hot Coffee moment",
+      "excerpt": "Rob Nelson says Rockstar doesn't \"want to be so bad\" at portraying intimacy",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-sex-in-gta-6-studio-boss-suggests-rockstar-doesnt-want-another-hot-coffee-moment-it-has-to-be-done-right/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-07T15:11:49.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/FtSFM6ZTeAWm4GLqALyGN8-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-fba7518e4409a3",
+      "title": "GTA 6 won't be playable on PC via Xbox Cloud Gaming, exec clarifies",
+      "excerpt": "Perhaps Amazon or Nvidia will have PC players covered",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/no-gta-6-wont-be-playable-on-pc-via-xbox-cloud-gaming-and-microsoft-doesnt-have-exclusive-streaming-rights-either-exec-clarifies/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-07T10:37:26.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/32mczaj3AHQNe5gNzvts2n-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-29a6024a8b0ad4",
+      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
+      "excerpt": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6. The initial suggestion came from a report on The Verge, which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do ",
+      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-07T08:31:39.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-ultimate-edition-car-collection-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "the-verge-games-bfff37235639ee",
       "title": "Xbox has secured GTA 6 streaming rights",
       "excerpt": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's br",
@@ -109,34 +151,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-c03c2431c50833",
-      "title": "I'm building the ultimate GTA 6 setup this Prime Day, these are the gadgets in my cart",
-      "excerpt": "Get GTA 6 ready for less this Prime Day, here's everything I've found to upgrade your setup.",
-      "url": "https://www.gamesradar.com/hardware/news/live/prime-day-gta-6-ultimate-setup-oct-26/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-06T13:32:28.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sHC6ayTTNhWznYnQ4m3q9m-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-d872354220b301",
-      "title": "As GTA 6 battles Zelda: Ocarina of Time, expert says Nintendo is \"the only company\" that could try",
-      "excerpt": "And the reaction from fans \"tells you how this ends\" already, he suggests",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-faces-off-against-zelda-ocarina-of-time-remake-expert-says-nintendo-is-the-only-company-in-the-industry-with-a-fanbase-loyal-enough-to-make-that-bet-against-rockstar/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-06T10:14:46.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/RKBdrVy7naGiR7BnKBssQM-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-d4bc0ac6189e09",
