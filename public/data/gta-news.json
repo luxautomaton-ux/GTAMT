@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T15:34:21.438Z",
+  "generatedAt": "2026-10-07T21:19:29.970Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "gamesradar-45dc3c3b1eb0bf",
+      "title": "GTA 6 boss says \"we have made money matter more in this story\" than previous Grand Theft Auto games",
+      "excerpt": "Rob Nelson mentions that you'll \"need to make money to advance the mission flow\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-we-have-made-money-matter-more-in-this-story-than-in-previous-grand-theft-auto-games/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-07T16:25:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oFV96Lzam6D6cjSoxVEn9h-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-ddf5cc204473b6",
+      "title": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
+      "excerpt": "A report that GTA 6 would be streamable on PC turned out to be a bit off the mark.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-07T16:05:02.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BMnB7YBg5GGG7phGyXkC5a-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-96b76226598519",
+      "title": "Sony's digital future is good due to \"convenience\" and games like GTA 6 being \"too big,\" dev says",
+      "excerpt": "\"It's important to make that shift\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rpg-creator-says-sonys-all-digital-future-is-good-for-devs-as-discs-cant-win-in-terms-of-convenience-and-games-like-gta-6-are-too-big-for-them-anyway/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-07T16:03:46.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5oRDgNtSE6J8pAuFK7fgXj-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-9ef4e3921df87b",
       "title": "With sex in GTA 6, studio boss suggests Rockstar doesn't want another Hot Coffee moment",
       "excerpt": "Rob Nelson says Rockstar doesn't \"want to be so bad\" at portraying intimacy",
@@ -123,34 +165,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-9b19fafd6182a1",
-      "title": "Long before GTA 6, Rockstar turned a Clair Obscur Expedition 33-sized budget into $600 million",
-      "excerpt": "Grand Theft Auto's Hot Coffee controversy impacted its sales, too",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-san-andreas-show-how-much-game-development-has-changed-in-the-00s-rockstar-turned-a-clair-obscur-expedition-33-sized-budget-into-usd600-million/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-06T21:15:27.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/sbR7qtWWX9rqKLvvUPyTEe-1920-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-b9b156a2233d12",
-      "title": "PlayStation Store credit deal brings GTA 6's $100 Ultimate Edition down to normal game price",
-      "excerpt": "PlayStation Store gift cards are available at a rare discount",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/for-5-days-this-playstation-store-credit-deal-brings-gta-6s-usd100-ultimate-edition-down-to-the-price-of-a-normal-game/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-06T16:22:01.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/So6M7rVj8Ke8Xy5nSadTe8-1920-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "eurogamer-d4bc0ac6189e09",
