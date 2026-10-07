@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T21:00:08.955Z",
+  "generatedAt": "2026-10-07T06:03:36.090Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "the-verge-games-bfff37235639ee",
+      "title": "Xbox has secured GTA 6 streaming rights",
+      "excerpt": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, Sharma's br",
+      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-06T22:12:27.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-9b19fafd6182a1",
+      "title": "Long before GTA 6, Rockstar turned a Clair Obscur Expedition 33-sized budget into $600 million",
+      "excerpt": "Grand Theft Auto's Hot Coffee controversy impacted its sales, too",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-san-andreas-show-how-much-game-development-has-changed-in-the-00s-rockstar-turned-a-clair-obscur-expedition-33-sized-budget-into-usd600-million/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-06T21:15:27.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/sbR7qtWWX9rqKLvvUPyTEe-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
       "id": "gamesradar-b9b156a2233d12",
       "title": "PlayStation Store credit deal brings GTA 6's $100 Ultimate Edition down to normal game price",
       "excerpt": "PlayStation Store gift cards are available at a rare discount",
@@ -106,20 +134,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-06T10:14:46.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/RKBdrVy7naGiR7BnKBssQM-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-84a8666b386aef",
-      "title": "GTA 6 story lead says Rockstar didn't want to make a \"statement\" with Jason's ex-military background",
-      "excerpt": "A lot of Jason's actions are the result of his \"material circumstances,\" says Rupert Humphries",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-story-lead-insists-rockstar-didnt-want-to-make-any-kind-of-statement-with-jasons-ex-military-background/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-05T21:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/L9JfY29u9s5z4EXMi2EqZ8-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -190,20 +204,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-04T03:14:41.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/AV9xeCqDkbCQb7FV7dRQYf-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-6e1b4765415ce1",
-      "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
-      "excerpt": "I don't even know ball but I feel like I'm losing my mind.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-02T22:49:09.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/x9WxffqAGXQjoMyQAKu8oL-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
