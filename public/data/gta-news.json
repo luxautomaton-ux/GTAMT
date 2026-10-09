@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T15:19:14.798Z",
+  "generatedAt": "2026-10-09T20:56:21.476Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,76 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-c5758eff028c24",
+      "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
+      "excerpt": "PS5 and Xbox Series X/S consoles are more expensive than ever in most markets, thanks largely to memory components being gobbled up by AI data centres. Now, analyst Mat Piscatella worries the console market, at least in the US, hasn't looked this dire since th",
+      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-09T18:51:26.000Z",
+      "image": "https://assetsio.gnwcdn.com/PS5-ram.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-1305e495f45935",
+      "title": "US console market hasn't been this bad \"since the early 80s,\" analyst says",
+      "excerpt": "And even GTA 6 might not be able to save it",
+      "url": "https://www.gamesradar.com/hardware/us-console-market-hasnt-been-in-a-more-precarious-position-since-the-early-80s-analyst-says-as-ps5-and-xbox-series-x-price-soar-to-all-time-highs/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-09T18:19:28.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/nbTYAFyNBRXLhqigMfPpv5-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-f50a2cf78d08b1",
+      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
+      "excerpt": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord memb",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-09T16:41:02.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-60477527d378bb",
+      "title": "GTA 6 Wanted Levels and Heat system explained",
+      "excerpt": "Wanted Levels in GTA 6 go up to six stars and reflect different statuses, while Heat icons indicate what information the cops have",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-09T16:16:58.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-8695b2407db406",
+      "title": "GTA 6 shows Jason nude, and fans are wondering if Rockstar will go full Red Dead Redemption 2",
+      "excerpt": "All things are possible",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-shows-jason-nude-and-fans-are-wondering-if-rockstar-will-go-full-red-dead-redemption-2-those-horse-balls-physics-gotta-go-somewhere/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-09T15:48:50.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-a2c31a2d32e22d",
       "title": "Jason may or may not appear fully nude in GTA 6, but either way we've now seen his dong",
@@ -148,20 +218,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-07T22:41:23.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/fXXhhLVg2y2Ut8Z6x6HzH6-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-ddf5cc204473b6",
-      "title": "For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party",
-      "excerpt": "A report that GTA 6 would be streamable on PC turned out to be a bit off the mark.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-07T16:05:02.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BMnB7YBg5GGG7phGyXkC5a-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
