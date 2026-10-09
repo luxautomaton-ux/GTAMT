@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:12:26.950Z",
+  "generatedAt": "2026-10-09T15:19:14.798Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -92,20 +92,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-08T15:07:42.000Z",
       "image": "https://assetsio.gnwcdn.com/lucia-gta-6-headphones.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-6c7f2fa67c8b68",
-      "title": "GTA 6 radio stations revealed alongside a series first: in-game podcasts",
-      "excerpt": "At last, Loretta Lynn, Pantera, and Charli XCX are all in the same game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-08T15:05:11.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/rBaUR4AoTLWh6KK3oMo8ud-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
