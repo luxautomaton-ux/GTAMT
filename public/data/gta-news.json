@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T05:55:51.179Z",
+  "generatedAt": "2026-10-10T14:29:03.647Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-83999fa8afddc8",
+      "title": "Former Last of Us dev says \"the idea of a monolithic GTA 6\" or Elder Scrolls 6 is \"intimidating\"",
+      "excerpt": "\"Even The Last of Us 2, I thought, was so long\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-last-of-us-and-uncharted-4-dev-says-the-idea-of-a-monolithic-gta-6-or-elder-scrolls-6-is-intimidating-wants-more-short-games-instead/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-10T13:11:49.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/y5ptEuDQcPNJEokrGwvScg-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "eurogamer-c5758eff028c24",
       "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
@@ -207,20 +221,6 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "pc-gamer-9fc7bbffea4399",
-      "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
-      "excerpt": "GTA is mainstream now, but the fiery activist who raged against violent videogames in the early 2000s has not softened.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-07T22:41:23.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fXXhhLVg2y2Ut8Z6x6HzH6-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-29a6024a8b0ad4",
