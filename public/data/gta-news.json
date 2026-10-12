@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T06:02:00.139Z",
+  "generatedAt": "2026-10-12T17:57:45.559Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "gamesradar-a03b5df36637e3",
+      "title": "SNL's Zelda Ocarina of Time vs GTA 6 sketch likely went down fine at Nintendo say ex-marketing leads",
+      "excerpt": "That's not to say the company would have loved everything about it, though",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/snls-viral-zelda-ocarina-of-time-vs-gta-6-sketch-probably-went-down-fine-at-nintendo-former-marketing-leads-say-even-if-it-framed-link-as-being-for-nerds/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-12T17:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/LCe9M5N325rhxv2UAq5D29-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-b16c4d6628ac18",
+      "title": "\"So f****** peak\" - Fan who made incredible Lego GTA 6 set is at it again with the perfect PlayStation diorama",
+      "excerpt": "This Lego PlayStation fan upgrade is good I wish it was the official version",
+      "url": "https://www.gamesradar.com/toys-collectibles/so-f-peak-fan-who-made-incredible-lego-gta-6-set-is-at-it-again-with-the-perfect-playstation-diorama/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-12T11:41:56.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/KQLufxGu8jPhG4cGZyXv5Q-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-203cb0feab5eda",
+      "title": "Despite new GTA 6 leaks, Cyberleek's cryptocurrency remains over $20 million short of goal",
+      "excerpt": "The leaker threatened to release it \"played to the end\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/despite-new-gta-6-leaks-cyberleeks-cryptocurrency-remains-over-usd20-million-short-of-its-goal-amid-threats-to-release-rockstars-next-game-early/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-12T10:27:22.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/38dFMrtxrziEumiDGTPJ97-1920-80.png",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
       "id": "gamesradar-5c9ad51cccf197",
       "title": "Rockstar has a whole team of GTA 6 writers for to pedestrian dialogue: \"There are no shortcuts\"",
       "excerpt": "\"No one you meet is an extra\"",
@@ -85,7 +127,7 @@
     {
       "id": "eurogamer-d1ca15231623f0",
       "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
-      "excerpt": "GTA 6 leaker CyberLeek is back with another video, this time with a naked Lucia taking a parachute jump off a rooftop.",
+      "excerpt": "UPDATE 12TH OCTOBER: More naked footage of Lucia in Grand Theft Auto 6 has been posted. The video, which we won't link to, shows Lucia completely naked standing in the street. There are crass camera angles, wobbly buttocks, and the Cyberleek logo is overlaid o",
       "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-naked-lucia-parachute-video",
       "source": "Eurogamer",
       "sourceUrl": "https://www.eurogamer.net",
@@ -139,20 +181,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "gamesradar-83999fa8afddc8",
-      "title": "Former Last of Us dev says \"the idea of a monolithic GTA 6\" or Elder Scrolls 6 is \"intimidating\"",
-      "excerpt": "\"Even The Last of Us 2, I thought, was so long\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-last-of-us-and-uncharted-4-dev-says-the-idea-of-a-monolithic-gta-6-or-elder-scrolls-6-is-intimidating-wants-more-short-games-instead/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-10T13:11:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/y5ptEuDQcPNJEokrGwvScg-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-c5758eff028c24",
       "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
       "excerpt": "PS5 and Xbox Series X/S consoles are more expensive than ever in most markets, thanks largely to memory components being gobbled up by AI data centres. Now, analyst Mat Piscatella worries the console market, at least in the US, hasn't looked this dire since th",
@@ -167,20 +195,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-1305e495f45935",
-      "title": "US console market hasn't been this bad \"since the early 80s,\" analyst says",
-      "excerpt": "And even GTA 6 might not be able to save it",
-      "url": "https://www.gamesradar.com/hardware/us-console-market-hasnt-been-in-a-more-precarious-position-since-the-early-80s-analyst-says-as-ps5-and-xbox-series-x-price-soar-to-all-time-highs/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-09T18:19:28.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/nbTYAFyNBRXLhqigMfPpv5-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-f50a2cf78d08b1",
       "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
       "excerpt": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord memb",
@@ -190,34 +204,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-09T16:41:02.000Z",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-60477527d378bb",
-      "title": "GTA 6 Wanted Levels and Heat system explained",
-      "excerpt": "Wanted Levels in GTA 6 go up to six stars and reflect different statuses, while Heat icons indicate what information the cops have",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-levels-heat/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-09T16:16:58.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-8695b2407db406",
-      "title": "GTA 6 shows Jason nude, and fans are wondering if Rockstar will go full Red Dead Redemption 2",
-      "excerpt": "All things are possible",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-shows-jason-nude-and-fans-are-wondering-if-rockstar-will-go-full-red-dead-redemption-2-those-horse-balls-physics-gotta-go-somewhere/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-09T15:48:50.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
