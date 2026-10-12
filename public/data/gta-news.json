@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T20:19:30.449Z",
+  "generatedAt": "2026-10-12T06:02:00.139Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -218,20 +218,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-09T15:48:50.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-a2c31a2d32e22d",
-      "title": "Jason may or may not appear fully nude in GTA 6, but either way we've now seen his dong",
-      "excerpt": "Cyberleek's back, this time with nude Jason riding a dirt bike.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/jason-may-or-may-not-appear-fully-nude-in-gta-6-but-either-way-weve-now-seen-his-dong/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-08T20:12:16.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/wAQbKw8yFQnKuSGffo7Pdh-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -456,6 +442,20 @@
       "sourceType": "official",
       "publishedAt": "2026-05-11T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-9953c6e1de7c35",
+      "title": "Take-Two Interactive Software, Inc. to Report Fourth Quarter and Fiscal Year 2026 Results on Thursday, May 21, 2026",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Apr. 23, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its fourth quarter and fiscal year 2026, ended March 31, 2026, after the market close on Thursday, May ",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-fourth-quarter-and-19",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-04-23T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
