@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:01:36.789Z",
+  "generatedAt": "2026-10-13T21:17:05.634Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-fa8067a5c056ad",
+      "title": "Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high",
+      "excerpt": "If the rumored release window is accurate, it means the new GTA will hit PC just a few months after consoles—something almost unheard of from Rockstar.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-13T18:07:30.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/ehhtJ4zjCNwxiraXX986nD-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-809e8fe2c6d46a",
+      "title": "Rockstar didn't expect so many Red Dead Redemption players to be \"livid\" over the ending",
+      "excerpt": "It was a mechanical challenge for several reasons",
+      "url": "https://www.gamesradar.com/games/red-dead/rockstar-didnt-expect-so-many-red-dead-redemption-players-to-be-livid-over-the-ending-co-founder-says-he-wanted-the-same-twist-in-several-grand-theft-auto-games/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-13T16:30:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/3vcMF5Qqyykk6VbNpvyZMC-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "eurogamer-eff8c8b7ada3bf",
       "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
@@ -139,34 +167,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-23209b38a04ce4",
-      "title": "Ahead of GTA 6, Rockstar narrative lead says the American Dream is \"more modest now\" but still \"out of reach\"",
-      "excerpt": "\"It's a house for your family and your loans are paid off instead of wild success\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-narrative-lead-says-the-american-dream-previous-grand-theft-auto-games-were-critical-of-is-more-modest-now-but-still-out-of-reach-for-the-average-person/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-12T19:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/osjJbDJU3hizuNLChNig4J-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-a03b5df36637e3",
-      "title": "SNL's Zelda Ocarina of Time vs GTA 6 sketch likely went down fine at Nintendo say ex-marketing leads",
-      "excerpt": "That's not to say the company would have loved everything about it, though",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/snls-viral-zelda-ocarina-of-time-vs-gta-6-sketch-probably-went-down-fine-at-nintendo-former-marketing-leads-say-even-if-it-framed-link-as-being-for-nerds/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-12T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LCe9M5N325rhxv2UAq5D29-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-d1ca15231623f0",
       "title": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
       "excerpt": "UPDATE 12TH OCTOBER: More naked footage of Lucia in Grand Theft Auto 6 has been posted. The video, which we won't link to, shows Lucia completely naked standing in the street. There are crass camera angles, wobbly buttocks, and the Cyberleek logo is overlaid o",
@@ -176,20 +176,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-11T12:27:09.000Z",
       "image": "https://assetsio.gnwcdn.com/lucia-gta-6-car.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "pc-gamer-c482e9a0306d0b",
-      "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
-      "excerpt": "\"Take-Two gets one way out: physical disks and a public apology.\"",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-10T23:32:29.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fKFHSxwg2x8dXuq8dUfMKh-1920-80.png",
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
@@ -246,20 +232,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-08T15:07:42.000Z",
       "image": "https://assetsio.gnwcdn.com/lucia-gta-6-headphones.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "the-verge-games-d0dbe8fe454f20",
-      "title": "GTA VI will have in-game podcasts and at least six radio stations",
-      "excerpt": "Music is always a major part of a Grand Theft Auto game, and Rockstar Games says GTA VI will have the series' \"biggest and widest-ranging selection of in-game radio yet.\" There will be at least six radio stations players can listen to in vehicles or on foot, r",
-      "url": "https://www.theverge.com/games/1007965/gta-6-music-radio-stations-podcasts",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-08T14:52:33.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.29.45-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
