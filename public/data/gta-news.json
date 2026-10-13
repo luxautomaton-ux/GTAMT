@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:57:45.559Z",
+  "generatedAt": "2026-10-13T06:48:56.027Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-23209b38a04ce4",
+      "title": "Ahead of GTA 6, Rockstar narrative lead says the American Dream is \"more modest now\" but still \"out of reach\"",
+      "excerpt": "\"It's a house for your family and your loans are paid off instead of wild success\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-narrative-lead-says-the-american-dream-previous-grand-theft-auto-games-were-critical-of-is-more-modest-now-but-still-out-of-reach-for-the-average-person/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-12T19:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/osjJbDJU3hizuNLChNig4J-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-a03b5df36637e3",
       "title": "SNL's Zelda Ocarina of Time vs GTA 6 sketch likely went down fine at Nintendo say ex-marketing leads",
@@ -319,20 +333,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "eurogamer-744bc6be6db1f9",
-      "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
-      "excerpt": "Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are \"sex scenes\" in the game.",
-      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-02T13:59:39.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-sex-scene.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-0ecfad44093ef8",
