@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T13:45:00.200Z",
+  "generatedAt": "2026-10-14T20:12:41.910Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,76 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-3e78dff11a15a8",
+      "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
+      "excerpt": "Cyberleek promises not to reveal the ending of GTA 6, as long as Take-Two leaves them alone.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-14T18:36:16.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tyqmjkGus5BdAHKYoPzkw8-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-19b5ed164e0b0c",
+      "title": "GTA 6 has a realistic sweat system that makes Jason and Lucia perspire based on how hard they dance",
+      "excerpt": "Sweat it out",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-14T17:30:45.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zUQBmENHDXBKMyzonNoPrm-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-b5dc05c1191799",
+      "title": "First big GTA 6 leak was like having someone \"wading through your dirty washing,\" says Rockstar dev",
+      "excerpt": "\"It's really weirdly invasive\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-first-major-leak-was-like-having-someone-wading-through-your-dirty-washing-says-rockstar-lead-its-like-theyre-inside-your-head/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-14T16:26:10.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/P29wAChwKZsUVcgS2w7mTh-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-8fd54c5eedcc5b",
+      "title": "Rockstar still won't reveal cost of GTA 6 development, but it's definitely not previously rumored $1.5 billion",
+      "excerpt": "I'd wager it's not far off though",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-still-wont-reveal-the-cost-of-gta-6-development-but-its-definitely-not-the-previously-rumored-usd1-5-billion/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-14T15:23:04.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/2pSZdE6TKY4gEz9haAKNMo-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-43a5c76bd5d8cb",
+      "title": "Rockstar wins without doing anything as GTA 6 leaker Cyberleek retreats after meme coin crashes",
+      "excerpt": "Grand Theft Auto leak farce comes to an end once again",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wins-without-doing-anything-as-cyberleek-retreats-after-meme-coin-crashes-gta-6-leaker-says-the-leeks-stop-here-as-if-the-games-not-out-in-a-month/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-14T15:00:39.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/8HVY82p94GattzUZzhLVqg-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
     {
       "id": "the-verge-games-1d4f89c7842ce9",
       "title": "We might not have to wait 13 years for the next GTA",
@@ -237,20 +307,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "gamesradar-809e8fe2c6d46a",
-      "title": "Rockstar didn't expect so many Red Dead Redemption players to be \"livid\" over the ending",
-      "excerpt": "It was a mechanical challenge for several reasons",
-      "url": "https://www.gamesradar.com/games/red-dead/rockstar-didnt-expect-so-many-red-dead-redemption-players-to-be-livid-over-the-ending-co-founder-says-he-wanted-the-same-twist-in-several-grand-theft-auto-games/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-13T16:30:08.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3vcMF5Qqyykk6VbNpvyZMC-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-eff8c8b7ada3bf",
       "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy",
       "excerpt": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time remake, a pair of former Nintendo employees have recalled a more infamous SNL sketch from years ear",
@@ -403,62 +459,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-d834e0a05e1e6f",
-      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
-      "excerpt": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics.",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-05T15:00:30.000Z",
-      "image": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "take-two-ir-0ecfad44093ef8",
-      "title": "Take-Two Interactive to Host Webcast of 2026 Annual Meeting of Stockholders",
-      "excerpt": "NEW YORK --(BUSINESS WIRE)--Sep. 10, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that the Company will host a webcast of its 2026 Annual Meeting of Stockholders which is being held as a virtual, audio-only meeting hosted online at",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-host-webcast-2026-annual-meeting",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "take-two-ir-fb467d2bbb6ce9",
-      "title": "Zynga Poker Taps Keegan-Michael Key To Bring Out Your ‘Inner Winner’",
-      "excerpt": "Emmy-winner headlines new series of spots directed by Jody Hill; will debut as official in-game host for new ‘Poker Dash’ feature coming soon SAN MATEO, Calif. --(BUSINESS WIRE)--Sep. 1, 2026-- Zynga Inc., a wholly-owned publishing label of Take-Two Interactiv",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/zynga-poker-taps-keegan-michael-key-bring-out-your-inner-winner",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "take-two-ir-3f77fc2208848d",
-      "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027",
-      "excerpt": "Fiscal first quarter Net Bookings were $1.39 billion, slightly above Company's guidance range Company updates fiscal year 2027 outlook and reiterates expectation for Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--Aug. 7, 2026-- Take-Two Inter",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fiscal-first-6",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-08-07T11:30:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
     }
   ],
   "videos": [
