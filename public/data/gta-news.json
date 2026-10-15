@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:12:41.910Z",
+  "generatedAt": "2026-10-15T04:43:19.220Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-3f2fe3b10cc359",
+      "title": "After avoiding GTA 5 for 13 years, Trevor actor says he's excited for GTA 6 and might even stream it",
+      "excerpt": "Steven Ogg is coming home",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-avoiding-gta-5-for-13-years-trevor-actor-says-hes-excited-for-gta-6-and-might-even-stream-it/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-15T00:15:37.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/6wkBw7S8q9nKY7VCzXrD3L-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-3e78dff11a15a8",
       "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
@@ -442,20 +456,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-07T08:31:39.000Z",
       "image": "https://assetsio.gnwcdn.com/gta-6-ultimate-edition-car-collection-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-d4bc0ac6189e09",
-      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
-      "excerpt": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Inst",
-      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-05T20:14:26.000Z",
-      "image": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
