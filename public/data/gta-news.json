@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T04:34:55.247Z",
+  "generatedAt": "2026-10-16T13:16:47.686Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "gamesradar-27ae63e319714d",
+      "title": "GTA 6 is still undergoing changes despite releasing next month, Rockstar boss says",
+      "excerpt": "There are a lot of moving parts",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-still-undergoing-changes-despite-releasing-next-month-rockstar-boss-says-the-game-is-never-completely-settled/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-16T10:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/aam2kHqNJ4Q5vbajEdYPcf-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-43be491c59e205",
       "title": "Zelda doesn't rate against GTA 6 and COD as the \"biggest games of the year,\" Activision exec says",
       "excerpt": "\"No offense to Zelda\"",
@@ -95,20 +109,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-e522098e2b43ec",
-      "title": "GTA 6 will be eligible for 2026 GOTY at The Game Awards, but Rockstar is barely beating the buzzer",
-      "excerpt": "Getting in just before the deadline",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-be-eligible-for-2026-goty-at-the-game-awards-but-rockstar-is-barely-beating-the-buzzer/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-15T15:20:54.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "the-verge-games-ac02a9261bc2cb",
@@ -153,20 +153,6 @@
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
     },
     {
-      "id": "gamesradar-5587c4f991a13f",
-      "title": "GTA 6 launch trailer shows a more intimate Jason and Lucia as fans struggle to believe it's real",
-      "excerpt": "New Grand Theft Auto 6 launch trailer really makes it feel real – we made it",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-launch-trailer/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-15T13:23:46.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ndx9Po2DyeMQk2zv6KgM6B-1920-80.jpg",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
       "id": "the-verge-games-f45b6ad95ca393",
       "title": "GTA VI’s new trailer gives you one more look at Vice City",
       "excerpt": "The day is almost here, as Grand Theft Auto VI is just about a month away from finally coming out. But before that there's still one more look from Rockstar Games, which just put out a brief \"launch\" trailer for the game. It doesn't reveal much new, but the 90",
@@ -179,20 +165,6 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "gamesradar-3f2fe3b10cc359",
-      "title": "After avoiding GTA 5 for 13 years, Trevor actor says he's excited for GTA 6 and might even stream it",
-      "excerpt": "Steven Ogg is coming home",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-avoiding-gta-5-for-13-years-trevor-actor-says-hes-excited-for-gta-6-and-might-even-stream-it/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-15T00:15:37.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/6wkBw7S8q9nKY7VCzXrD3L-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "pc-gamer-3e78dff11a15a8",
@@ -419,20 +391,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "eurogamer-29a6024a8b0ad4",
-      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
-      "excerpt": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6. The initial suggestion came from a report on The Verge, which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do ",
-      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-07T08:31:39.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-ultimate-edition-car-collection-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "take-two-ir-0ecfad44093ef8",
       "title": "Take-Two Interactive to Host Webcast of 2026 Annual Meeting of Stockholders",
       "excerpt": "NEW YORK --(BUSINESS WIRE)--Sep. 10, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that the Company will host a webcast of its 2026 Annual Meeting of Stockholders which is being held as a virtual, audio-only meeting hosted online at",
@@ -456,6 +414,48 @@
       "sourceType": "official",
       "publishedAt": "2026-09-01T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-3f77fc2208848d",
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027",
+      "excerpt": "Fiscal first quarter Net Bookings were $1.39 billion, slightly above Company's guidance range Company updates fiscal year 2027 outlook and reiterates expectation for Net Bookings of $8.0 to $8.2 billion NEW YORK --(BUSINESS WIRE)--Aug. 7, 2026-- Take-Two Inter",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-08-07T11:30:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-85d0d2e46f7274",
+      "title": "Take-Two Interactive Software, Inc. to Report First Quarter Fiscal Year 2027 Results on Friday, August 7, 2026",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Jul. 9, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its first quarter of fiscal year 2027, ended June 30, 2026, before the market open on Friday, August 7, ",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-first-quarter-fiscal-7",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-07-09T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-cafa150aefdb95",
+      "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI",
+      "excerpt": "Starting at Midnight Local Time on June 25, 2026 NEW YORK --(BUSINESS WIRE)--Jun. 24, 2026-- Rockstar Games ®, a publishing label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO), is excited to announce that pre-orders for Grand Theft Auto VI will begin o",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-06-24T10:15:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
