@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:53:55.337Z",
+  "generatedAt": "2026-10-16T04:34:55.247Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -207,48 +207,6 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-19b5ed164e0b0c",
-      "title": "GTA 6 has a realistic sweat system that makes Jason and Lucia perspire based on how hard they dance",
-      "excerpt": "Sweat it out",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-if-you-needed-another-reminder-of-why-gta-6-took-so-long-it-has-a-realistic-sweat-system-that-makes-jason-and-lucia-perspire-based-on-how-hard-they-dance/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-14T17:30:45.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/zUQBmENHDXBKMyzonNoPrm-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "the-verge-games-1d4f89c7842ce9",
-      "title": "We might not have to wait 13 years for the next GTA",
-      "excerpt": "Rockstar Games might not keep fans waiting as long for the next installment of Grand Theft Auto. As part of Bloomberg's expansive report on the making of GTA VI, Rockstar technical lead Phil Hooker said that the \"engine, the tools and the team we've built duri",
-      "url": "https://www.theverge.com/games/1011028/next-gta-faster-development",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-14T13:42:29.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jason_Duval_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-af259b1f9bdc4c",
-      "title": "GTA 6 was delayed partially because the amount of NPCs was 'horrifying' and required a dedicated studio full of writers to handle",
-      "excerpt": "\"We [could have] hit that schedule, but it won’t be the game we want to make.\"",
-      "url": "https://www.pcgamer.com/games/action/gta-6-was-delayed-partially-because-the-amount-of-npcs-was-horrifying-and-required-a-dedicated-studio-full-of-writers-to-handle/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-14T13:23:57.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/KAVCkMQ6m9p7Ayo6NQ3BdD-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-e71cb2aad8b02c",
@@ -459,6 +417,48 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "eurogamer-29a6024a8b0ad4",
+      "title": "Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC",
+      "excerpt": "Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6. The initial suggestion came from a report on The Verge, which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do ",
+      "url": "https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-07T08:31:39.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-ultimate-edition-car-collection-crop-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "take-two-ir-0ecfad44093ef8",
+      "title": "Take-Two Interactive to Host Webcast of 2026 Annual Meeting of Stockholders",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Sep. 10, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that the Company will host a webcast of its 2026 Annual Meeting of Stockholders which is being held as a virtual, audio-only meeting hosted online at",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-host-webcast-2026-annual-meeting",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-09-10T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-fb467d2bbb6ce9",
+      "title": "Zynga Poker Taps Keegan-Michael Key To Bring Out Your ‘Inner Winner’",
+      "excerpt": "Emmy-winner headlines new series of spots directed by Jody Hill; will debut as official in-game host for new ‘Poker Dash’ feature coming soon SAN MATEO, Calif. --(BUSINESS WIRE)--Sep. 1, 2026-- Zynga Inc., a wholly-owned publishing label of Take-Two Interactiv",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/zynga-poker-taps-keegan-michael-key-bring-out-your-inner-winner",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-09-01T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
     }
   ],
   "videos": [
