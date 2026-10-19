@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:38:38.717Z",
+  "generatedAt": "2026-10-19T21:05:20.052Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "gamesradar-6f47bb2895ab88",
+      "title": "Not even Rockstar heads know everything that's in GTA 6 because devs will just add stuff",
+      "excerpt": "Expect a lot of unhinged detailing in GTA 6 similar to Red Dead Redemption 2",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/not-even-rockstar-heads-know-everything-thats-in-gta-6-because-devs-will-just-add-stuff-which-is-also-how-red-dead-redemption-2-got-its-absurd-horse-testicle-physics/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-19T20:31:40.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BMicjTXUijfTskiiVc8iLW-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-406e3bdf375da1",
       "title": "Roblox creator shares project with GTA 6 vibes onlookers \"can't believe\" comes from Roblox",
       "excerpt": "\"...is this Roblox?\"",
@@ -106,20 +120,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-17T11:31:21.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/a226n2zoAv6rfa5SwLGa2m-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-039272462fa995",
-      "title": "After 18 years, GTA 6 might finally fix a graphical bug that's plagued Rockstar's games since GTA 4",
-      "excerpt": "The RAGE engine might be getting a long-overdue upgrade",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-18-years-gta-6-might-finally-fix-a-graphical-bug-thats-plagued-rockstars-games-since-grand-theft-auto-4/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-16T17:39:11.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/AfcEUg3UmbjNCVLSJgrs6n-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
