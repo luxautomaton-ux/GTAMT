@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T04:43:55.681Z",
+  "generatedAt": "2026-10-19T15:38:38.717Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "gamesradar-406e3bdf375da1",
+      "title": "Roblox creator shares project with GTA 6 vibes onlookers \"can't believe\" comes from Roblox",
+      "excerpt": "\"...is this Roblox?\"",
+      "url": "https://www.gamesradar.com/games/roblox-creator-shares-project-with-gta-6-vibes-that-onlookers-cant-believe-comes-from-roblox-how-is-this-even-possible/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-19T15:24:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/38dFMrtxrziEumiDGTPJ97-1920-80.png",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-46fbb644df8dd4",
       "title": "Red Dead Redemption and Bully \"nearly didn't happen,\" Rockstar Games co-founder Dan Houser says",
       "excerpt": "\"And lots of other moments when games that didn't happen could have\"",
@@ -106,20 +120,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-16T17:39:11.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/AfcEUg3UmbjNCVLSJgrs6n-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-529fd88f0b9942",
-      "title": "Rockstar's figured out the perfect GTA 6 advertisement – a bunch of supercars from Vice City in Miami",
-      "excerpt": "Because why not",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstars-figured-out-the-perfect-gta-6-advertisement-a-bunch-of-supercars-from-vice-city-speeding-along-the-streets-of-miami/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-16T16:26:44.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UF7JPwRPb3B7ME29wLGCp5-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -344,20 +344,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-09T16:41:02.000Z",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-de63a1b4d1391c",
-      "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
-      "excerpt": "GTA 6 will let you listen to radio stations while not in a car, by wearing headphones and earbuds connected to smartphones. GTA 6 also introduces on-demand podcasts, so you can binge true crime while also doing true crime - something like that.",
-      "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-08T15:07:42.000Z",
-      "image": "https://assetsio.gnwcdn.com/lucia-gta-6-headphones.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
