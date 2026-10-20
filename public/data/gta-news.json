@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T04:54:05.524Z",
+  "generatedAt": "2026-10-20T13:34:07.876Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-b3079e632955b0",
+      "title": "A Red Dead Redemption 2 system that greatly shaped GTA 6 almost wasn't pitched",
+      "excerpt": "\"This will revolutionize the way our games and our worlds work\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-fundamental-red-dead-redemption-2-system-provided-the-basis-for-how-gta-6s-npcs-work-but-it-was-nearly-cut-because-of-an-ambitious-rockstar-studio-head/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-20T11:49:26.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-7d866c09437270",
+      "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
+      "excerpt": "Red Dead Redemption 2's infamous animated horse testicles, which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail",
+      "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-20T11:20:20.000Z",
+      "image": "https://assetsio.gnwcdn.com/red-dead-redemption-2-horse_oWpviPa.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-6f47bb2895ab88",
       "title": "Not even Rockstar heads know everything that's in GTA 6 because devs will just add stuff",
       "excerpt": "Expect a lot of unhinged detailing in GTA 6 similar to Red Dead Redemption 2",
@@ -97,20 +125,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-46fbb644df8dd4",
-      "title": "Red Dead Redemption and Bully \"nearly didn't happen,\" Rockstar Games co-founder Dan Houser says",
-      "excerpt": "\"And lots of other moments when games that didn't happen could have\"",
-      "url": "https://www.gamesradar.com/games/red-dead/red-dead-redemption-and-bully-nearly-didnt-happen-according-to-rockstar-games-co-founder-dan-houser/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-18T14:10:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/x4bm89EWNAoUEPFbJD3tAQ-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-9e901d1c65d80b",
       "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
       "excerpt": "This generation's mega-game, Grand Theft Auto 6, will be eligible for The Game Awards 2026 by a matter of one day.",
@@ -125,20 +139,6 @@
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
-      "id": "the-verge-games-ac02a9261bc2cb",
-      "title": "Some great games to play before GTA VI and Zelda launch",
-      "excerpt": "Silver Pines. | Image: Wych Elm You could say we're in the eye of the storm right now. The storm, of course, being the fall and winter release calendar for new video games. Things started out with a hectic few weeks that were packed with major titles like Cont",
-      "url": "https://www.theverge.com/entertainment/1011816/october-2026-game-reviews-dressmaker-castlevania",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-15T14:00:00.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/SP_Screenshots__09.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-5bd4f0a14d32eb",
       "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
       "excerpt": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release.",
@@ -148,20 +148,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-15T13:24:51.000Z",
       "image": "https://assetsio.gnwcdn.com/gta-header_xwcN3Jm.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "the-verge-games-f45b6ad95ca393",
-      "title": "GTA VI’s new trailer gives you one more look at Vice City",
-      "excerpt": "The day is almost here, as Grand Theft Auto VI is just about a month away from finally coming out. But before that there's still one more look from Rockstar Games, which just put out a brief \"launch\" trailer for the game. It doesn't reveal much new, but the 90",
-      "url": "https://www.theverge.com/entertainment/1011879/gta-6-launch-trailer",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-15T13:17:17.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jason_and_Lucia_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
@@ -305,34 +291,6 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "eurogamer-c5758eff028c24",
-      "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-      "excerpt": "PS5 and Xbox Series X/S consoles are more expensive than ever in most markets, thanks largely to memory components being gobbled up by AI data centres. Now, analyst Mat Piscatella worries the console market, at least in the US, hasn't looked this dire since th",
-      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-09T18:51:26.000Z",
-      "image": "https://assetsio.gnwcdn.com/PS5-ram.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-f50a2cf78d08b1",
-      "title": "Rockstar HR manager claims he had \"little interest\" in staff's union membership status as fired GTA dev union-busting trial heats up",
-      "excerpt": "One of the witnesses in the ongoing Rockstar Games vs Garland & Others case has said he had \"little interest\" in evidence of unionisation efforts he was sent by an anonymous employee, prior to the developer laying off a substantial number of union Discord memb",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-hr-manager-little-interest-union",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-09T16:41:02.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-rockstar-iwgb-cutsom-header.webp?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "take-two-ir-42f75a36a68b76",
