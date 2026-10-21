@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:49:51.487Z",
+  "generatedAt": "2026-10-21T20:11:02.910Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "pc-gamer-528b88021883e6",
+      "title": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
+      "excerpt": "Rockstar appears to be teaming up with a Florida brewery to bring two of GTA's most famous beer brands to life.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-21T16:12:33.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oz85eeLcE2EoKHoTkF7c5a-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
       "id": "gamesradar-432a30a7801d15",
       "title": "GTA 6 could cost the US economy $1 billion due to an estimated 1.5 million workers calling in sick, economist says",
       "excerpt": "It's bad news for the technology sector",
@@ -92,34 +106,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-20T17:02:53.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/GrtqtSun9vQVcmcsb63nDh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-993f2379c985f1",
-      "title": "GTA 6 could beat Clair Obscur's record-breaking Game Awards haul - but I wouldn't bet on it",
-      "excerpt": "It's all to play for",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-could-beat-clair-obscur-expedition-33s-record-breaking-game-awards-haul-but-i-wouldnt-bet-on-it/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-20T16:05:49.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-b3079e632955b0",
-      "title": "A Red Dead Redemption 2 system that greatly shaped GTA 6 almost wasn't pitched",
-      "excerpt": "\"This will revolutionize the way our games and our worlds work\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-fundamental-red-dead-redemption-2-system-provided-the-basis-for-how-gta-6s-npcs-work-but-it-was-nearly-cut-because-of-an-ambitious-rockstar-studio-head/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-20T11:49:26.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
