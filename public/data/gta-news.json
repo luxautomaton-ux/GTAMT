@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:42:11.827Z",
+  "generatedAt": "2026-10-24T18:48:20.328Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-0551ceb45c1466",
+      "title": "Open-world spy game from Grand Theft Auto dev never happened because Rockstar couldn't get it right",
+      "excerpt": "\"It never quite worked,\" Dan Houser says",
+      "url": "https://www.gamesradar.com/games/open-world/open-world-spy-game-from-grand-theft-auto-devs-never-happened-because-rockstar-couldnt-get-it-right-other-people-can-try-but-i-personally-think-its-hard/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-24T16:30:29.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/xwkdpnXB4HiT8Wpe9rCsfh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-4080444560dab3",
       "title": "\"For most of development, GTA 3 was in a sorry state\": Rockstar veteran reflects ahead of GTA 6",
@@ -195,32 +209,18 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "eurogamer-d5eecb4b1f5c40",
-      "title": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
-      "excerpt": "Max Payne 3 is a bit of a strange project. Unlike its two predecessors, the game wasn't developed by original creator Remedy Entertainment, rather it was the product of Grand Theft Auto and Red Dead Redemption studio Rockstar Games.",
-      "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-14T12:52:32.000Z",
-      "image": "https://assetsio.gnwcdn.com/max-payne-3-screen-front-profile-1.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
+      "id": "take-two-ir-47b756bad3641d",
+      "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Oct. 13, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its second quarter of fiscal year 2027, ended September 30, 2026, after the market close on Monday, Nov",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-second-quarter-fiscal-8",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
       "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-2eb0f5492ec514",
-      "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
-      "excerpt": "The ongoing employment tribunal between Grand Theft Auto 6 developer Rockstar Games and IWBG union members laid off from the studio has been extended into November..",
-      "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-14T12:40:59.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
     },
     {
       "id": "take-two-ir-42f75a36a68b76",
@@ -231,7 +231,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-10-08T13:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -245,7 +245,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-10T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -259,7 +259,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-01T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -273,7 +273,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-08-07T11:30:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -287,7 +287,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-07-09T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -301,7 +301,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-06-24T10:15:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -315,20 +315,6 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-21T20:05:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "take-two-ir-dc838986578c79",
-      "title": "Take-Two Interactive Software, Inc. to Present at the TD Cowen 54th Annual Technology, Media & Telecom Conference",
-      "excerpt": "NEW YORK --(BUSINESS WIRE)--May 11, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that Strauss Zelnick, the Company’s Chairman and Chief Executive Officer, plans to participate in a Fireside Chat at the TD Cowen 54 th Annual Technol",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-present-td-cowen-54th-annual",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-05-11T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
