@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:12:07.135Z",
+  "generatedAt": "2026-10-25T19:04:30.221Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -193,20 +193,6 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "eurogamer-e71cb2aad8b02c",
-      "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
-      "excerpt": "Cyberleek, the leaker who's been releasing footage from Grand Theft Auto 6 for weeks now, is seemingly done posting leaks. Cyberleek released a new - seemingly final - video today which supposedly shows parts of the game's ending.",
-      "url": "https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-14T13:06:10.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-jason_9MumaLo.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "take-two-ir-47b756bad3641d",
