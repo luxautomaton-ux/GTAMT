@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T15:12:51.036Z",
+  "generatedAt": "2026-10-26T21:01:42.596Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -83,20 +83,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-4080444560dab3",
-      "title": "\"For most of development, GTA 3 was in a sorry state\": Rockstar veteran reflects ahead of GTA 6",
-      "excerpt": "\"If they were fun, they were in. The story was secondary.\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/for-most-of-development-gta-3-was-in-a-sorry-state-rockstar-veteran-reflects-on-25-years-of-grand-theft-auto-ahead-of-gta-6-says-i-dont-remember-much-crunch/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-23T17:36:52.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/aKqyBZ8pQTbeLMRQXYStnj-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "the-verge-games-5e72ed1da59502",
       "title": "Refurbished PS5 consoles include second controller for an extra $18",
       "excerpt": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s ",
@@ -137,34 +123,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-9e901d1c65d80b",
-      "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
-      "excerpt": "This generation's mega-game, Grand Theft Auto 6, will be eligible for The Game Awards 2026 by a matter of one day.",
-      "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-15T16:10:34.000Z",
-      "image": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "eurogamer-5bd4f0a14d32eb",
-      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-      "excerpt": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release.",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-15T13:24:51.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-header_xwcN3Jm.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
     },
     {
       "id": "take-two-ir-42f75a36a68b76",
