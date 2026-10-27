@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T14:33:19.030Z",
+  "generatedAt": "2026-10-27T20:43:06.570Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,62 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-d3fb9380621acd",
+      "title": "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the studio's future",
+      "excerpt": "Rockstar union agreement covers \"pay and bonuses, overtime, redundancies, flexible working, and generative AI policies\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-day-gta-6-pre-loading-starts-unionizing-rockstar-developers-will-vote-on-the-future-of-the-legendary-studio-this-is-our-moment/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-27T20:28:50.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DJ5yrctKvkVPiUUuSo36xg-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-622aa548de0c38",
+      "title": "GTA 6 is a 210GB download, says PlayStation Store sleuth",
+      "excerpt": "Another Grand Theft Auto pre-load beckons, prepare your drive",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-210gb-download-says-playstation-store-sleuth/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-27T17:59:46.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zb3Q2uW5q96AnLSCtr2AVA-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-f94568071d16ae",
+      "title": "GTA 6 exclusive leads Edge 430, includes a 16-page cover feature that has a Rockstar interview and more",
+      "excerpt": "You can even read that cover feature for free",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-exclusive-leads-edge-430-check-out-the-16-page-cover-feature-that-includes-interviews-with-rockstar-bespoke-screenshots-and-more-this-week/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-27T15:02:26.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/pUVGVQuN8AjTZjzm4Bs89e-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-c7a6d8c3d0f0b4",
+      "title": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29",
+      "excerpt": "I bet you can steal cars.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/edge-magazine-went-to-rockstar-to-see-gta-6-and-will-tell-you-all-about-in-lavish-detail-this-thursday-october-29/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-27T15:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/5d8sAc26TSKWqxLRCibcD4-1920-80.png",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-7add6282cd2aec",
       "title": "Devs \"fear\" launching near GTA 6, but one analyst says they shouldn't",
