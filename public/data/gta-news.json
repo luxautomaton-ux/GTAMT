@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T05:45:22.980Z",
+  "generatedAt": "2026-10-28T15:07:31.457Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,76 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-bf373a7afd2967",
+      "title": "Just in time for GTA 6, GameSir is launching two Vice City-inspired versions of the G7 Pro",
+      "excerpt": "GameSir is stealthily launching two GTA-inspired versions of its G7 Pro controller, but don't tell Rockstar because these definitely aren't official.",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/dont-tell-rockstar-but-gamesir-is-launching-two-new-gta-6-inspired-colorways-of-its-g7-pro-controller/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-28T13:42:05.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/oRiWu6YVoJUjFN9d9GFCm7-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-5659b0ad30838d",
+      "title": "GTA 6 actors get advice from Grand Theft Auto veterans: \"Listen to Rockstar\" and \"get ready\"",
+      "excerpt": "\"They're going to lead you in the right direction\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-actors-get-advice-from-grand-theft-auto-veterans-listen-to-rockstar-and-get-ready/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-28T13:10:22.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/eMagVc7eJNPZXAt3LNLhTo-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-8fd018e68a1776",
+      "title": "GTA 6 file size revealed at 210GB, but SSD upgrades aren't the answer if you're already running out of space",
+      "excerpt": "GTA 6's 210GB file size could topple your PS5's internal storage, but with the prices of SSDs these days I'd recommend checking out external hard drives instead.",
+      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/gta-6-file-size-revealed-at-210gb-but-ssd-upgrades-arent-the-answer-if-youre-already-running-out-of-space/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-28T12:34:27.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/X5hQfY2bUbdQWBXhwhELFa-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "eurogamer-016a4272978e7f",
+      "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+      "excerpt": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry.",
+      "url": "https://www.eurogamer.net/rockstar-union-vote-november",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-28T09:49:39.000Z",
+      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-sharing-beer-on-boat.png?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-402f42d097afb8",
+      "title": "GTA 6 is a massive 210GB download on PlayStation 5",
+      "excerpt": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number.",
+      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-28T09:14:37.000Z",
+      "image": "https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-19f9c0a12bb895",
       "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
@@ -139,20 +209,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-7add6282cd2aec",
-      "title": "Devs \"fear\" launching near GTA 6, but one analyst says they shouldn't",
-      "excerpt": "There's room for more than Rockstar's behemoth",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/devs-fear-launching-near-gta-6-but-one-analyst-says-they-shouldnt-a-lot-of-people-are-going-to-want-to-play-other-things/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-27T11:18:12.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/TEreSmLV52RRZgMHB9ktZX-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "pc-gamer-9de349be869316",
       "title": "One day before launch, ARPG Emberville gets delayed until 2027",
       "excerpt": "Don't blame this one on GTA 6: The developers say incorporating feedback on Emberville's demo is taking longer than they expected.",
@@ -209,20 +265,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "take-two-ir-47b756bad3641d",
-      "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026",
-      "excerpt": "NEW YORK --(BUSINESS WIRE)--Oct. 13, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its second quarter of fiscal year 2027, ended September 30, 2026, after the market close on Monday, Nov",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-second-quarter-fiscal-8",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
       "id": "take-two-ir-42f75a36a68b76",
       "title": "Words With Friends Expands Its Dictionary with 25,000 New Words to Herald the Next Era of Word Games",
       "excerpt": "The beloved mobile word game refreshes its lexicon with new words, fresh definitions, and a first-ever player word-reporting feature SAN MATEO, Calif. --(BUSINESS WIRE)--Oct. 8, 2026-- Zynga Inc., a wholly-owned publishing label of Take-Two Interactive (NASDAQ",
@@ -231,7 +273,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-10-08T13:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -245,7 +287,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-10T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -259,7 +301,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-01T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -273,7 +315,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-08-07T11:30:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -287,7 +329,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-07-09T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -301,7 +343,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-06-24T10:15:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -315,6 +357,20 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-21T20:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-dc838986578c79",
+      "title": "Take-Two Interactive Software, Inc. to Present at the TD Cowen 54th Annual Technology, Media & Telecom Conference",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--May 11, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that Strauss Zelnick, the Company’s Chairman and Chief Executive Officer, plans to participate in a Fireside Chat at the TD Cowen 54 th Annual Technol",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-present-td-cowen-54th-annual",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-05-11T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
