@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T05:52:34.660Z",
+  "generatedAt": "2026-10-30T15:03:33.465Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-89d67e30c2e249",
+      "title": "GTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined",
+      "excerpt": "\"It's insane,\" fans say",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-map-size-is-so-big-it-rivals-gta-4-gta-5-and-red-dead-redemption-2s-combined-and-rockstar-devs-are-still-discovering-places-theyve-never-seen/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-30T12:18:15.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MNHvfJvXKtYweEcyNY4XEM-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-ac839be73fb5ca",
+      "title": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
+      "excerpt": "I am going to create an environment that is so loving.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/you-can-relationship-max-in-gta-6-as-walking-along-the-beach-or-working-out-at-the-gym-together-increases-your-couple-rating-on-a-four-point-scale/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-30T10:31:07.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/mRhauLDDkxHxghWg6ZZms-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "pc-gamer-32d5158312fb17",
       "title": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs",
       "excerpt": "If I see a video of Lucia stacking crates to get over a wall I'm gonna lose it.",
@@ -125,20 +153,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-a4f3f3ec45103d",
-      "title": "South Park breaks the news that GTA 6 lets you throw dog poop, gets a Grand Theft Auto icon to say it",
-      "excerpt": "It's not just a funny gameplay clip, but a neat nod to GTA 5's marketing",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/south-park-breaks-the-news-that-gta-6-lets-you-throw-dog-poop-even-gets-a-grand-theft-auto-icon-to-announce-it/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-29T13:00:42.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/XCqyFu8hGEF9PDJcuQqRPX-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-2d8cf2db0ef197",
       "title": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
       "excerpt": "Xbox leader Asha Sharma has claimed there's \"more demand than consoles available\" when it comes to Xbox, and that console sales \"remain constrained by supply\".",
@@ -148,48 +162,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-29T11:21:44.000Z",
       "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-d4970e338651f6",
-      "title": "GTA 6 promises to be an RPG like nothing the series has ever seen, but Rockstar says there's still a balance to strike",
-      "excerpt": "Rockstar doesn't want you to \"reject\" its systems",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-can-have-your-life-in-the-game-gta-6-promises-to-be-an-rpg-like-nothing-the-series-has-ever-seen-but-rockstar-says-theres-still-a-balance-to-strike/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-29T10:40:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/dRQRQe6dpZfvo8efJXYyT7-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-20e8b732f9d625",
-      "title": "GTA 6 \"felt too fast\" when Rockstar made it run like Grand Theft Auto 5 due to the leap in visual performance",
-      "excerpt": "I doubt Rockstar narrowing Vice City's roads to make them \"more believable\" helped either",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-felt-too-fast-when-rockstar-made-it-run-like-grand-theft-auto-5-due-to-the-leap-in-visual-performance-over-the-past-13-years/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-29T10:35:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/UmgAwgeWLp9kYNRiFdvdM7-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-5561502f995831",
-      "title": "600,000 animations are the appetizer: Rockstar gave GTA 6 NPCs meticulous personality traits to control how they react to you",
-      "excerpt": "The pedestrians all have personality traits, too",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/600-000-animations-are-the-appetizer-rockstar-gave-gta-6-npcs-meticulous-personality-traits-to-control-how-they-react-to-you-and-now-i-get-why-weve-been-waiting-13-years/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-29T10:30:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fgu3QD5R6x77js8EEjFZY7-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -232,20 +204,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-10-29T00:35:52.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/mRhauLDDkxHxghWg6ZZms-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-88fd9fd409cbd4",
-      "title": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
-      "excerpt": "\"You can go anywhere, any random location, and so many people have thought about that location,\" says co-studio head Aaron Garbut.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-map-is-almost-as-big-as-rockstars-last-3-games-combined-contains-an-order-of-magnitude-more-interiors/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-29T00:17:15.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/bHe66wF8tgDouaPVeRottY-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -307,20 +265,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "take-two-ir-47b756bad3641d",
-      "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026",
-      "excerpt": "NEW YORK --(BUSINESS WIRE)--Oct. 13, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its second quarter of fiscal year 2027, ended September 30, 2026, after the market close on Monday, Nov",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-second-quarter-fiscal-8",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
       "id": "take-two-ir-42f75a36a68b76",
       "title": "Words With Friends Expands Its Dictionary with 25,000 New Words to Herald the Next Era of Word Games",
       "excerpt": "The beloved mobile word game refreshes its lexicon with new words, fresh definitions, and a first-ever player word-reporting feature SAN MATEO, Calif. --(BUSINESS WIRE)--Oct. 8, 2026-- Zynga Inc., a wholly-owned publishing label of Take-Two Interactive (NASDAQ",
@@ -329,7 +273,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-10-08T13:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -343,7 +287,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-10T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -357,7 +301,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-01T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -371,7 +315,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-08-07T11:30:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -385,7 +329,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-07-09T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -399,7 +343,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-06-24T10:15:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -413,6 +357,20 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-21T20:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-dc838986578c79",
+      "title": "Take-Two Interactive Software, Inc. to Present at the TD Cowen 54th Annual Technology, Media & Telecom Conference",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--May 11, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that Strauss Zelnick, the Company’s Chairman and Chief Executive Officer, plans to participate in a Fireside Chat at the TD Cowen 54 th Annual Technol",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-present-td-cowen-54th-annual",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-05-11T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
