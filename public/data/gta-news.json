@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T05:46:30.005Z",
+  "generatedAt": "2026-10-31T14:32:58.205Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-8dc65dca58b9df",
+      "title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
+      "excerpt": "I hope Rockstar makes us work a little harder to wreak our usual mayhem.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-31T13:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/MdBiu7GSCh7a39PrLtpQBL-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-6475808fe947ad",
       "title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
