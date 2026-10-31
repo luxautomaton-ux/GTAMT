@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:32:58.205Z",
+  "generatedAt": "2026-10-31T19:59:57.968Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-a83a1a06f933e0",
+      "title": "Rockstar had to up its game for GTA 6 – GTA 5's realism was already \"showing its age\" when it launched 13 years ago",
+      "excerpt": "\"As the resolution of the worlds goes up, I think there are things you can't get away with in the same way\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-had-to-up-its-game-for-gta-6-because-gta-5s-realism-was-already-showing-its-age-when-it-launched-13-years-ago/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-31T18:00:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/UqBPGhNWViTTPAY8b43YFY-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-b747acddd6fc95",
+      "title": "With GTA 6, Rockstar couldn't \"just trot out something\" fans would already expect",
+      "excerpt": "Big expectations, meet big game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-rockstar-couldnt-just-trot-out-something-fans-would-already-expect-weve-built-a-pyramid-on-everest/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-10-31T14:54:18.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-8dc65dca58b9df",
       "title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
@@ -263,20 +291,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "the-verge-games-5e72ed1da59502",
-      "title": "Refurbished PS5 consoles include second controller for an extra $18",
-      "excerpt": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s ",
-      "url": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-22T18:38:50.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072864/110923_new_Playstation_5_Slim_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "eurogamer-bb76316130f74b",
