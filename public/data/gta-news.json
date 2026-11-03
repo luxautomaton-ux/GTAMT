@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T16:15:59.410Z",
+  "generatedAt": "2026-11-03T21:51:11.283Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-d70f8bd2b9e589",
+      "title": "Grand Theft Auto bonus that used to be free with every physical game is now a $1 purchase for GTA 6",
+      "excerpt": "You won't be getting your Leonida map in the box here",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-grand-theft-auto-bonus-that-used-to-be-free-with-every-physical-game-is-now-a-separate-usd1-purchase-for-gta-6/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-03T16:10:37.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/z97tu6QgVY7qy5FoGveeGh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-b799dace3f62b7",
+      "title": "GTA 6 preload date and times confirmed",
+      "excerpt": "You can start preloading GTA 6 from November 10, and these are the details you need to know",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-preload-date-times/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-03T16:10:21.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "eurogamer-ab0d321a49c42d",
       "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
       "excerpt": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6. You better be prepared to clear out some storage space, and burn the midnight oil.",
@@ -137,20 +165,6 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-ba36fcaf41ad37",
-      "title": "GTA 6 sounds like an RPG – so why deny it any more?",
-      "excerpt": "Dating, break ups, and the chance to \"go anywhere?\" GTA 6 sure sounds like the genre no one wants to call it",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sounds-like-an-rpg-so-why-deny-it/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-02T17:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Jphdtoi6xtqCca8opYAhkB-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "pc-gamer-09097a4a2740dc",
@@ -237,6 +251,20 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
+      "id": "take-two-ir-47b756bad3641d",
+      "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--Oct. 13, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its second quarter of fiscal year 2027, ended September 30, 2026, after the market close on Monday, Nov",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-second-quarter-fiscal-8",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
       "id": "take-two-ir-42f75a36a68b76",
       "title": "Words With Friends Expands Its Dictionary with 25,000 New Words to Herald the Next Era of Word Games",
       "excerpt": "The beloved mobile word game refreshes its lexicon with new words, fresh definitions, and a first-ever player word-reporting feature SAN MATEO, Calif. --(BUSINESS WIRE)--Oct. 8, 2026-- Zynga Inc., a wholly-owned publishing label of Take-Two Interactive (NASDAQ",
@@ -245,7 +273,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-10-08T13:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -259,7 +287,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-10T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -273,7 +301,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-01T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -287,7 +315,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-08-07T11:30:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -301,7 +329,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-07-09T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -315,7 +343,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-06-24T10:15:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -329,20 +357,6 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-21T20:05:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "take-two-ir-dc838986578c79",
-      "title": "Take-Two Interactive Software, Inc. to Present at the TD Cowen 54th Annual Technology, Media & Telecom Conference",
-      "excerpt": "NEW YORK --(BUSINESS WIRE)--May 11, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that Strauss Zelnick, the Company’s Chairman and Chief Executive Officer, plans to participate in a Fireside Chat at the TD Cowen 54 th Annual Technol",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-present-td-cowen-54th-annual",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-05-11T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
