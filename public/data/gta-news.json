@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T18:24:38.419Z",
+  "generatedAt": "2026-11-03T06:51:28.860Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,20 @@
   ],
   "items": [
     {
+      "id": "gamesradar-abb8a0fe85cdb8",
+      "title": "GTA 6 lead says Rockstar president Sam Houser is involved in every aspect of creative development",
+      "excerpt": "It seems rumors that Sam Houser is just a \"taste director\" are bunk",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lead-says-rockstar-president-sam-houser-helped-shape-the-direction-of-the-game-and-is-involved-in-every-aspect-of-creative-development/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-02T19:25:59.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
       "id": "gamesradar-ba36fcaf41ad37",
       "title": "GTA 6 sounds like an RPG – so why deny it any more?",
       "excerpt": "Dating, break ups, and the chance to \"go anywhere?\" GTA 6 sure sounds like the genre no one wants to call it",
@@ -120,34 +134,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-11-01T18:00:00.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/D6VRZi8SW9eRmoHuQY2Nfe-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-73c17077c73b36",
-      "title": "GTA 6 lead channels the spirit of Skyrim-era Todd Howard: \"You can go anywhere, any random location\"",
-      "excerpt": "Rockstar's next contains \"an order of magnitude more interiors\" than its predecessors",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lead-channels-the-spirit-of-skyrim-era-todd-howard-you-can-go-anywhere-any-random-location-and-so-many-people-have-thought-about-that-location/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-01T18:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LsHaqp8q3SJS3AQHSXgip7-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-3352d21467e57d",
-      "title": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
-      "excerpt": "\"But what if these characters want something else?\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lets-you-break-up-jason-and-lucia-if-you-want-and-we-can-thank-red-dead-redemption-2s-arthur-morgan-for-the-choice/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-01T15:18:39.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/oFV96Lzam6D6cjSoxVEn9h-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
