@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T21:51:11.283Z",
+  "generatedAt": "2026-11-04T06:27:26.194Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,48 @@
   ],
   "items": [
     {
+      "id": "the-verge-games-c0da9ef51df0e0",
+      "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "excerpt": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo ",
+      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-04T01:02:53.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-4fe20bcd4c148a",
+      "title": "GTA 6's weather will rock your boat, damage your plane, and send Vice City denizens seeking shelter",
+      "excerpt": "\"This game is much more granular\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-weather-will-rock-your-boat-damage-your-plane-and-send-vice-city-denizens-seeking-shelter/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-04T00:47:23.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9mZ3fStR4S8qipnfgGXCoA-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-7d9e826e6649c9",
+      "title": "GTA 6 may have done Ocarina of Time remake and WoW: Forever a favor by scaring games out of November",
+      "excerpt": "Nintendo and Blizzard aren't competing with Rockstar in the same way as some",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-may-have-done-ocarina-of-time-remake-and-wow-forever-a-favor-by-scaring-games-out-of-november-everything-else-in-the-market-well-see-says-analyst/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-03T21:47:03.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "gamesradar-d70f8bd2b9e589",
       "title": "Grand Theft Auto bonus that used to be free with every physical game is now a $1 purchase for GTA 6",
       "excerpt": "You won't be getting your Leonida map in the box here",
@@ -127,7 +169,7 @@
     {
       "id": "the-verge-games-8364aea8e1010b",
       "title": "GTA VI&#8217;s download will need up to 212GB of hard drive space",
-      "excerpt": "You're going to need a lot of extra storage space on your console if you're planning to play Grand Theft Auto VI later this month. Rockstar Games confirmed on Tuesday that the pre-load file will require up to 212GB \"depending on your device.\" Rockstar says you",
+      "excerpt": "You're going to need a lot of extra storage space on your console if you're planning to play Grand Theft Auto VI later this month. Rockstar Games confirmed on Tuesday that the preload file will require up to 212GB \"depending on your device.\" Rockstar says you ",
       "url": "https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games",
       "source": "The Verge Gaming",
       "sourceUrl": "https://www.theverge.com",
@@ -151,20 +193,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-abb8a0fe85cdb8",
-      "title": "GTA 6 lead says Rockstar president Sam Houser is involved in every aspect of creative development",
-      "excerpt": "It seems rumors that Sam Houser is just a \"taste director\" are bunk",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lead-says-rockstar-president-sam-houser-helped-shape-the-direction-of-the-game-and-is-involved-in-every-aspect-of-creative-development/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-02T19:25:59.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1920-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
       "id": "pc-gamer-09097a4a2740dc",
