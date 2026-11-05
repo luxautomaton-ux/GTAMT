@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:51:09.547Z",
+  "generatedAt": "2026-11-05T16:29:07.965Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,62 @@
   ],
   "items": [
     {
+      "id": "eurogamer-bb60cd4a2156cb",
+      "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
+      "excerpt": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6, ahead of its release later this month.",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-05T16:18:40.000Z",
+      "image": "https://assetsio.gnwcdn.com/Jason-GTA-header.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "pc-gamer-486ff9841dcd29",
+      "title": "Take-Two boss Strauss Zelnick isn't too concerned about piracy ahead of GTA 6 even if he is 'worried about everything all the time'",
+      "excerpt": "I am also worried about everything all the time, so I get it.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-05T14:25:42.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qssUN2VdpiBrvmcfvqWGdK-1920-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "pc-gamer-6498fc279f53ff",
+      "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
+      "excerpt": "Help me upscalers, you're my only hope.",
+      "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-05T12:12:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cGvg75BzHjKXRa6iF2zieP-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-394e58bb50c4d8",
+      "title": "With GTA 6 delays, Take-Two CEO suggests Rockstar didn't want a Cyberpunk 2077 situation",
+      "excerpt": "He doesn't refer to Cyberpunk by name, but it's quite clear which RPG he's referring to",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-delays-take-two-ceo-suggests-rockstar-didnt-want-a-cyberpunk-2077-situation-they-had-to-pull-the-title-after-shipping/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-05T11:35:54.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/C6BCKHPMgQuk9NWQyksJch-1920-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
       "id": "pc-gamer-ebc7c32a662251",
       "title": "No GTA 6 November: Here's what you can play on PC instead",
       "excerpt": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
@@ -81,20 +137,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-3412c5a83754e1",
-      "title": "GTA 6 pre-orders have already made over $730m, analysts estimate, and 74% of them are on PS5",
-      "excerpt": "Rockstar's already raking in the dough",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pre-orders-have-already-made-over-usd730m-in-revenue-analysts-estimate-and-74-percent-of-them-are-on-ps5/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-04T11:52:09.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/3N4MyTKS7pQQDuVc3tDDoh-1920-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "the-verge-games-c0da9ef51df0e0",
