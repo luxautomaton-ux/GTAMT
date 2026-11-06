@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T15:56:35.632Z",
+  "generatedAt": "2026-11-06T21:30:52.038Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,6 +69,34 @@
   ],
   "items": [
     {
+      "id": "gamesradar-a9229c910ce7c0",
+      "title": "A bunch of Grand Theft Auto games will be cheap on Steam until GTA 6 comes out, and only one sucks",
+      "excerpt": "And it's not GTA: San Andreas",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-bunch-of-grand-theft-auto-games-will-be-cheap-on-steam-until-gta-6-comes-out-and-only-one-of-them-sucks/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-06T20:53:16.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tjYKaWz5LQLU25LM4oNdwV-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-f5ea1dde4ce3c3",
+      "title": "Rockstar could release GTA 6 on PC sooner to head off AI ports, former series lead suggests",
+      "excerpt": "\"It really has changed the world\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-could-release-gta-6-on-pc-sooner-to-head-off-ai-ports-former-grand-theft-auto-lead-suggests-i-think-i-would-be-concerned/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-06T17:08:43.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BgXa4HNPsmD2f4Ld99fpLh-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
       "id": "eurogamer-2e05f2197af75b",
       "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
       "excerpt": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect.",
@@ -111,20 +139,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-d8ec9d7922342b",
-      "title": "It's not just GTA 6 – Take-Two boss argues \"we have the best collection\" of IP in the business",
-      "excerpt": "Grand Theft Auto is far from the company's only big hitter",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/its-not-just-gta-6-take-two-boss-argues-we-have-the-best-collection-of-ip-in-the-business-thanks-to-red-dead-redemption-borderlands-and-more/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-05T17:31:34.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/Ndx9Po2DyeMQk2zv6KgM6B-1920-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
       "id": "pc-gamer-cdd3554bfc3904",
       "title": "Rockstar drops a pile of new GTA 6 launch screenshots featuring dancers, combat dogs, and so many pores",
       "excerpt": "In 39 new screenshots, Rockstar flaunts exciting new genres of Florida Man.",
@@ -137,20 +151,6 @@
       "category": "Media Watch",
       "riskFlag": false,
       "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "gamesradar-93202c80ff737a",
-      "title": "GTA 6 being pirated is just \"a fact of life,\" says Take-Two, but lawyers are ready if it's an issue",
-      "excerpt": "Technical protections will be enforced too",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-being-pirated-is-just-a-fact-of-life-says-ceo-of-rockstar-owner-and-lawyers-are-ready-if-it-becomes-a-problem/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-05T16:47:41.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/BaZVBJYGymFMbx4HnaNUZh-1920-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     },
     {
       "id": "eurogamer-bb60cd4a2156cb",
