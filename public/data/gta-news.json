@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T06:51:07.272Z",
+  "generatedAt": "2026-11-06T15:56:35.632Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-2e05f2197af75b",
+      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+      "excerpt": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect.",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-06T12:02:40.000Z",
+      "image": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-6f12b0a8c03dae",
+      "title": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
+      "excerpt": "Oh boy, I wonder who that could be.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-06T11:40:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/cgsfct7LsSe3YLSHsKbAJF-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-4b314209f8148e",
       "title": "The Elder Scrolls 6: Sentinel won't fill the shoes of GTA 6 as the next white whale, says analyst",
@@ -167,20 +195,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-394e58bb50c4d8",
-      "title": "With GTA 6 delays, Take-Two CEO suggests Rockstar didn't want a Cyberpunk 2077 situation",
-      "excerpt": "He doesn't refer to Cyberpunk by name, but it's quite clear which RPG he's referring to",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-delays-take-two-ceo-suggests-rockstar-didnt-want-a-cyberpunk-2077-situation-they-had-to-pull-the-title-after-shipping/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-05T11:35:54.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/C6BCKHPMgQuk9NWQyksJch-1920-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
       "id": "pc-gamer-ebc7c32a662251",
       "title": "No GTA 6 November: Here's what you can play on PC instead",
       "excerpt": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
@@ -251,48 +265,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "eurogamer-016a4272978e7f",
-      "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
-      "excerpt": "A date has been locked in for Rockstar Games employees to vote on whether to recognise their developer union. If successful, it will become the largest recognised union across the entirety of the UK video games industry.",
-      "url": "https://www.eurogamer.net/rockstar-union-vote-november",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-28T09:49:39.000Z",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-sharing-beer-on-boat.png?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-402f42d097afb8",
-      "title": "GTA 6 is a massive 210GB download on PlayStation 5",
-      "excerpt": "There wasn't really any chance Grand Theft Auto 6 wasn't going to be a big download. Thanks to some new information, though, we now have a hard number.",
-      "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-10-28T09:14:37.000Z",
-      "image": "https://assetsio.gnwcdn.com/PS5-ssd-slot-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "take-two-ir-47b756bad3641d",
-      "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026",
-      "excerpt": "NEW YORK --(BUSINESS WIRE)--Oct. 13, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that it plans to report financial results for its second quarter of fiscal year 2027, ended September 30, 2026, after the market close on Monday, Nov",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-report-second-quarter-fiscal-8",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-10-13T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
       "id": "take-two-ir-42f75a36a68b76",
       "title": "Words With Friends Expands Its Dictionary with 25,000 New Words to Herald the Next Era of Word Games",
       "excerpt": "The beloved mobile word game refreshes its lexicon with new words, fresh definitions, and a first-ever player word-reporting feature SAN MATEO, Calif. --(BUSINESS WIRE)--Oct. 8, 2026-- Zynga Inc., a wholly-owned publishing label of Take-Two Interactive (NASDAQ",
@@ -301,7 +273,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-10-08T13:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer2_poster.0cosv-uzbpt91.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -315,7 +287,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-10T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Trailer1_poster.12x2gvspcm_3m.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Official_Cover_Art_Landscape.03y6bcce9e2jr.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -329,7 +301,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-09-01T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_01.07m377xeb6jhq.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -343,7 +315,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-08-07T11:30:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_03.0-1vum7x-3vtp.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_02.1486~7_v40cn..jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -357,7 +329,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-07-09T12:00:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_04.16d-z2wa2s~bk.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -371,7 +343,7 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-06-24T10:15:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
@@ -385,6 +357,20 @@
       "sourceUrl": "https://ir.take2games.com",
       "sourceType": "official",
       "publishedAt": "2026-05-21T20:05:00.000Z",
+      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
+      "category": "Official",
+      "riskFlag": false,
+      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
+    },
+    {
+      "id": "take-two-ir-dc838986578c79",
+      "title": "Take-Two Interactive Software, Inc. to Present at the TD Cowen 54th Annual Technology, Media & Telecom Conference",
+      "excerpt": "NEW YORK --(BUSINESS WIRE)--May 11, 2026-- Take-Two Interactive Software, Inc. (NASDAQ: TTWO) today announced that Strauss Zelnick, the Company’s Chairman and Chief Executive Officer, plans to participate in a Fireside Chat at the TD Cowen 54 th Annual Technol",
+      "url": "https://ir.take2games.com/news-releases/news-release-details/take-two-interactive-software-inc-present-td-cowen-54th-annual",
+      "source": "Take-Two Investor Relations",
+      "sourceUrl": "https://ir.take2games.com",
+      "sourceType": "official",
+      "publishedAt": "2026-05-11T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_01.0a7yqvewctkfp.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
