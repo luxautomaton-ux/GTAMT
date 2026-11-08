@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:14:47.352Z",
+  "generatedAt": "2026-11-08T06:05:38.263Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -204,20 +204,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-11-05T12:12:38.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/cGvg75BzHjKXRa6iF2zieP-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "pc-gamer-ebc7c32a662251",
-      "title": "No GTA 6 November: Here's what you can play on PC instead",
-      "excerpt": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
-      "url": "https://www.pcgamer.com/games/november-games-2026/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-04T23:37:01.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/uEeQBN2oCc55CcCkNVRYiQ-1920-80.jpg",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
