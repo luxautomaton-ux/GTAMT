@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T18:49:59.606Z",
+  "generatedAt": "2026-11-10T07:22:25.106Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -40,7 +40,12 @@
       "type": "publisher"
     }
   ],
-  "feedErrors": [],
+  "feedErrors": [
+    {
+      "source": "Eurogamer",
+      "message": "fetch failed"
+    }
+  ],
   "officialWatchlist": [
     {
       "id": "rockstar-vi-hub",
@@ -68,6 +73,62 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-45df1d8d5c6807",
+      "title": "GTA 6 CEO says AI will make creating games easier, but \"making a big hit\" will be as hard as ever",
+      "excerpt": "\"Technology benefits us\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ceo-says-ai-will-make-creating-games-easier-but-making-a-big-hit-will-be-as-hard-as-ever-hit-creation-remains-the-purview-of-human-beings/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-10T00:48:38.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/zUQBmENHDXBKMyzonNoPrm-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-d076f3ba4ad179",
+      "title": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
+      "excerpt": "Of course, in the case of Grand Theft Auto 6, the PC experience at launch will be a blank screen.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-experiences-on-console-and-pc-tend-to-be-roughly-the-same-says-take-two-ceo-in-response-to-question-about-gta-roleplaying/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-10T00:24:43.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Er7sxeh8RRbBBp8GXXPfsC-1920-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "gamesradar-fbc79f367524b6",
+      "title": "Rockstar's owner expected GTA 6 to be big, but not this big: \"The numbers will speak for themselves\"",
+      "excerpt": "GTA 6 pre-orders are \"far above\" Take-Two's expectations",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstars-owner-expected-gta-6-to-be-big-but-not-this-big-we-know-that-the-numbers-will-speak-for-themselves-soon-enough/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-09T22:57:50.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/DjHygAvVxq5SRXiCL2bj3i-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
+    {
+      "id": "pc-gamer-ddbeb17e4042cd",
+      "title": "Take-Two expects to make as much as $3.5 billion during the GTA 6 launch period",
+      "excerpt": "Pre-orders for GTA 6 are still \"unprecedented,\" says the publisher.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-expects-to-make-as-much-as-usd3-5-billion-during-the-gta-6-launch-period/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-09T22:06:34.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9SieU3JpSSPX34eMduXqsW-1920-80.jpg",
+      "category": "Launch Commerce",
+      "riskFlag": false,
+      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
+    },
     {
       "id": "gamesradar-321c588fa800c2",
       "title": "Days before GTA 6, crime game for \"thousands\" blows up despite \"Mixed\" Steam reviews and gen AI",
@@ -111,34 +172,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "eurogamer-161b2b9fb1d758",
-      "title": "Rockstar's doing a GTA 6 launch 'festival' in Miami featuring a lot of presumably expensive musical stars",
-      "excerpt": "The next-level glamour of Grand Theft Auto 6's arrival continues with word that Rockstar is hosting a star-studded launch 'festival' for the game in Miami - the game's setting-by-a-different-name.",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-miami-music-festival",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-09T15:48:30.000Z",
-      "image": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-dancing.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-e790d55a1b8a0c",
-      "title": "London department store Selfridges launches sizeable GTA 6 takeover, featuring a varsity jacket that costs an eye-watering £2,500",
-      "excerpt": "Expensive British department store Selfridges has launched a sizeable Grand Theft Auto 6 takeover, completely making-over its Oxford Street London Corner Shop store and offering a considerable line of clothing, which includes an exclusive varsity jacket that c",
-      "url": "https://www.eurogamer.net/selfridges-gta-6-collab-takeover",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-09T12:18:50.000Z",
-      "image": "https://assetsio.gnwcdn.com/shop-image.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "gamesradar-1b27caa977a0da",
       "title": "GTA 6 launch files already hint at online multiplayer, PlayStation Store sleuth reports",
       "excerpt": "Could GTA 6 Online be arriving sooner than expected?",
@@ -153,34 +186,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "eurogamer-2403aab0643868",
-      "title": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
-      "excerpt": "GTA 6 is due to release on the 19th November on PS5, and Xbox Series X/S, and ahead of the highly-anticipated launch of Rockstar's latest sandbox adventure, people just can't get enough information about the game. To that end, overnight, we saw our latest leak",
-      "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-09T09:41:40.000Z",
-      "image": "https://assetsio.gnwcdn.com/Lucia-trophies-achievements.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "eurogamer-aae1666be6b15a",
-      "title": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\"",
-      "excerpt": "Well, hello! I am once again wearing the Bertie hat in your usual host's absence, so joyous welcomes to our regular feature in which we talk about what we've been playing in recent times. This week, Marie has been revisiting Zelda - although perhaps not the on",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-07T08:02:00.000Z",
-      "image": "https://assetsio.gnwcdn.com/gtavc_header.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "pc-gamer-c4e4dd2b6f3a20",
       "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
       "excerpt": "Are we being trolled here?",
@@ -190,48 +195,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-11-06T23:11:50.000Z",
       "image": "https://cdn.mos.cms.futurecdn.net/Ga8N8nrBc2G2kBQqNRkFSG-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-2e05f2197af75b",
-      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
-      "excerpt": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than you'd expect.",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-06T12:02:40.000Z",
-      "image": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-bb60cd4a2156cb",
-      "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-      "excerpt": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6, ahead of its release later this month.",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-05T16:18:40.000Z",
-      "image": "https://assetsio.gnwcdn.com/Jason-GTA-header.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Media Watch",
-      "riskFlag": false,
-      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
-    },
-    {
-      "id": "eurogamer-ab0d321a49c42d",
-      "title": "Grand Theft Auto 6 pre-load begins on 10th November, file size and regional timings released",
-      "excerpt": "Rockstar Games have revealed the pre-load date and time for Grand Theft Auto 6. You better be prepared to clear out some storage space, and burn the midnight oil.",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-pre-load-date",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-03T15:26:02.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-pre-load.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
