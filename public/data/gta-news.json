@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T16:54:57.608Z",
+  "generatedAt": "2026-11-13T06:48:53.796Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,62 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-740ae570dc9b4e",
+      "title": "Palworld developer Pocketpair gives employees time off for 'a 5-day business trip in Vice City when GTA 6 launches'",
+      "excerpt": "Must be nice.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/palworld-developer-pocketpair-gives-employees-time-off-for-a-5-day-business-trip-in-vice-city-when-gta-6-launches/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-12T22:08:48.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/qssUN2VdpiBrvmcfvqWGdK-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-6da7c639372362",
+      "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+      "excerpt": "GTA 6 required a total of three ratings reviews by South Korea's GCRB—and Cyberleek might have had something to do with it.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-12T19:06:41.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/BngP9Kz6o4g3nurmmSzKYf-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-1ff93d7435497e",
+      "title": "Physical GTA 6 map leaks, and I need to know if it's teasing another UFO Easter egg",
+      "excerpt": "Another map leak is teasing locations across Leonida",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/physical-gta-6-map-leaks-and-i-need-to-know-if-its-teasing-another-ufo-easter-egg/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-12T18:19:00.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/GrtqtSun9vQVcmcsb63nDh-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-b1ca873175cd33",
+      "title": "Palworld devs get 5 days off to play GTA 6",
+      "excerpt": "\"We believe that such a historic occasion deserves our full attention\"",
+      "url": "https://www.gamesradar.com/games/survival/palworld-devs-get-5-days-off-to-play-gta-6-and-after-pocketpairs-ceo-vanished-to-play-slay-the-spire-2-id-say-thats-probably-wise/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-12T17:34:31.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/7maZGTkbtbJXnmxUx2qUo8-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-08fc9ae9c502c7",
       "title": "GTA 6 was almost refused classification in South Korea due to the sheer amount of genitals shown",
@@ -139,20 +195,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-a96d268179baf7",
-      "title": "Why wasn't GTA 6 at the Golden Joystick Awards?",
-      "excerpt": "You'll have to wait a little while for Leonidas",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/why-wasnt-gta-6-at-the-golden-joystick-awards/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-11T20:18:30.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/fauxF3UVUEucerkpFVot2e-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-c26de559c907fc",
       "title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
       "excerpt": "GTA 6 is finally coming out worldwide next week, putting an end to a 13-year wait and at least one popular meme format, but the highly-anticipated game might look a bit different in Japan.",
@@ -165,20 +207,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-0accd029c61a1a",
-      "title": "Quote of the day by former GTA 6 and Red Dead Redemption 2 artist: Sony and Microsoft can’t compete with Rockstar because “they do not care about making game products”",
-      "excerpt": "And Rockstar's institutional knowledge is \"absolutely priceless\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-by-former-gta-6-and-red-dead-redemption-2-artist-sony-and-microsoft-cant-compete-with-rockstar-because-they-do-not-care-about-making-game-products/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-11T18:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     },
     {
       "id": "eurogamer-d9172ed60a70c1",
@@ -218,20 +246,6 @@
       "sourceType": "publisher",
       "publishedAt": "2026-11-10T14:40:10.000Z",
       "image": "https://assetsio.gnwcdn.com/xbox-one-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "the-verge-games-5143e7b09f2d9b",
-      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
-      "excerpt": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on phones, PCs, the web, Xbox consoles, and even TVs, it appear",
-      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
-      "source": "The Verge Gaming",
-      "sourceUrl": "https://www.theverge.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-10T14:37:09.000Z",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gta6.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
@@ -442,20 +456,6 @@
       "sourceType": "official",
       "publishedAt": "2026-07-09T12:00:00.000Z",
       "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_05.0kxp6enhvzqka.jpg?akim=1&imdensity=1&imwidth=1920",
-      "category": "Official",
-      "riskFlag": false,
-      "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
-    },
-    {
-      "id": "take-two-ir-cafa150aefdb95",
-      "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI",
-      "excerpt": "Starting at Midnight Local Time on June 25, 2026 NEW YORK --(BUSINESS WIRE)--Jun. 24, 2026-- Rockstar Games ®, a publishing label of Take-Two Interactive Software, Inc. (NASDAQ: TTWO), is excited to announce that pre-orders for Grand Theft Auto VI will begin o",
-      "url": "https://ir.take2games.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi",
-      "source": "Take-Two Investor Relations",
-      "sourceUrl": "https://ir.take2games.com",
-      "sourceType": "official",
-      "publishedAt": "2026-06-24T10:15:00.000Z",
-      "image": "https://www.rockstargames.com/VI/_next/static/media/Jason_Duval_06.086o72llg6~1p.jpg?akim=1&imdensity=1&imwidth=1920",
       "category": "Official",
       "riskFlag": false,
       "moneyAngle": "Turn this into a member source-of-truth brief before building routes, preorder explainers, or course updates."
