@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:27:33.763Z",
+  "generatedAt": "2026-11-14T15:06:55.056Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-d8c8ccfab4ccaf",
+      "title": "Ahead of GTA 6, Take-Two CEO calls out Anthropic and OpenAI over AI game clones",
+      "excerpt": "After Claude blocked users from \"recreating someone else's specific game\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-14T13:10:08.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
+      "category": "Investor Radar",
+      "riskFlag": false,
+      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
+    },
+    {
+      "id": "eurogamer-41a862ef958691",
+      "title": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
+      "excerpt": "\"Get the limey out of here,\" Burt Reynolds tells the producers of GTA: Vice City during a recording session for the game, as Rockstar co-founder Dan Houser enters the studio. \"I'm not going to work if this limey Brit is in here!\" Houser refuses to leave, so th",
+      "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-14T10:00:00.000Z",
+      "image": "https://assetsio.gnwcdn.com/GTA-week-lance.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-72b53a66c6cdff",
       "title": "We tried stealing our own GTA 6 physical edition codes, and you probably shouldn't worry",
@@ -293,20 +321,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-1ff93d7435497e",
-      "title": "Physical GTA 6 map leaks, and I need to know if it's teasing another UFO Easter egg",
-      "excerpt": "Another map leak is teasing locations across Leonida",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/physical-gta-6-map-leaks-and-i-need-to-know-if-its-teasing-another-ufo-easter-egg/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-12T18:19:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/GrtqtSun9vQVcmcsb63nDh-1920-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
       "id": "eurogamer-a5099c10058c18",
       "title": "Will a Grand Theft Auto game ever be set outside of America? Rockstar offers a small glimmer of hope",
       "excerpt": "The Grand Theft Auto games have always been synonymous with America; Americana is baked into the crime series' very being. Across its history, there's only ever been one GTA game set outside America: the London-based expansion of the original game.",
@@ -445,20 +459,6 @@
       "category": "Verify First",
       "riskFlag": true,
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "eurogamer-aae1666be6b15a",
-      "title": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\"",
-      "excerpt": "Well, hello! I am once again wearing the Bertie hat in your usual host's absence, so joyous welcomes to our regular feature in which we talk about what we've been playing in recent times. This week, Marie has been revisiting Zelda - although perhaps not the on",
-      "url": "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-07T08:02:00.000Z",
-      "image": "https://assetsio.gnwcdn.com/gtavc_header.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     }
   ],
   "videos": [
