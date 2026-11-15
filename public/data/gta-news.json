@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:44:05.841Z",
+  "generatedAt": "2026-11-15T06:37:06.146Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-7f593659f2ca31",
+      "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+      "excerpt": "What, no Sideways Hank O'Mally?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-15T04:52:26.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/AkvZgaawSvDoiAwX5qbvvY-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
     {
       "id": "gamesradar-986c2b4d1192ce",
       "title": "GTA 6 will \"provide mechanisms that encourage\" empathy \"for the first time in a GTA\"",
@@ -445,20 +459,6 @@
       "category": "Investor Radar",
       "riskFlag": false,
       "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
-      "id": "eurogamer-22c0f072b67f0d",
-      "title": "GTA 6 pre-orders are tracking \"well above expectations\" and the game will \"set a new baseline\" for Take-Two, says CEO Strauss Zelnick",
-      "excerpt": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick noted that pre-orders for Grand Theft Auto 6 are tracking \"far above expectations\", and is certain that soon \"numbers will speak for themselves\" when it comes to the game.",
-      "url": "https://www.eurogamer.net/gta-6-preorders-tracking-take-two-earnings-call",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-09T22:02:50.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-earnings.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     }
   ],
   "videos": [
