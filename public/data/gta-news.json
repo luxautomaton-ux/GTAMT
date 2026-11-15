@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T06:37:06.146Z",
+  "generatedAt": "2026-11-15T15:40:56.254Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "eurogamer-0d1f4630cb2a12",
+      "title": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
+      "excerpt": "We are now just four days away from the release of GTA 6 on Xbox Series X/S and PS5, but the proximity to the much-anticipated launch date isn't stemming the tide of leaks that has been plaguing the game for much of the past year. Yesterday, a new video - seem",
+      "url": "https://www.eurogamer.net/gta-6-tracklist-leak",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-15T14:03:50.000Z",
+      "image": "https://assetsio.gnwcdn.com/dua-lipa-gta-6-the-album.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "eurogamer-8bedbfc7c6df1d",
+      "title": "What's the best GTA?",
+      "excerpt": "As we teeter on the brink of gaming's biggest launch of 2026 - perhaps even decade - so many questions swirl: which GTA 6 cars will make the best vrrrrm? Is it possible for me to be any more obsessed with that Justice theme song? On a scale of one to ten, how ",
+      "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-15T10:00:00.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-best-header-logo.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "pc-gamer-7f593659f2ca31",
       "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
@@ -431,34 +459,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-69b597bd1abc23",
-      "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
-      "excerpt": "Rockstar Games has today clarified a few remaining details about Grand Theft Auto 6's framerate target and visual settings on PlayStation 5, PS5 Pro and Xbox Series X/S. And as part of the same announcement, the developer revealed a key detail about the game's",
-      "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-10T14:40:10.000Z",
-      "image": "https://assetsio.gnwcdn.com/xbox-one-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-affe2b3a7d2073",
-      "title": "As investors ask about GTA 6 and AI, Take-Two CEO once again puts faith in dev creativity, states making hit games \"remains the purview of human beings\"",
-      "excerpt": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick fielded questions from investors after presenting the financial results of the company. One caller was concerned about AI - specifically about the proliferation of AI-powe",
-      "url": "https://www.eurogamer.net/gta-6-ai-strauss-zelnick-earnings-call-purview",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-09T22:47:40.000Z",
-      "image": "https://assetsio.gnwcdn.com/Lucia-ai-background.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
     }
   ],
   "videos": [
