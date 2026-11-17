@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T18:35:01.537Z",
+  "generatedAt": "2026-11-17T07:57:40.292Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,90 @@
     }
   ],
   "items": [
+    {
+      "id": "gamesradar-2774a50492493a",
+      "title": "Zelda: Ocarina of Time remake is 2026's best-selling physical game in the US after just 1 week",
+      "excerpt": "Rockstar: Hold my beer",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-is-2026s-best-selling-physical-game-in-the-us-after-just-1-week/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-17T00:44:34.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/NDcwNmpWzv7jvUSJ8HxNqZ-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "the-verge-games-239b39b7e67715",
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "excerpt": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE some",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "source": "The Verge Gaming",
+      "sourceUrl": "https://www.theverge.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-16T23:35:58.000Z",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "gamesradar-b42648b4911cb3",
+      "title": "Rockstar is so confident in GTA 6's weather it has The Weather Channel itself sharing screenshots",
+      "excerpt": "Grand Theft Auto weather has never looked so good",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-so-confident-in-gta-6s-weather-system-that-it-has-the-weather-channel-itself-sharing-new-screenshots/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-16T22:04:48.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/uApsAyeVZ7UzBF3CSkzzb8-1920-80.jpg",
+      "category": "Media Watch",
+      "riskFlag": false,
+      "moneyAngle": "Convert the media beat into trailer breakdowns, thumbnails, short-form hooks, and Media Vault study notes."
+    },
+    {
+      "id": "pc-gamer-a818d813180a40",
+      "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
+      "excerpt": "Despite no official word on the subject, we aren't buying that there's no GTA 6 online.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-16T20:57:03.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/9SieU3JpSSPX34eMduXqsW-1920-80.jpg",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
+    {
+      "id": "pc-gamer-559b4c1b74c303",
+      "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+      "excerpt": "Arion Kurtaj released dozens of GTA 6 videos to the public more than a year before the game was formally revealed.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-16T19:40:15.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Zb9knsapKKuVr4cW9QJkc8-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-ebf87d96b141c3",
+      "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+      "excerpt": "The 21-year-old responsible for hacking Rockstar Games and leaking in-development GTA 6 footage in 2022 has pleaded guilty to a number of offenses.",
+      "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-16T18:51:40.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-rockstar-art-jason-and-lucia-burning-car.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "category": "Verify First",
+      "riskFlag": true,
+      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
+    },
     {
       "id": "gamesradar-b1443aefa9aa7a",
       "title": "GTA 6 studio head: \"I'd never want to rebuild a city, I think that would be a lot less satisfying\"",
@@ -237,62 +321,6 @@
       "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
     },
     {
-      "id": "gamesradar-986c2b4d1192ce",
-      "title": "GTA 6 will \"provide mechanisms that encourage\" empathy \"for the first time in a GTA\"",
-      "excerpt": "Shoot and smooch",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-knows-people-want-to-play-gta-6-for-the-chaos-but-the-studio-will-also-provide-mechanisms-that-encourage-empathy-for-the-first-time-in-a-gta/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-14T18:24:35.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/WCUSnDP6CwC78uviCLYwfU-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-bc29f6267bf838",
-      "title": "As the 13-year wait for GTA 6 ends, it’s time to remember the first 10 games released in 12 years",
-      "excerpt": "The wait for GTA 6 is even more astounding when you remember how things used to be",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-the-13-year-wait-for-gta-6-finally-ending-its-time-to-remember-that-rockstar-released-the-first-10-grand-theft-auto-games-in-just-12-years/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-14T18:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/eE7nfdwpEj5wavM9kwPfCF-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-d2c0d629cb4c32",
-      "title": "GTA 6: The Album seemingly leaks with Dua Lipa and Lana Del Rey as part of the 34-song tracklist",
-      "excerpt": "Starting from zero",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-the-album-seemingly-leaks-with-dua-lipa-and-lana-del-rey-as-part-of-the-full-34-song-tracklist/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-14T17:47:21.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/24JyKBmokGVJm4K2VQmq3h-1920-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-d8c8ccfab4ccaf",
-      "title": "Ahead of GTA 6, Take-Two CEO calls out Anthropic and OpenAI over AI game clones",
-      "excerpt": "After Claude blocked users from \"recreating someone else's specific game\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-14T13:10:08.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/q9VEvTmjqXdkuDN5ZDPPxh-1920-80.jpg",
-      "category": "Investor Radar",
-      "riskFlag": false,
-      "moneyAngle": "Add it to the TTWO catalyst log as education only: source, date, market context, and no buy/sell signal."
-    },
-    {
       "id": "eurogamer-41a862ef958691",
       "title": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
       "excerpt": "\"Get the limey out of here,\" Burt Reynolds tells the producers of GTA: Vice City during a recording session for the game, as Rockstar co-founder Dan Houser enters the studio. \"I'm not going to work if this limey Brit is in here!\" Houser refuses to leave, so th",
@@ -347,20 +375,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "pc-gamer-a81853118799d5",
-      "title": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'",
-      "excerpt": "My, how times have changed.",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of/",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-13T17:12:56.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/4JWoRjt9po5WzePh4dHCof-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
       "id": "eurogamer-fb3548127861fe",
@@ -445,20 +459,6 @@
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "eurogamer-d9172ed60a70c1",
-      "title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
-      "excerpt": "UPDATE 11TH NOVEMBER: Grand Theft Auto 6 has also become the most pre-ordered game \"of all time\" on the Xbox Store, Microsoft has announced. And on that platform, again, the advice is to pre-load because of \"unprecedented demand\" for the game, a post on Xbox W",
-      "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
-      "source": "Eurogamer",
-      "sourceUrl": "https://www.eurogamer.net",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-10T16:31:30.000Z",
-      "image": "https://assetsio.gnwcdn.com/gta-6-pool-of-money.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "category": "Launch Commerce",
-      "riskFlag": false,
-      "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
     }
   ],
   "videos": [
