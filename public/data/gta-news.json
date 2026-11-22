@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:40:29.207Z",
+  "generatedAt": "2026-11-22T06:53:22.397Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -69,9 +69,23 @@
   ],
   "items": [
     {
-      "id": "pc-gamer-bd6803d86b4a28",
-      "title": "Should you proceed or postpone when you meet Abe in the Protective Custody mission in GTA 6?",
-      "excerpt": "In the Chapter 5 mission, should you meet with your lawyer now or wait and do it later?",
+      "id": "pc-gamer-cff21e0a0e1637",
+      "title": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+      "excerpt": "November 19 marked the highest-traffic day in the ISP's history.",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/comcast-at-peak-gta6-accounted-for-nearly-a-quarter-of-all-internet-traffic/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-21T21:42:29.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "pc-gamer-4625c0b4f8fbf3",
+      "title": "GTA 6 Protective Custody: Should you choose proceed or postpone when you go to meet Abe?",
+      "excerpt": "Meet with your lawyer or wait and do it later?",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-protective-custody-choice-proceed-or-postpone-meet-abe/",
       "source": "PC Gamer",
       "sourceUrl": "https://www.pcgamer.com",
@@ -445,20 +459,6 @@
       "category": "Launch Commerce",
       "riskFlag": false,
       "moneyAngle": "Use this for legal preorder guides, affiliate shopping comparisons, and launch-week buyer education."
-    },
-    {
-      "id": "gamesradar-c87914aab581a8",
-      "title": "How to get a Slim Jim in GTA 6 to steal cars without setting off an alarm",
-      "excerpt": "Finding the Slim Jim in Chapter 2 is essential if you want to get better at stealing vehicles",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-21T11:45:55.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qou3vPYzbCv7Kk3G9wfBpj-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     }
   ],
   "videos": [
