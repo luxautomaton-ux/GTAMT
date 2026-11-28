@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:13:06.288Z",
+  "generatedAt": "2026-11-28T07:53:07.081Z",
   "sourceMode": "Build-time RSS scraper for static GitHub Pages.",
   "rightsNote": "Attribution-only feed: titles, short excerpts, source labels, links, and available media thumbnails. GTA Money Team does not republish full articles.",
   "sources": [
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "pc-gamer-6f4b3b7aafd91b",
+      "title": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers",
+      "excerpt": "Adaptive triggers are my new best friends.",
+      "url": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-27T19:40:21.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/tbn9dxFAnzXNrEcFcGNpgD-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "gamesradar-2933f81ba9cdad",
+      "title": "25 things you probably missed in GTA 6",
+      "excerpt": "There are plenty of extra controls and hidden mechanics in GTA 6 that aren't made clear, so let us bring you up to speed",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-things-you-missed/",
+      "source": "GamesRadar+",
+      "sourceUrl": "https://www.gamesradar.com",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-27T18:12:39.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/nxLvhBZtowFAorye2uwEk7-1920-80.jpg",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
     {
       "id": "gamesradar-e319f18ab59143",
       "title": "GTA 6 Lucia actor \"dedicated almost a decade\" to bringing Rockstar's new protagonist to life",
@@ -321,48 +349,6 @@
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
     },
     {
-      "id": "gamesradar-fecde56f77a24d",
-      "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
-      "excerpt": "\"It's meant to shock,\" says Rob Nelson",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-was-praying-that-gta-6s-early-plot-twist-wouldnt-leak-given-everything-that-weve-gone-through/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-26T20:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/7GKLvfHyNh9cXxWFVLB7Zg-1920-80.jpg",
-      "category": "Verify First",
-      "riskFlag": true,
-      "moneyAngle": "Use this as a scam/firewall lesson: verify the claim, avoid leaks, and teach members source discipline."
-    },
-    {
-      "id": "gamesradar-13cefd1beffc52",
-      "title": "Rockstar boss knew some GTA 6 players would \"reject\" the criminal profile system",
-      "excerpt": "Grand Theft Auto 6 \"opens a new range of choices and decisions\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-boss-knew-some-gta-6-players-would-reject-the-criminal-profile-system-but-assures-you-can-still-do-whatever-you-wanted-to-do-before/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-26T18:00:00.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/qrbcWpiXwQczg2ARoHrCDA-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
-      "id": "gamesradar-2922a4279757de",
-      "title": "GTA 6 players fix the weather system themselves after Rockstar's latest patch left them hanging",
-      "excerpt": "Yes, \"it is indeed solvable,\" at least on PS5",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-players-fix-the-weather-system-themselves-after-rockstars-latest-patch-left-them-hanging-its-super-easy-and-takes-like-two-minutes/",
-      "source": "GamesRadar+",
-      "sourceUrl": "https://www.gamesradar.com",
-      "sourceType": "publisher",
-      "publishedAt": "2026-11-26T17:31:27.000Z",
-      "image": "https://cdn.mos.cms.futurecdn.net/LknmDHFCtA4v9eTgEcjHcG-1920-80.jpg",
-      "category": "News",
-      "riskFlag": false,
-      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
-    },
-    {
       "id": "eurogamer-8a7ff732b067c1",
       "title": "GTA 6 causes surge in UK physical game sales, despite there being no disc in the box",
       "excerpt": "Grand Theft Auto 6 has had a huge effect on physical game sales in the UK, despite not actually containing a disc in the box.",
@@ -456,6 +442,20 @@
       "sourceType": "publisher",
       "publishedAt": "2026-11-26T15:55:24.000Z",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "category": "News",
+      "riskFlag": false,
+      "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
+    },
+    {
+      "id": "eurogamer-0a7f8bfc8fdf44",
+      "title": "GTA 6 reportedly sets massive livestreaming record, watched more in its first week than Elden Ring, Diablo 4, Valorant, and Lost Ark combined",
+      "excerpt": "Grand Theft Auto 6 has broken another livestreaming record. After attracting more viewers across livestreaming platforms than any game ever on its launch day, Rockstar's open-world crime sim has reportedly continued to dominate on platforms like Twitch, YouTub",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net",
+      "sourceType": "publisher",
+      "publishedAt": "2026-11-26T15:32:20.000Z",
+      "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-characters-gold-ak-1.jpg?width=690&quality=85&format=jpg&auto=webp",
       "category": "News",
       "riskFlag": false,
       "moneyAngle": "Brief the crew on what changed, what is official, and what content or training update should ship next."
